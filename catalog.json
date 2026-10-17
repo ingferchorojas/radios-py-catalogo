@@ -16,13 +16,15 @@
       "website": "https://www.abc.com.py/730am/",
       "streams": [
         {
-          "url": "https://media.streambrothers.com:8342/stream",
-          "format": "mp3",
-          "source": "https://www.abc.com.py/730am/"
+          "url": "https://www.desdeparaguay.com/730",
+          "format": "hls",
+          "resolver": "desdeparaguay",
+          "endpoint": "https://rds3.desdeparaguay.net/trans730/trans730/playlist.m3u8",
+          "source": "https://www.desdeparaguay.com/730"
         }
       ],
       "source": "https://www.abc.com.py/730am/",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "aspen",
@@ -45,7 +47,7 @@
         }
       ],
       "source": "https://www.radioaspen.com.py/",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "itapua",
@@ -68,7 +70,7 @@
         }
       ],
       "source": "https://itapuafm.com.py/",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "nacional-am",
@@ -91,7 +93,7 @@
         }
       ],
       "source": "https://mediosdelestado.gov.py/radios/",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "nacional-fm",
@@ -114,7 +116,7 @@
         }
       ],
       "source": "https://mediosdelestado.gov.py/radios/",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "nacional-san-pedro",
@@ -137,7 +139,7 @@
         }
       ],
       "source": "https://mediosdelestado.gov.py/radios/",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "montecarlo",
@@ -159,7 +161,7 @@
         }
       ],
       "source": "https://www.lanacion.com.py/medios/",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "universo",
@@ -182,7 +184,7 @@
         }
       ],
       "source": "https://www.lanacion.com.py/medios/",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "corazon",
@@ -204,7 +206,7 @@
         }
       ],
       "source": "https://www.lanacion.com.py/medios/",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "popular",
@@ -227,7 +229,7 @@
         }
       ],
       "source": "https://www.lanacion.com.py/medios/",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "radio-encarnacion",
@@ -251,7 +253,7 @@
         }
       ],
       "source": "https://www.radioencarnacion.com/",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "dsd-780",
@@ -275,7 +277,7 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/780",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "dsd-680",
@@ -294,60 +296,12 @@
           "url": "https://www.desdeparaguay.com/680",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/trans680/trans680/playlist.m3u8",
+          "endpoint": "https://www.desde-paraguay.com/trans680/trans680/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/680"
         }
       ],
       "source": "https://www.desdeparaguay.com/680",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-1140",
-      "name": "Central",
-      "city": "Asunción",
-      "department": "Capital",
-      "frequency": "1140",
-      "band": "AM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/1140.png",
-      "website": "https://www.desdeparaguay.com/1140",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/1140",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/mov1140/mov1140.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/1140"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/1140",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-1330",
-      "name": "Chaco Boreal",
-      "city": "Asunción",
-      "department": "Capital",
-      "frequency": "1330",
-      "band": "AM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/1330.png",
-      "website": "https://www.desdeparaguay.com/1330",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/1330",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/mov1330/mov1330.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/1330"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/1330",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "dsd-1300",
@@ -371,55 +325,7 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/1300",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-650",
-      "name": "La Tribu",
-      "city": "Asunción",
-      "department": "Capital",
-      "frequency": "650",
-      "band": "AM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/650.png",
-      "website": "https://www.desdeparaguay.com/650",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/650",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/mov650/mov650.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/650"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/650",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-1120",
-      "name": "La Tribu Deport",
-      "city": "Asunción",
-      "department": "Capital",
-      "frequency": "1120",
-      "band": "AM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/1120.png",
-      "website": "https://www.desdeparaguay.com/1120",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/1120",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movdeport/movdeport.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/1120"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/1120",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "dsd-1000",
@@ -435,15 +341,13 @@
       "website": "https://www.desdeparaguay.com/1000",
       "streams": [
         {
-          "url": "https://www.desdeparaguay.com/1000",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/mov1000/mov1000.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/1000"
+          "url": "https://1000noticias.live:8000/radio.mp3",
+          "format": "mp3",
+          "source": "https://1000noticias.com.py/"
         }
       ],
       "source": "https://www.desdeparaguay.com/1000",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "dsd-1080",
@@ -459,159 +363,13 @@
       "website": "https://www.desdeparaguay.com/1080",
       "streams": [
         {
-          "url": "https://www.desdeparaguay.com/1080",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/trans1080/trans1080/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/1080"
+          "url": "https://mdstrm.com/audio/62d81ca6a459e4082203c95b/icecast.audio",
+          "format": "aac",
+          "source": "https://monumental.com.py/en-vivo/"
         }
       ],
       "source": "https://www.desdeparaguay.com/1080",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-1020",
-      "name": "Ñanduti",
-      "city": "Asunción",
-      "department": "Capital",
-      "frequency": "1020",
-      "band": "AM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/1020.png",
-      "website": "https://www.desdeparaguay.com/1020",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/1020",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/mov1020/mov1020.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/1020"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/1020",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-amor",
-      "name": "Amor",
-      "city": "Asunción",
-      "department": "Capital",
-      "frequency": "95.9",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/amor.png",
-      "website": "https://www.desdeparaguay.com/amor",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/amor",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movamor/movamor.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/amor"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/amor",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-anr",
-      "name": "ANR",
-      "city": "Asunción",
-      "department": "Capital",
-      "frequency": "89.9",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/anr.png",
-      "website": "https://www.desdeparaguay.com/anr",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/anr",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/transanr/transanr/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/anr"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/anr",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-aranduka",
-      "name": "Aranduka",
-      "city": "Asunción",
-      "department": "Capital",
-      "frequency": "87.9",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/aranduka.png",
-      "website": "https://www.desdeparaguay.com/aranduka",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/aranduka",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/aranduka"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/aranduka",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-camara",
-      "name": "Cámara",
-      "city": "Asunción",
-      "department": "Capital",
-      "frequency": "104.1",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/camara.png",
-      "website": "https://www.desdeparaguay.com/camara",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/camara",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/transcamara/transcamara/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/camara"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/camara",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-canal100",
-      "name": "Canal",
-      "city": "Asunción",
-      "department": "Capital",
-      "frequency": "100.1",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/canal100.png",
-      "website": "https://www.desdeparaguay.com/canal100",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/canal100",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movcanal100/movcanal100.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/canal100"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/canal100",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "dsd-cardinalromance",
@@ -635,55 +393,7 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/cardinalromance",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-cfa",
-      "name": "CFA",
-      "city": "Asunción",
-      "department": "Capital",
-      "frequency": "99.5",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/cfa.png",
-      "website": "https://www.desdeparaguay.com/cfa",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/cfa",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movcfa/movcfa.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/cfa"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/cfa",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-conquistador",
-      "name": "Conquistador",
-      "city": "Asunción",
-      "department": "Capital",
-      "frequency": "89.1",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/conquistador.png",
-      "website": "https://www.desdeparaguay.com/conquistador",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/conquistador",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movconquistador/movconquistador.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/conquistador"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/conquistador",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "dsd-radiodisney",
@@ -702,12 +412,12 @@
           "url": "https://www.desdeparaguay.com/radiodisney",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/transradiodisney/transradiodisney/playlist.m3u8",
+          "endpoint": "https://www.desde-paraguay.com/transradiodisney/transradiodisney/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/radiodisney"
         }
       ],
       "source": "https://www.desdeparaguay.com/radiodisney",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "dsd-estacion40",
@@ -723,63 +433,13 @@
       "website": "https://www.desdeparaguay.com/estacion40",
       "streams": [
         {
-          "url": "https://www.desdeparaguay.com/estacion40",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/transestacion40/transestacion40/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/estacion40"
+          "url": "https://mdstrm.com/audio/62d81cfbbfbcee0837ba1b60/icecast.audio",
+          "format": "aac",
+          "source": "https://estacion40.com.py/"
         }
       ],
       "source": "https://www.desdeparaguay.com/estacion40",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-emisoras",
-      "name": "Emisoras Paraguay",
-      "city": "Asunción",
-      "department": "Capital",
-      "frequency": "106.1",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/emisoras.png",
-      "website": "https://www.desdeparaguay.com/emisoras",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/emisoras",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/emisoras"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/emisoras",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-exclusiva",
-      "name": "Exclusiva",
-      "city": "Asunción",
-      "department": "Capital",
-      "frequency": "103.7",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/exclusiva.png",
-      "website": "https://www.desdeparaguay.com/exclusiva",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/exclusiva",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movexclusiva/movexclusiva.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/exclusiva"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/exclusiva",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "dsd-farra",
@@ -803,199 +463,7 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/farra",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-fernando",
-      "name": "Fernando de la Mora",
-      "city": "Fernando de la Mora",
-      "department": "Central",
-      "frequency": "100.5",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/fernando.png",
-      "website": "https://www.desdeparaguay.com/fernando",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/fernando",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movfernando/movfernando.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/fernando"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/fernando",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-go",
-      "name": "Go",
-      "city": "Asunción",
-      "department": "Capital",
-      "frequency": "92.3",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/go.png",
-      "website": "https://www.desdeparaguay.com/go",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/go",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movgo/movgo.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/go"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/go",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-hit",
-      "name": "Hit",
-      "city": "Asunción",
-      "department": "Capital",
-      "frequency": "91.9",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/hit.png",
-      "website": "https://www.desdeparaguay.com/hit",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/hit",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movhit/movhit.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/hit"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/hit",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-latina",
-      "name": "Latina",
-      "city": "Asunción",
-      "department": "Capital",
-      "frequency": "97.1",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/latina.png",
-      "website": "https://www.desdeparaguay.com/latina",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/latina",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movlatina/movlatina.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/latina"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/latina",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-memories",
-      "name": "Memories",
-      "city": "Asunción",
-      "department": "Capital",
-      "frequency": "97.5",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/memories.png",
-      "website": "https://www.desdeparaguay.com/memories",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/memories",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movmemories/movmemories.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/memories"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/memories",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-mix",
-      "name": "Mix",
-      "city": "Asunción",
-      "department": "Capital",
-      "frequency": "90.3",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/mix.png",
-      "website": "https://www.desdeparaguay.com/mix",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/mix",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movmix/movmix.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/mix"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/mix",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-nihongakko",
-      "name": "Nihon Gakko",
-      "city": "Asunción",
-      "department": "Capital",
-      "frequency": "101.7",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/nihongakko.png",
-      "website": "https://www.desdeparaguay.com/nihongakko",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/nihongakko",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movnihongakko/movnihongakko.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/nihongakko"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/nihongakko",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-883",
-      "name": "Ñemby",
-      "city": "Ñemby",
-      "department": "Central",
-      "frequency": "88.3",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/883.png",
-      "website": "https://www.desdeparaguay.com/883",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/883",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/mov883/mov883.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/883"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/883",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "dsd-rockandpop",
@@ -1019,1087 +487,7 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/rockandpop",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-romance",
-      "name": "Romance",
-      "city": "Asunción",
-      "department": "Capital",
-      "frequency": "104.5",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/romance.png",
-      "website": "https://www.desdeparaguay.com/romance",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/romance",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movromance/movromance.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/romance"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/romance",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-tropicalia",
-      "name": "Tropicalia",
-      "city": "Asunción",
-      "department": "Capital",
-      "frequency": "93.9",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/tropicalia.png",
-      "website": "https://www.desdeparaguay.com/tropicalia",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/tropicalia",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movtropicalia/movtropicalia.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/tropicalia"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/tropicalia",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-venus",
-      "name": "Venus",
-      "city": "Asunción",
-      "department": "Capital",
-      "frequency": "105.1",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/venus.png",
-      "website": "https://www.desdeparaguay.com/venus",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/venus",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movvenus/movvenus.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/venus"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/venus",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-vibras",
-      "name": "Vibras",
-      "city": "Asunción",
-      "department": "Capital",
-      "frequency": "92.7",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/vibras.png",
-      "website": "https://www.desdeparaguay.com/vibras",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/vibras",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/vibras"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/vibras",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-sanandres",
-      "name": "San Andrés",
-      "city": "Alto Verá",
-      "department": "Itapúa",
-      "frequency": "103.7",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/sanandres.png",
-      "website": "https://www.desdeparaguay.com/sanandres",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/sanandres",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movsanandres/movsanandres.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/sanandres"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/sanandres",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-atyra",
-      "name": "Atyra",
-      "city": "Atyrá",
-      "department": "Cordillera",
-      "frequency": "105.7",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/atyra.png",
-      "website": "https://www.desdeparaguay.com/atyra",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/atyra",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movatyra/movatyra.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/atyra"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/atyra",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-serrania",
-      "name": "Serranía",
-      "city": "Caacupé",
-      "department": "Cordillera",
-      "frequency": "99.7",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/serrania.png",
-      "website": "https://www.desdeparaguay.com/serrania",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/serrania",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movserrania/movserrania.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/serrania"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/serrania",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-centenario",
-      "name": "Centenario",
-      "city": "Caaguazú",
-      "department": "Caaguazú",
-      "frequency": "99.5",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/centenario.png",
-      "website": "https://www.desdeparaguay.com/centenario",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/centenario",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movcentenario/movcentenario.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/centenario"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/centenario",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-caraguatay",
-      "name": "Caraguatay",
-      "city": "Caraguatay",
-      "department": "Cordillera",
-      "frequency": "90.3",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/caraguatay.png",
-      "website": "https://www.desdeparaguay.com/caraguatay",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/caraguatay",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movcaraguatay/movcaraguatay.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/caraguatay"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/caraguatay",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-altopy",
-      "name": "Alto Paraguay",
-      "city": "Carmelo Peralta",
-      "department": "Alto Paraguay",
-      "frequency": "99.9",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/altopy.png",
-      "website": "https://www.desdeparaguay.com/altopy",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/altopy",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movaltopy/movaltopy.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/altopy"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/altopy",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-abc",
-      "name": "ABC",
-      "city": "Ciudad del Este",
-      "department": "Alto Paraná",
-      "frequency": "107.1",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/abc.png",
-      "website": "https://www.desdeparaguay.com/abc",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/abc",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/trans730/trans730cde/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/abc"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/abc",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-universocde",
-      "name": "Universo",
-      "city": "Ciudad del Este",
-      "department": "Alto Paraná",
-      "frequency": "92.5",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/universocde.png",
-      "website": "https://www.desdeparaguay.com/universocde",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/universocde",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/transuniverso/transuniverso/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/universocde"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/universocde",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-660",
-      "name": "Regional",
-      "city": "Concepción",
-      "department": "Concepción",
-      "frequency": "660",
-      "band": "AM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/660.png",
-      "website": "https://www.desdeparaguay.com/660",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/660",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/mov660/mov660.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/660"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/660",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-aquidaban",
-      "name": "Aquidabán",
-      "city": "Concepción",
-      "department": "Concepción",
-      "frequency": "100.5",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/aquidaban.png",
-      "website": "https://www.desdeparaguay.com/aquidaban",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/aquidaban",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movaquidaban/movaquidaban.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/aquidaban"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/aquidaban",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-concepcion",
-      "name": "Concepción",
-      "city": "Concepción",
-      "department": "Concepción",
-      "frequency": "103.7",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/concepcion.png",
-      "website": "https://www.desdeparaguay.com/concepcion",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/concepcion",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movconcepcion/movconcepcion.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/concepcion"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/concepcion",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-lacosta",
-      "name": "La Costa",
-      "city": "Concepción",
-      "department": "Concepción",
-      "frequency": "106.1",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/lacosta.png",
-      "website": "https://www.desdeparaguay.com/lacosta",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/lacosta",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movlacosta/movlacosta.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/lacosta"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/lacosta",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-megaestacion95",
-      "name": "Megaestación",
-      "city": "Concepción",
-      "department": "Concepción",
-      "frequency": "95.9",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/megaestacion95.png",
-      "website": "https://www.desdeparaguay.com/megaestacion95",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/megaestacion95",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movmegaestacion95/movmegaestacion95.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/megaestacion95"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/megaestacion95",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-kaaguazu",
-      "name": "Kaaguazú",
-      "city": "Coronel Oviedo",
-      "department": "Caaguazú",
-      "frequency": "640",
-      "band": "AM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/kaaguazu.png",
-      "website": "https://www.desdeparaguay.com/kaaguazu",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/kaaguazu",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/kaaguazu"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/kaaguazu",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-capital",
-      "name": "Capital",
-      "city": "Coronel Oviedo",
-      "department": "Caaguazú",
-      "frequency": "101.7",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/capital.png",
-      "website": "https://www.desdeparaguay.com/capital",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/capital",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movcapital/movcapital.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/capital"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/capital",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-delsol",
-      "name": "Del Sol",
-      "city": "Coronel Oviedo",
-      "department": "Caaguazú",
-      "frequency": "93.1",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/delsol.png",
-      "website": "https://www.desdeparaguay.com/delsol",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/delsol",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movdelsol/movdelsol.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/delsol"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/delsol",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-fiesta",
-      "name": "Fiesta",
-      "city": "Coronel Oviedo",
-      "department": "Caaguazú",
-      "frequency": "102.9",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/fiesta.png",
-      "website": "https://www.desdeparaguay.com/fiesta",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/fiesta",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movfiesta/movfiesta.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/fiesta"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/fiesta",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-radiomas",
-      "name": "Más",
-      "city": "Coronel Oviedo",
-      "department": "Caaguazú",
-      "frequency": "102.3",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/radiomas.png",
-      "website": "https://www.desdeparaguay.com/radiomas",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/radiomas",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movradiomas/movradiomas.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/radiomas"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/radiomas",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-agr",
-      "name": "AGR",
-      "city": "Curuguaty",
-      "department": "Canindeyú",
-      "frequency": "101.3",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/agr.png",
-      "website": "https://www.desdeparaguay.com/agr",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/agr",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movagr/movagr.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/agr"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/agr",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-curuguaty",
-      "name": "Curuguaty",
-      "city": "Curuguaty",
-      "department": "Canindeyú",
-      "frequency": "98.7",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/curuguaty.png",
-      "website": "https://www.desdeparaguay.com/curuguaty",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/curuguaty",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movcuruguaty/movcuruguaty.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/curuguaty"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/curuguaty",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-parana",
-      "name": "Paraná",
-      "city": "Encarnación",
-      "department": "Itapúa",
-      "frequency": "89.7",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/parana.png",
-      "website": "https://www.desdeparaguay.com/parana",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/parana",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movparana/movparana.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/parana"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/parana",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-santahelena",
-      "name": "Santa Helena",
-      "city": "Encarnación",
-      "department": "Itapúa",
-      "frequency": "103.9",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/santahelena.png",
-      "website": "https://www.desdeparaguay.com/santahelena",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/santahelena",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movsantahelena/movsantahelena.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/santahelena"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/santahelena",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-evolucion",
-      "name": "Evolución",
-      "city": "Eusebio Ayala",
-      "department": "Cordillera",
-      "frequency": "89.3",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/evolucion.png",
-      "website": "https://www.desdeparaguay.com/evolucion",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/evolucion",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movevolucion/movevolucion.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/evolucion"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/evolucion",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-medano",
-      "name": "Medano",
-      "city": "Filadelfia",
-      "department": "Boquerón",
-      "frequency": "99.7",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/medano.png",
-      "website": "https://www.desdeparaguay.com/medano",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/medano",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movmedano/movmedano.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/medano"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/medano",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-continental",
-      "name": "Continental",
-      "city": "Horqueta",
-      "department": "Concepción",
-      "frequency": "95.3",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/continental.png",
-      "website": "https://www.desdeparaguay.com/continental",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/continental",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movcontinental/movcontinental.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/continental"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/continental",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-losangeles",
-      "name": "Los Angeles",
-      "city": "Horqueta",
-      "department": "Concepción",
-      "frequency": "89.9",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/losangeles.png",
-      "website": "https://www.desdeparaguay.com/losangeles",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/losangeles",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/losangeles"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/losangeles",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-multiradio",
-      "name": "Multi",
-      "city": "Paraguarí",
-      "department": "Paraguarí",
-      "frequency": "104.1",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/multiradio.png",
-      "website": "https://www.desdeparaguay.com/multiradio",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/multiradio",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movmultiradio/movmultiradio.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/multiradio"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/multiradio",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-yacyreta",
-      "name": "Yacyreta",
-      "city": "Paraguarí",
-      "department": "Paraguarí",
-      "frequency": "98.9",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/yacyreta.png",
-      "website": "https://www.desdeparaguay.com/yacyreta",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/yacyreta",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movyacyreta/movyacyreta.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/yacyreta"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/yacyreta",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-arapy",
-      "name": "Arapy",
-      "city": "Pilar",
-      "department": "Ñeembucú",
-      "frequency": "98.1",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/arapy.png",
-      "website": "https://www.desdeparaguay.com/arapy",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/arapy",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movarapy/movarapy.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/arapy"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/arapy",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-1069",
-      "name": "Pilar Pilar",
-      "city": "Pilar",
-      "department": "Ñeembucú",
-      "frequency": "106.9",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/1069.png",
-      "website": "https://www.desdeparaguay.com/1069",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/1069",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/mov1069/mov1069.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/1069"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/1069",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-piribebuy",
-      "name": "Piribebuy",
-      "city": "Piribebuy",
-      "department": "Cordillera",
-      "frequency": "96.7",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/piribebuy.png",
-      "website": "https://www.desdeparaguay.com/piribebuy",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/piribebuy",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movpiribebuy/movpiribebuy.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/piribebuy"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/piribebuy",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-arandu",
-      "name": "Arandú",
-      "city": "Salto del Guairá",
-      "department": "Canindeyú",
-      "frequency": "98.3",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/arandu.png",
-      "website": "https://www.desdeparaguay.com/arandu",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/arandu",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movarandu/movarandu.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/arandu"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/arandu",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-saltosdelguaira",
-      "name": "Multi",
-      "city": "Salto del Guairá",
-      "department": "Canindeyú",
-      "frequency": "98.9",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/saltosdelguaira.png",
-      "website": "https://www.desdeparaguay.com/saltosdelguaira",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/saltosdelguaira",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movsaltosdelguaira/movsaltosdelguaira.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/saltosdelguaira"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/saltosdelguaira",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-ciudad",
-      "name": "Ciudad",
-      "city": "San Estanislao",
-      "department": "San Pedro",
-      "frequency": "92.9",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/ciudad.png",
-      "website": "https://www.desdeparaguay.com/ciudad",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/ciudad",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movciudad/movciudad.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/ciudad"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/ciudad",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-tapiracuai",
-      "name": "Tapiracuai",
-      "city": "San Estanislao",
-      "department": "San Pedro",
-      "frequency": "88.7",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/tapiracuai.png",
-      "website": "https://www.desdeparaguay.com/tapiracuai",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/tapiracuai",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movtapiracuai/movtapiracuai.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/tapiracuai"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/tapiracuai",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-unasur",
-      "name": "Unasur",
-      "city": "San Ignacio",
-      "department": "Misiones",
-      "frequency": "93.7",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/unasur.png",
-      "website": "https://www.desdeparaguay.com/unasur",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/unasur",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movunasur/movunasur.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/unasur"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/unasur",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-pueblo",
-      "name": "Pueblo",
-      "city": "San José Obrero",
-      "department": "Cordillera",
-      "frequency": "87.9",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/pueblo.png",
-      "website": "https://www.desdeparaguay.com/pueblo",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/pueblo",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movpueblo/movpueblo.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/pueblo"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/pueblo",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-metro",
-      "name": "Metro",
-      "city": "Santa Rosa de Lima",
-      "department": "Misiones",
-      "frequency": "106.1",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/metro.png",
-      "website": "https://www.desdeparaguay.com/metro",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/metro",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movmetro/movmetro.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/metro"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/metro",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-sanguri",
-      "name": "Sanguri",
-      "city": "Santa Rosa de Lima",
-      "department": "Misiones",
-      "frequency": "90.7",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/sanguri.png",
-      "website": "https://www.desdeparaguay.com/sanguri",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/sanguri",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movsanguri/movsanguri.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/sanguri"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/sanguri",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-itapora",
-      "name": "Ita Pora",
-      "city": "Vallemí",
-      "department": "Concepción",
-      "frequency": "98.9",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/itapora.png",
-      "website": "https://www.desdeparaguay.com/itapora",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/itapora",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movitapora/movitapora.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/itapora"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/itapora",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-republica",
-      "name": "República",
-      "city": "Villarrica",
-      "department": "Guairá",
-      "frequency": "101.3",
-      "band": "FM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/republica.png",
-      "website": "https://www.desdeparaguay.com/republica",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/republica",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movrepublica/movrepublica.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/republica"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/republica",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "dsd-tvillarrica",
@@ -2123,7 +511,7 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/tvillarrica",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "dsd-visionfm",
@@ -2142,36 +530,12 @@
           "url": "https://www.desdeparaguay.com/visionfm",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movvision/movvision.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movvision/movvision.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/visionfm"
         }
       ],
       "source": "https://www.desdeparaguay.com/visionfm",
-      "verifiedAt": "2026-10-07"
-    },
-    {
-      "id": "dsd-1250",
-      "name": "Asunción",
-      "city": "Asunción",
-      "department": "Capital",
-      "frequency": "1250",
-      "band": "AM",
-      "categories": [
-        "Radio"
-      ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/1250.png",
-      "website": "https://www.desdeparaguay.com/1250",
-      "streams": [
-        {
-          "url": "https://www.desdeparaguay.com/1250",
-          "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://www.desde-paraguay.com/trans1250/trans1250/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/1250"
-        }
-      ],
-      "source": "https://www.desdeparaguay.com/1250",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "dsd-palma",
@@ -2193,7 +557,7 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/palma",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-16"
     },
     {
       "id": "dsd-urbana",
@@ -2215,31 +579,141 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/urbana",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-16"
     },
     {
-      "id": "dsd-villaoliva",
-      "name": "Villa Oliva",
-      "city": "Villa Oliva",
-      "department": "Ñeembucú",
-      "frequency": "88.7",
+      "id": "dsd-rqp",
+      "name": "RQP",
+      "city": "Asunción",
+      "department": "Capital",
+      "frequency": "94.3",
       "band": "FM",
       "categories": [
         "Radio"
       ],
-      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/villaoliva.png",
-      "website": "https://www.desdeparaguay.com/villaoliva",
+      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/rqp.png",
+      "website": "https://www.desdeparaguay.com/rqp",
       "streams": [
         {
-          "url": "https://www.desdeparaguay.com/villaoliva",
+          "url": "https://d1uu5dg4igbs5z.cloudfront.net/hls/ekhafm3q14dj/3/index.m3u8",
           "format": "hls",
-          "resolver": "desdeparaguay",
-          "endpoint": "https://www.desde-paraguay.com/mov1330b/mov1330b.stream/playlist.m3u8",
-          "source": "https://www.desdeparaguay.com/villaoliva"
+          "source": "https://www.desdeparaguay.com/rqp"
         }
       ],
-      "source": "https://www.desdeparaguay.com/villaoliva",
-      "verifiedAt": "2026-10-07"
+      "source": "https://www.desdeparaguay.com/rqp",
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "id": "dsd-1420",
+      "name": "Guyrá Campana",
+      "city": "Horqueta",
+      "department": "Concepción",
+      "frequency": "1420",
+      "band": "AM",
+      "categories": [
+        "Radio"
+      ],
+      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/1420.png",
+      "website": "https://www.desdeparaguay.com/1420",
+      "streams": [
+        {
+          "url": "https://www.desdeparaguay.com/1420",
+          "format": "hls",
+          "resolver": "desdeparaguay",
+          "source": "https://www.desdeparaguay.com/1420",
+          "endpoint": "https://zn1radios.desdeparaguay.net/mov1420/mov1420.stream/playlist.m3u8"
+        }
+      ],
+      "source": "https://www.desdeparaguay.com/1420",
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "id": "dsd-concierto",
+      "name": "Concierto",
+      "city": "Ciudad del Este",
+      "department": "Alto Paraná",
+      "frequency": "89.1",
+      "band": "FM",
+      "categories": [
+        "Radio"
+      ],
+      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/concierto.png",
+      "website": "https://www.desdeparaguay.com/concierto",
+      "streams": [
+        {
+          "url": "https://radio.host.com.py/9572/stream",
+          "format": "aac",
+          "source": "https://radioconcierto.com.py/"
+        }
+      ],
+      "source": "https://www.desdeparaguay.com/concierto",
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "id": "obedira",
+      "name": "Radio Obedira",
+      "city": "Asunción",
+      "department": "Capital",
+      "frequency": "102.1",
+      "band": "FM",
+      "categories": [
+        "Radio"
+      ],
+      "logo": null,
+      "website": "https://www.obedira.com.py/",
+      "streams": [
+        {
+          "url": "https://s17.ssl-stream.com/proxy/obedira?mp=/live",
+          "format": "mp3",
+          "source": "https://de1.api.radio-browser.info/json/stations/bycountrycodeexact/PY"
+        }
+      ],
+      "source": "https://www.obedira.com.py/",
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "id": "la-clave",
+      "name": "Radio La Clave",
+      "city": "Ciudad del Este",
+      "department": "Alto Paraná",
+      "frequency": "103.9",
+      "band": "FM",
+      "categories": [
+        "Radio"
+      ],
+      "logo": null,
+      "website": "https://www.radiolaclave.com.py/",
+      "streams": [
+        {
+          "url": "https://radio.host.com.py:7181/",
+          "format": "aac",
+          "source": "https://de1.api.radio-browser.info/json/stations/bycountrycodeexact/PY"
+        }
+      ],
+      "source": "https://www.radiolaclave.com.py/",
+      "verifiedAt": "2026-10-16"
+    },
+    {
+      "id": "educacion",
+      "name": "Radio Educación",
+      "city": "Ciudad del Este",
+      "department": "Alto Paraná",
+      "frequency": "99.7",
+      "band": "FM",
+      "categories": [
+        "Radio"
+      ],
+      "logo": null,
+      "website": "https://educacionfm.com.py/",
+      "streams": [
+        {
+          "url": "https://proxy01.servidorenlinea.net/cdehosting/8050/;",
+          "format": "aac",
+          "source": "https://de1.api.radio-browser.info/json/stations/bycountrycodeexact/PY"
+        }
+      ],
+      "source": "https://educacionfm.com.py/",
+      "verifiedAt": "2026-10-16"
     }
   ]
 }
