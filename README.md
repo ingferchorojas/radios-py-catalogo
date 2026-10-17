@@ -4,8 +4,6 @@ Catálogo público de emisoras paraguayas utilizado por Radios PY. Este reposito
 
 URL pública: https://ingferchorojas.github.io/radios-py-catalogo/catalog.json
 
-Última revisión: **16 de octubre de 2026**, con 31 emisoras activas. El [informe de verificación](VERIFICATION.md) detalla altas, reparaciones y limitaciones. Las emisoras sin audio en dos intentos se conservan en [el archivo de recuperación](archive/unavailable-2026-10-16.json); un fallo puede ser temporal y no implica que hayan cerrado.
-
 ## Actualizar
 
 Editá `catalog.json` y guardá los cambios en la rama `main`. GitHub Pages publica los cambios automáticamente; la publicación y la caché pueden demorar unos minutos.
