@@ -1,0 +1,51 @@
+name: Publish catalog to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths: [catalog.json, index.html, .nojekyll, .github/workflows/pages.yml]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: catalog-pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      - name: Validate and prepare public files
+        run: |
+          python3 - <<'PY'
+          import json
+          from urllib.parse import urlsplit
+          with open('catalog.json') as f:
+              c = json.load(f)
+          assert c['version'] == 1 and 1 <= len(c['stations']) <= 500
+          assert len({s['id'] for s in c['stations']}) == len(c['stations'])
+          for s in c['stations']:
+              assert s['streams']
+              for stream in s['streams']:
+                  assert stream['format'] in ('hls', 'aac', 'mp3')
+                  for field in ('url', 'source'):
+                      u = urlsplit(stream[field])
+                      assert u.scheme == 'https' and u.hostname and not u.username and not u.password
+          PY
+          mkdir _site
+          cp catalog.json index.html .nojekyll _site/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
