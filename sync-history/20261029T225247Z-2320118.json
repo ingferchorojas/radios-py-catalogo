@@ -1,0 +1,362 @@
+{
+  "baseCommit": "4934ccea90298138630fe56280634666d2da09ad",
+  "createdAt": "2026-10-29T23:09:50.484912+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "abc-cardinal",
+      "name": "ABC Cardinal",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/730",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/trans730/trans730/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/730"
+      },
+      "position": "prepend",
+      "verifiedAt": "2026-10-29",
+      "confirmations": [
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": "aspen",
+      "name": "Aspen",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/aspen",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/aspen"
+      },
+      "position": "append",
+      "verifiedAt": "2026-10-29",
+      "confirmations": [
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": "dsd-1330",
+      "name": "Chaco Boreal",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/1330",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/mov1330/mov1330.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/1330"
+      },
+      "position": "append",
+      "verifiedAt": "2026-10-29",
+      "confirmations": [
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": "dsd-650",
+      "name": "La Tribu",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/650",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/mov650/mov650.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/650"
+      },
+      "position": "prepend",
+      "verifiedAt": "2026-10-29",
+      "confirmations": [
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": "dsd-1120",
+      "name": "La Tribu Deport",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/1120",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movdeport/movdeport.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/1120"
+      },
+      "position": "prepend",
+      "verifiedAt": "2026-10-29",
+      "confirmations": [
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": "dsd-1020",
+      "name": "Ñanduti",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/1020",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/mov1020/mov1020.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/1020"
+      },
+      "position": "prepend",
+      "verifiedAt": "2026-10-29",
+      "confirmations": [
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": "dsd-anr",
+      "name": "ANR",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/anr",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/transanr/transanr/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/anr"
+      },
+      "position": "prepend",
+      "verifiedAt": "2026-10-29",
+      "confirmations": [
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": "dsd-camara",
+      "name": "Cámara",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/camara",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/transcamara/transcamara/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/camara"
+      },
+      "position": "prepend",
+      "verifiedAt": "2026-10-29",
+      "confirmations": [
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": "dsd-canal100",
+      "name": "Canal",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/canal100",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movcanal100/movcanal100.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/canal100"
+      },
+      "position": "prepend",
+      "verifiedAt": "2026-10-29",
+      "confirmations": [
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": "dsd-exclusiva",
+      "name": "Exclusiva",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/exclusiva",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movexclusiva/movexclusiva.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/exclusiva"
+      },
+      "position": "prepend",
+      "verifiedAt": "2026-10-29",
+      "confirmations": [
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": "dsd-fernando",
+      "name": "Fernando de la Mora",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/fernando",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movfernando/movfernando.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/fernando"
+      },
+      "position": "prepend",
+      "verifiedAt": "2026-10-29",
+      "confirmations": [
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": "dsd-go",
+      "name": "Go",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/go",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movgo/movgo.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/go"
+      },
+      "position": "prepend",
+      "verifiedAt": "2026-10-29",
+      "confirmations": [
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": "dsd-latina",
+      "name": "Latina",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/latina",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movlatina/movlatina.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/latina"
+      },
+      "position": "prepend",
+      "verifiedAt": "2026-10-29",
+      "confirmations": [
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": "dsd-rockandpop",
+      "name": "Rock & Pop",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/rockandpop",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movrockandpop/movrockandpop.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/rockandpop"
+      },
+      "position": "prepend",
+      "verifiedAt": "2026-10-29",
+      "confirmations": [
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": "dsd-romance",
+      "name": "Romance",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/romance",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movromance/movromance.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/romance"
+      },
+      "position": "prepend",
+      "verifiedAt": "2026-10-29",
+      "confirmations": [
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": "dsd-tropicalia",
+      "name": "Tropicalia",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/tropicalia",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movtropicalia/movtropicalia.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/tropicalia"
+      },
+      "position": "prepend",
+      "verifiedAt": "2026-10-29",
+      "confirmations": [
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "id": "dsd-vibras",
+      "name": "Vibras",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/vibras",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/vibras"
+      },
+      "position": "prepend",
+      "verifiedAt": "2026-10-29",
+      "confirmations": [
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "action": "add_station",
+      "id": "dsd-1059",
+      "name": "Nacional San Pedro",
+      "station": {
+        "id": "dsd-1059",
+        "name": "Nacional San Pedro",
+        "city": "San Pedro",
+        "department": "Sin confirmar",
+        "frequency": "105.9",
+        "band": "FM",
+        "categories": [
+          "Radio"
+        ],
+        "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/1059.png?4",
+        "website": "https://www.desdeparaguay.com/1059",
+        "source": "https://www.desdeparaguay.com/1059",
+        "streams": [
+          {
+            "url": "https://www.desdeparaguay.com/1059",
+            "format": "hls",
+            "resolver": "desdeparaguay",
+            "endpoint": "https://rds3.desdeparaguay.net/transsanpedro/transsanpedro/playlist.m3u8",
+            "source": "https://www.desdeparaguay.com/1059"
+          }
+        ],
+        "verifiedAt": "2026-10-29"
+      },
+      "confirmations": [
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "action": "add_station",
+      "id": "dsd-800",
+      "name": "La Unión",
+      "station": {
+        "id": "dsd-800",
+        "name": "La Unión",
+        "city": "Asunción",
+        "department": "Capital",
+        "frequency": "800",
+        "band": "AM",
+        "categories": [
+          "Radio"
+        ],
+        "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/800.png?4",
+        "website": "https://www.desdeparaguay.com/800",
+        "source": "https://www.desdeparaguay.com/800",
+        "streams": [
+          {
+            "url": "https://www.desdeparaguay.com/800",
+            "format": "hls",
+            "resolver": "desdeparaguay",
+            "endpoint": "https://rds3.desdeparaguay.net/mov800/mov800.stream/playlist.m3u8",
+            "source": "https://www.desdeparaguay.com/800"
+          }
+        ],
+        "verifiedAt": "2026-10-29"
+      },
+      "confirmations": [
+        1.0,
+        1.0
+      ]
+    }
+  ]
+}
