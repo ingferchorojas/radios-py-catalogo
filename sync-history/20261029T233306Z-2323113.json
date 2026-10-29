@@ -1,0 +1,40 @@
+{
+  "baseCommit": "1321ba39b3b052fde852d18560e9b3f7cc1354d3",
+  "createdAt": "2026-10-29T23:50:17.452014+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "add_station",
+      "id": "dsd-yariguaa",
+      "name": "Yarigua'a",
+      "station": {
+        "id": "dsd-yariguaa",
+        "name": "Yarigua'a",
+        "city": "Paraguarí",
+        "department": "Paraguarí",
+        "frequency": "87.9",
+        "band": "FM",
+        "categories": [
+          "Radio"
+        ],
+        "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/yariguaa.png?4",
+        "website": "https://www.desdeparaguay.com/yariguaa",
+        "source": "https://www.desdeparaguay.com/yariguaa",
+        "streams": [
+          {
+            "url": "https://www.desdeparaguay.com/yariguaa",
+            "format": "hls",
+            "resolver": "desdeparaguay",
+            "endpoint": "https://zn1radios.desdeparaguay.net/movyariguaa/movyariguaa.stream/playlist.m3u8",
+            "source": "https://www.desdeparaguay.com/yariguaa"
+          }
+        ],
+        "verifiedAt": "2026-10-29"
+      },
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    }
+  ]
+}
