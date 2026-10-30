@@ -1881,7 +1881,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/delsol",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T05:18:59.177092+00:00"
+      }
     },
     {
       "id": "dsd-fiesta",
@@ -2311,7 +2316,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/piribebuy",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T05:18:59.177092+00:00"
+      }
     },
     {
       "id": "dsd-arandu",
