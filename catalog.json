@@ -1359,16 +1359,22 @@
           "url": "https://www.desdeparaguay.com/venus",
           "format": "hls",
           "resolver": "desdeparaguay",
+          "endpoint": "https://rds3.desdeparaguay.net/movvenus/movvenus.stream/playlist.m3u8",
+          "source": "https://www.desdeparaguay.com/venus"
+        },
+        {
+          "url": "https://www.desdeparaguay.com/venus",
+          "format": "hls",
+          "resolver": "desdeparaguay",
           "endpoint": "https://zn1radios.desdeparaguay.net/movvenus/movvenus.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/venus"
         }
       ],
       "source": "https://www.desdeparaguay.com/venus",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+        "status": "available",
+        "checkedAt": "2026-10-30T12:43:58.836133+00:00"
       }
     },
     {
@@ -2781,9 +2787,8 @@
       "source": "https://www.desdeparaguay.com/rqp",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "silence",
-        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+        "status": "available",
+        "checkedAt": "2026-10-30T12:43:58.836133+00:00"
       }
     },
     {
