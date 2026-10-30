@@ -1,0 +1,30 @@
+{
+  "baseCommit": "aa28771dfdcdf47100964d50e047d4f066a93a69",
+  "createdAt": "2026-10-30T10:15:21.305699+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-cardinalromance",
+      "name": "Cardinal Romance",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-30T10:15:20.438376+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-pueblo",
+      "name": "Pueblo",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T10:15:20.438376+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
