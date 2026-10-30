@@ -1148,9 +1148,8 @@
       "source": "https://www.desdeparaguay.com/memories",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+        "status": "available",
+        "checkedAt": "2026-10-30T23:12:03.763480+00:00"
       }
     },
     {
@@ -1184,9 +1183,8 @@
       "source": "https://www.desdeparaguay.com/mix",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+        "status": "available",
+        "checkedAt": "2026-10-30T23:12:03.763480+00:00"
       }
     },
     {
@@ -3175,7 +3173,12 @@
           "source": "https://www.desdeparaguay.com/ycuamandyyu"
         }
       ],
-      "verifiedAt": "2026-10-30"
+      "verifiedAt": "2026-10-30",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T23:12:03.763480+00:00"
+      }
     },
     {
       "id": "dsd-1200",
