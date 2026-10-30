@@ -1,0 +1,18 @@
+{
+  "baseCommit": "c682eada1d04641651c772c67f704116dfafcad6",
+  "createdAt": "2026-10-30T09:16:11.978339+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-1300",
+      "name": "Fe y Alegría",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-30T09:16:11.189568+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
