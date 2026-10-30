@@ -1,0 +1,40 @@
+{
+  "baseCommit": "d21d46f3031d6b6b901bfb9ea052d9bf9390b555",
+  "createdAt": "2026-10-30T13:43:24.953060+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-aquidaban",
+      "name": "Aquidabán",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-30T13:43:24.096064+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-losangeles",
+      "name": "Los Angeles",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-30T13:43:24.096064+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-arapy",
+      "name": "Arapy",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-30T13:43:24.096064+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
