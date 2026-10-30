@@ -2434,16 +2434,22 @@
           "url": "https://www.desdeparaguay.com/tapiracuai",
           "format": "hls",
           "resolver": "desdeparaguay",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movtapiracuai/movtapiracuai.stream/playlist.m3u8",
+          "source": "https://www.desdeparaguay.com/tapiracuai"
+        },
+        {
+          "url": "https://www.desdeparaguay.com/tapiracuai",
+          "format": "hls",
+          "resolver": "desdeparaguay",
           "endpoint": "https://rds3.desdeparaguay.net/movtapiracuai/movtapiracuai.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/tapiracuai"
         }
       ],
       "source": "https://www.desdeparaguay.com/tapiracuai",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+        "status": "available",
+        "checkedAt": "2026-10-30T14:43:03.697444+00:00"
       }
     },
     {
