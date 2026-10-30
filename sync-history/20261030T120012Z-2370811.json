@@ -1,0 +1,18 @@
+{
+  "baseCommit": "c3b03edcabbe488d1e25364c385a60336a6e7de3",
+  "createdAt": "2026-10-30T12:14:30.883228+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-ypane",
+      "name": "Ypané",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-30T12:14:30.029192+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
