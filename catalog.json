@@ -1503,9 +1503,8 @@
       "source": "https://www.desdeparaguay.com/serrania",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+        "status": "available",
+        "checkedAt": "2026-10-30T08:46:24.089479+00:00"
       }
     },
     {
@@ -1660,16 +1659,22 @@
           "url": "https://www.desdeparaguay.com/660",
           "format": "hls",
           "resolver": "desdeparaguay",
+          "endpoint": "https://rds3.desdeparaguay.net/mov660/mov660.stream/playlist.m3u8",
+          "source": "https://www.desdeparaguay.com/660"
+        },
+        {
+          "url": "https://www.desdeparaguay.com/660",
+          "format": "hls",
+          "resolver": "desdeparaguay",
           "endpoint": "https://zn1radios.desdeparaguay.net/mov660/mov660.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/660"
         }
       ],
       "source": "https://www.desdeparaguay.com/660",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+        "status": "available",
+        "checkedAt": "2026-10-30T08:46:24.089479+00:00"
       }
     },
     {
@@ -1874,16 +1879,22 @@
           "url": "https://www.desdeparaguay.com/delsol",
           "format": "hls",
           "resolver": "desdeparaguay",
+          "endpoint": "https://rds3.desdeparaguay.net/movdelsol/movdelsol.stream/playlist.m3u8",
+          "source": "https://www.desdeparaguay.com/delsol"
+        },
+        {
+          "url": "https://www.desdeparaguay.com/delsol",
+          "format": "hls",
+          "resolver": "desdeparaguay",
           "endpoint": "https://zn1radios.desdeparaguay.net/movdelsol/movdelsol.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/delsol"
         }
       ],
       "source": "https://www.desdeparaguay.com/delsol",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-10-30T05:18:59.177092+00:00"
+        "status": "available",
+        "checkedAt": "2026-10-30T08:46:24.089479+00:00"
       }
     },
     {
@@ -2904,9 +2915,8 @@
       "source": "https://www.desdeparaguay.com/1420",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+        "status": "available",
+        "checkedAt": "2026-10-30T08:46:24.089479+00:00"
       }
     },
     {
@@ -3142,6 +3152,54 @@
           "resolver": "desdeparaguay",
           "endpoint": "https://rds3.desdeparaguay.net/movycuamandyyu/movycuamandyyu.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/ycuamandyyu"
+        }
+      ],
+      "verifiedAt": "2026-10-30"
+    },
+    {
+      "id": "dsd-1200",
+      "name": "Libre",
+      "city": "Asunción",
+      "department": "Capital",
+      "frequency": "1200",
+      "band": "AM",
+      "categories": [
+        "Radio"
+      ],
+      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/1200.png?4",
+      "website": "https://www.desdeparaguay.com/1200",
+      "source": "https://www.desdeparaguay.com/1200",
+      "streams": [
+        {
+          "url": "https://www.desdeparaguay.com/1200",
+          "format": "hls",
+          "resolver": "desdeparaguay",
+          "endpoint": "https://rds3.desdeparaguay.net/mov1200/mov1200.stream/playlist.m3u8",
+          "source": "https://www.desdeparaguay.com/1200"
+        }
+      ],
+      "verifiedAt": "2026-10-30"
+    },
+    {
+      "id": "dsd-mdq",
+      "name": "MDQ",
+      "city": "Eusebio Ayala",
+      "department": "Cordillera",
+      "frequency": "87.9",
+      "band": "FM",
+      "categories": [
+        "Radio"
+      ],
+      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/mdq.png?4",
+      "website": "https://www.desdeparaguay.com/mdq",
+      "source": "https://www.desdeparaguay.com/mdq",
+      "streams": [
+        {
+          "url": "https://www.desdeparaguay.com/mdq",
+          "format": "hls",
+          "resolver": "desdeparaguay",
+          "endpoint": "https://rds3.desdeparaguay.net/movmdq/movmdq.stream/playlist.m3u8",
+          "source": "https://www.desdeparaguay.com/mdq"
         }
       ],
       "verifiedAt": "2026-10-30"

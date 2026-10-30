@@ -1,0 +1,151 @@
+{
+  "baseCommit": "b06a770d3189fa616700b96a673db07e15e654c0",
+  "createdAt": "2026-10-30T08:46:24.895524+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-660",
+      "name": "Regional",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/660",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/mov660/mov660.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/660"
+      },
+      "position": "prepend",
+      "verifiedAt": "2026-10-30",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-delsol",
+      "name": "Del Sol",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/delsol",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movdelsol/movdelsol.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/delsol"
+      },
+      "position": "prepend",
+      "verifiedAt": "2026-10-30",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "add_station",
+      "id": "dsd-1200",
+      "name": "Libre",
+      "station": {
+        "id": "dsd-1200",
+        "name": "Libre",
+        "city": "Asunción",
+        "department": "Capital",
+        "frequency": "1200",
+        "band": "AM",
+        "categories": [
+          "Radio"
+        ],
+        "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/1200.png?4",
+        "website": "https://www.desdeparaguay.com/1200",
+        "source": "https://www.desdeparaguay.com/1200",
+        "streams": [
+          {
+            "url": "https://www.desdeparaguay.com/1200",
+            "format": "hls",
+            "resolver": "desdeparaguay",
+            "endpoint": "https://rds3.desdeparaguay.net/mov1200/mov1200.stream/playlist.m3u8",
+            "source": "https://www.desdeparaguay.com/1200"
+          }
+        ],
+        "verifiedAt": "2026-10-30"
+      },
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "add_station",
+      "id": "dsd-mdq",
+      "name": "MDQ",
+      "station": {
+        "id": "dsd-mdq",
+        "name": "MDQ",
+        "city": "Eusebio Ayala",
+        "department": "Cordillera",
+        "frequency": "87.9",
+        "band": "FM",
+        "categories": [
+          "Radio"
+        ],
+        "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/mdq.png?4",
+        "website": "https://www.desdeparaguay.com/mdq",
+        "source": "https://www.desdeparaguay.com/mdq",
+        "streams": [
+          {
+            "url": "https://www.desdeparaguay.com/mdq",
+            "format": "hls",
+            "resolver": "desdeparaguay",
+            "endpoint": "https://rds3.desdeparaguay.net/movmdq/movmdq.stream/playlist.m3u8",
+            "source": "https://www.desdeparaguay.com/mdq"
+          }
+        ],
+        "verifiedAt": "2026-10-30"
+      },
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-serrania",
+      "name": "Serranía",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-30T08:46:24.089479+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-660",
+      "name": "Regional",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-30T08:46:24.089479+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-delsol",
+      "name": "Del Sol",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-30T08:46:24.089479+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1420",
+      "name": "Guyrá Campana",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-30T08:46:24.089479+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
