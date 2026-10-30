@@ -1,0 +1,35 @@
+{
+  "baseCommit": "e05cd2c77e26912247751aeca2f998413a7870d9",
+  "createdAt": "2026-10-30T13:14:15.038972+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-nihongakko",
+      "name": "Nihon Gakko",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/nihongakko",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movnihongakko/movnihongakko.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/nihongakko"
+      },
+      "position": "prepend",
+      "verifiedAt": "2026-10-30",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-nihongakko",
+      "name": "Nihon Gakko",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-30T13:14:14.195561+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
