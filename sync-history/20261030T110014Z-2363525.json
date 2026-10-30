@@ -1,0 +1,41 @@
+{
+  "baseCommit": "ea3a9930d44cb054c2f88b85bdef1e38533b73ad",
+  "createdAt": "2026-10-30T11:15:05.166199+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-emisoras",
+      "name": "Emisoras Paraguay",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-30T11:15:04.279403+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-arandu",
+      "name": "Arandú",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-30T11:15:04.279403+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-portaldelchaco",
+      "name": "Portal del Chaco",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T11:15:04.279403+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
