@@ -1,0 +1,40 @@
+{
+  "baseCommit": "4c9ea247cb6cc9d6b38cb5724cc331f62b50fcc3",
+  "createdAt": "2026-10-30T10:45:32.666501+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-capital",
+      "name": "Capital",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-30T10:45:31.772110+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-pueblo",
+      "name": "Pueblo",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-30T10:45:31.772110+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-4dmasnoticias",
+      "name": "4Dmás Noticias",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-30T10:45:31.772110+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
