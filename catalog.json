@@ -3127,6 +3127,30 @@
         }
       ],
       "verifiedAt": "2026-10-29"
+    },
+    {
+      "id": "dsd-ycuamandyyu",
+      "name": "Ycuamandyyú",
+      "city": "San Pedro",
+      "department": "Sin confirmar",
+      "frequency": "590",
+      "band": "AM",
+      "categories": [
+        "Radio"
+      ],
+      "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/ycuamandyyu.png?4",
+      "website": "https://www.desdeparaguay.com/ycuamandyyu",
+      "source": "https://www.desdeparaguay.com/ycuamandyyu",
+      "streams": [
+        {
+          "url": "https://www.desdeparaguay.com/ycuamandyyu",
+          "format": "hls",
+          "resolver": "desdeparaguay",
+          "endpoint": "https://rds3.desdeparaguay.net/movycuamandyyu/movycuamandyyu.stream/playlist.m3u8",
+          "source": "https://www.desdeparaguay.com/ycuamandyyu"
+        }
+      ],
+      "verifiedAt": "2026-10-30"
     }
   ]
 }

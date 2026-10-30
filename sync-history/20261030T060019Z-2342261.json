@@ -1,0 +1,40 @@
+{
+  "baseCommit": "1808d43c548b7b8540ff76b0a26e486d5a1628db",
+  "createdAt": "2026-10-30T06:18:46.404100+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "add_station",
+      "id": "dsd-ycuamandyyu",
+      "name": "Ycuamandyyú",
+      "station": {
+        "id": "dsd-ycuamandyyu",
+        "name": "Ycuamandyyú",
+        "city": "San Pedro",
+        "department": "Sin confirmar",
+        "frequency": "590",
+        "band": "AM",
+        "categories": [
+          "Radio"
+        ],
+        "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/ycuamandyyu.png?4",
+        "website": "https://www.desdeparaguay.com/ycuamandyyu",
+        "source": "https://www.desdeparaguay.com/ycuamandyyu",
+        "streams": [
+          {
+            "url": "https://www.desdeparaguay.com/ycuamandyyu",
+            "format": "hls",
+            "resolver": "desdeparaguay",
+            "endpoint": "https://rds3.desdeparaguay.net/movycuamandyyu/movycuamandyyu.stream/playlist.m3u8",
+            "source": "https://www.desdeparaguay.com/ycuamandyyu"
+          }
+        ],
+        "verifiedAt": "2026-10-30"
+      },
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    }
+  ]
+}
