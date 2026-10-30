@@ -1,0 +1,547 @@
+{
+  "baseCommit": "c56497e1037e63e2b60c69b02a440ad7a5d5db31",
+  "createdAt": "2026-10-30T04:03:22.954797+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-1140",
+      "name": "Central",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1300",
+      "name": "Fe y Alegría",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1000",
+      "name": "Mil",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-aranduka",
+      "name": "Aranduka",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-cardinalromance",
+      "name": "Cardinal Romance",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-conquistador",
+      "name": "Conquistador",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-emisoras",
+      "name": "Emisoras Paraguay",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-farra",
+      "name": "Farra",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-hit",
+      "name": "Hit",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-memories",
+      "name": "Memories",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-mix",
+      "name": "Mix",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-nihongakko",
+      "name": "Nihon Gakko",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-venus",
+      "name": "Venus",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-serrania",
+      "name": "Serranía",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-altopy",
+      "name": "Alto Paraguay",
+      "availability": {
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 5,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-660",
+      "name": "Regional",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-aquidaban",
+      "name": "Aquidabán",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-lacosta",
+      "name": "La Costa",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-megaestacion95",
+      "name": "Megaestación",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-capital",
+      "name": "Capital",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-agr",
+      "name": "AGR",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-curuguaty",
+      "name": "Curuguaty",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-parana",
+      "name": "Paraná",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-santahelena",
+      "name": "Santa Helena",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-continental",
+      "name": "Continental",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-losangeles",
+      "name": "Los Angeles",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-arapy",
+      "name": "Arapy",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-arandu",
+      "name": "Arandú",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-ciudad",
+      "name": "Ciudad",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-tapiracuai",
+      "name": "Tapiracuai",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-metro",
+      "name": "Metro",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-sanguri",
+      "name": "Sanguri",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-itapora",
+      "name": "Ita Pora",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-republica",
+      "name": "República",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-tvillarrica",
+      "name": "T",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1250",
+      "name": "Asunción",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-villaoliva",
+      "name": "Villa Oliva",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-rqp",
+      "name": "RQP",
+      "availability": {
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 5,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-lareddelsol",
+      "name": "La Red del Sol",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-ypane",
+      "name": "Ypané",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1420",
+      "name": "Guyrá Campana",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-700",
+      "name": "Carlos A. López",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 6,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-portaldelchaco",
+      "name": "Portal del Chaco",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-4dmasnoticias",
+      "name": "4Dmás Noticias",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-centro",
+      "name": "Centro",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}

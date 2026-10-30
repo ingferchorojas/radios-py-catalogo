@@ -365,7 +365,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/1140",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-1330",
@@ -432,7 +437,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/1300",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-650",
@@ -518,7 +528,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/1000",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-1080",
@@ -664,7 +679,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/aranduka",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-camara",
@@ -757,7 +777,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/cardinalromance",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-cfa",
@@ -812,7 +837,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/conquistador",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-radiodisney",
@@ -901,7 +931,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/emisoras",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-07",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-exclusiva",
@@ -956,7 +991,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/farra",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-fernando",
@@ -1042,7 +1082,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/hit",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-07",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-latina",
@@ -1104,7 +1149,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/memories",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-mix",
@@ -1135,7 +1185,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/mix",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-nihongakko",
@@ -1159,7 +1214,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/nihongakko",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-883",
@@ -1307,7 +1367,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/venus",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-vibras",
@@ -1436,7 +1501,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/serrania",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-centenario",
@@ -1508,7 +1578,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/altopy",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-abc",
@@ -1587,7 +1662,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/660",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-aquidaban",
@@ -1611,7 +1691,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/aquidaban",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-concepcion",
@@ -1666,7 +1751,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/lacosta",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-megaestacion95",
@@ -1697,7 +1787,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/megaestacion95",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-kaaguazu",
@@ -1752,7 +1847,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/capital",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-delsol",
@@ -1848,7 +1948,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/agr",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-curuguaty",
@@ -1872,7 +1977,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/curuguaty",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-parana",
@@ -1896,7 +2006,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/parana",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-santahelena",
@@ -1920,7 +2035,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/santahelena",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-evolucion",
@@ -2006,7 +2126,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/continental",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-07",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-losangeles",
@@ -2037,7 +2162,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/losangeles",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-multiradio",
@@ -2123,7 +2253,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/arapy",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-1069",
@@ -2195,7 +2330,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/arandu",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-saltosdelguaira",
@@ -2243,7 +2383,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/ciudad",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-tapiracuai",
@@ -2267,7 +2412,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/tapiracuai",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-unasur",
@@ -2339,7 +2489,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/metro",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-sanguri",
@@ -2363,7 +2518,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/sanguri",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-itapora",
@@ -2387,7 +2547,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/itapora",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-republica",
@@ -2411,7 +2576,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/republica",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-tvillarrica",
@@ -2435,7 +2605,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/tvillarrica",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-visionfm",
@@ -2483,7 +2658,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/1250",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-07",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-palma",
@@ -2551,7 +2731,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/villaoliva",
-      "verifiedAt": "2026-10-07"
+      "verifiedAt": "2026-10-07",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-rqp",
@@ -2573,7 +2758,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/rqp",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-elangel",
@@ -2628,7 +2818,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/lareddelsol",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-ypane",
@@ -2659,7 +2854,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/ypane",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-1420",
@@ -2690,7 +2890,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/1420",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-700",
@@ -2721,7 +2926,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/700",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-portaldelchaco",
@@ -2752,7 +2962,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/portaldelchaco",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-4dmasnoticias",
@@ -2783,7 +2998,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/4dmasnoticias",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-centro",
@@ -2814,7 +3034,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/centro",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+      }
     },
     {
       "id": "dsd-1059",
