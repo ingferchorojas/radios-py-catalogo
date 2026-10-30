@@ -1,0 +1,35 @@
+{
+  "baseCommit": "1b7409c3fb4acaec18691732c564ddc84795e07c",
+  "createdAt": "2026-10-30T18:12:44.788438+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-santahelena",
+      "name": "Santa Helena",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/santahelena",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movsantahelena/movsantahelena.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/santahelena"
+      },
+      "position": "prepend",
+      "verifiedAt": "2026-10-30",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-santahelena",
+      "name": "Santa Helena",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-30T18:12:43.924951+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
