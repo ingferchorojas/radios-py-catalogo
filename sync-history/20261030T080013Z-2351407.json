@@ -1,0 +1,62 @@
+{
+  "baseCommit": "d53dd02a9b08f4b67b1a1925f236fb73df7638ab",
+  "createdAt": "2026-10-30T08:17:30.886920+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-caraguatay",
+      "name": "Caraguatay",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-30T08:17:29.980742+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-altopy",
+      "name": "Alto Paraguay",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-30T08:17:29.980742+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-piribebuy",
+      "name": "Piribebuy",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-30T08:17:29.980742+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-700",
+      "name": "Carlos A. López",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-30T08:17:29.980742+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-portaldelchaco",
+      "name": "Portal del Chaco",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-30T08:17:29.980742+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
