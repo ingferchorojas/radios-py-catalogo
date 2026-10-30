@@ -1,0 +1,30 @@
+{
+  "baseCommit": "bb262ba177c862fc3cb975f5f6420154fa71a9ac",
+  "createdAt": "2026-10-30T11:44:47.810504+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-altopy",
+      "name": "Alto Paraguay",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-30T11:44:46.932474+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-curuguaty",
+      "name": "Curuguaty",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-30T11:44:46.932474+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
