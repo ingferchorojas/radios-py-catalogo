@@ -1554,7 +1554,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/caraguatay",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-10-30T04:48:32.447179+00:00"
+      }
     },
     {
       "id": "dsd-altopy",
