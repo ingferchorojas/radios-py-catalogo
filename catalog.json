@@ -3005,8 +3005,9 @@
       "source": "https://www.desdeparaguay.com/portaldelchaco",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-10-30T17:12:14.876160+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-31T00:12:27.992518+00:00"
       }
     },
     {
@@ -3226,7 +3227,12 @@
           "source": "https://www.desdeparaguay.com/mdq"
         }
       ],
-      "verifiedAt": "2026-10-30"
+      "verifiedAt": "2026-10-30",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-31T00:12:27.992518+00:00"
+      }
     }
   ]
 }
