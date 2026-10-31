@@ -1,0 +1,64 @@
+{
+  "baseCommit": "068b5aabd50ca0af30afa9e5baa8fcb7e1463e07",
+  "createdAt": "2026-10-31T11:42:26.666811+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-metro",
+      "name": "Metro",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/metro",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movmetro/movmetro.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/metro"
+      },
+      "position": "prepend",
+      "verifiedAt": "2026-10-31",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-1059",
+      "name": "Nacional San Pedro",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/1059",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/transsanpedro/transsanpedro/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/1059"
+      },
+      "position": "prepend",
+      "verifiedAt": "2026-10-31",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-saltosdelguaira",
+      "name": "Multi",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-31T11:42:25.893711+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-metro",
+      "name": "Metro",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-31T11:42:25.893711+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
