@@ -1,0 +1,18 @@
+{
+  "baseCommit": "95fa927634bca88da976ea12dea7e6b21a7001ee",
+  "createdAt": "2026-10-31T05:14:03.359663+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "nacional-fm",
+      "name": "Radio Nacional del Paraguay FM",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-31T05:14:02.483279+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
