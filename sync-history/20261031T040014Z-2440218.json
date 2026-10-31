@@ -1,0 +1,43 @@
+{
+  "baseCommit": "28fd80ff50a11121f7e885c7b7c6a1e0d59ca91a",
+  "createdAt": "2026-10-31T04:14:18.140448+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "nacional-fm",
+      "name": "Radio Nacional del Paraguay FM",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-31T04:14:17.281661+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-go",
+      "name": "Go",
+      "availability": {
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-10-31T04:14:17.281661+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-caraguatay",
+      "name": "Caraguatay",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-31T04:14:17.281661+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}

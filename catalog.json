@@ -135,7 +135,12 @@
         }
       ],
       "source": "https://mediosdelestado.gov.py/radios/",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-31T04:14:17.281661+00:00"
+      }
     },
     {
       "id": "nacional-san-pedro",
@@ -1055,7 +1060,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/go",
-      "verifiedAt": "2026-10-29"
+      "verifiedAt": "2026-10-29",
+      "availability": {
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-10-31T04:14:17.281661+00:00"
+      }
     },
     {
       "id": "dsd-hit",
@@ -1563,8 +1573,9 @@
       "source": "https://www.desdeparaguay.com/caraguatay",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-10-30T08:17:29.980742+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-31T04:14:17.281661+00:00"
       }
     },
     {
