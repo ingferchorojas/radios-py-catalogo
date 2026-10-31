@@ -3076,8 +3076,9 @@
       "source": "https://www.desdeparaguay.com/centro",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-10-30T07:18:26.097057+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-31T01:13:04.386387+00:00"
       }
     },
     {
