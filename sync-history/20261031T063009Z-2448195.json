@@ -1,0 +1,18 @@
+{
+  "baseCommit": "d141bdff9160d4d889c02d8ed169b1d54e82b588",
+  "createdAt": "2026-10-31T06:43:38.332476+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-go",
+      "name": "Go",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-31T06:43:37.461010+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
