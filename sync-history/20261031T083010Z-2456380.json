@@ -1,0 +1,57 @@
+{
+  "baseCommit": "cf49fc1b1fc50b1ff6e9021701cadc1c90794ec2",
+  "createdAt": "2026-10-31T08:41:50.211277+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-altopy",
+      "name": "Alto Paraguay",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/altopy",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movaltopy/movaltopy.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/altopy"
+      },
+      "position": "prepend",
+      "verifiedAt": "2026-10-31",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-serrania",
+      "name": "Serranía",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-31T08:41:49.421078+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-altopy",
+      "name": "Alto Paraguay",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-31T08:41:49.421078+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-mdq",
+      "name": "MDQ",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-31T08:41:49.421078+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
