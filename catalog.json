@@ -1653,12 +1653,19 @@
           "url": "https://www.desdeparaguay.com/universocde",
           "format": "hls",
           "resolver": "desdeparaguay",
+          "endpoint": "https://rds3.desdeparaguay.net/transuniverso/transuniverso/playlist.m3u8",
+          "source": "https://www.desdeparaguay.com/universocde"
+        },
+        {
+          "url": "https://www.desdeparaguay.com/universocde",
+          "format": "hls",
+          "resolver": "desdeparaguay",
           "endpoint": "https://zn1radios.desdeparaguay.net/transuniverso/transuniverso/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/universocde"
         }
       ],
       "source": "https://www.desdeparaguay.com/universocde",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-31"
     },
     {
       "id": "dsd-660",
@@ -1691,9 +1698,8 @@
       "source": "https://www.desdeparaguay.com/660",
       "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "unavailable",
-        "reason": "silence",
-        "checkedAt": "2026-10-31T03:44:00.460759+00:00"
+        "status": "available",
+        "checkedAt": "2026-10-31T07:13:39.371727+00:00"
       }
     },
     {
@@ -3092,9 +3098,8 @@
       "source": "https://www.desdeparaguay.com/centro",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-10-31T01:13:04.386387+00:00"
+        "status": "available",
+        "checkedAt": "2026-10-31T07:13:39.371727+00:00"
       }
     },
     {
