@@ -1,0 +1,18 @@
+{
+  "baseCommit": "f16bf0bebaef7801be811398418ad25b46a3df94",
+  "createdAt": "2026-10-31T09:41:29.218628+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-1200",
+      "name": "Libre",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-31T09:41:28.445186+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
