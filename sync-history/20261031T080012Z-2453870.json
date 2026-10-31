@@ -1,0 +1,40 @@
+{
+  "baseCommit": "61a7b7f520bafc515ba01db9eddc8e9389440c8d",
+  "createdAt": "2026-10-31T08:13:04.880056+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-caraguatay",
+      "name": "Caraguatay",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-31T08:13:04.008381+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-piribebuy",
+      "name": "Piribebuy",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-31T08:13:04.008381+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-700",
+      "name": "Carlos A. López",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-31T08:13:04.008381+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
