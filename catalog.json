@@ -3203,7 +3203,12 @@
           "source": "https://www.desdeparaguay.com/1200"
         }
       ],
-      "verifiedAt": "2026-10-30"
+      "verifiedAt": "2026-10-30",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-31T00:42:32.749337+00:00"
+      }
     },
     {
       "id": "dsd-mdq",
