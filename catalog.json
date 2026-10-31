@@ -1605,8 +1605,9 @@
       "source": "https://www.desdeparaguay.com/altopy",
       "verifiedAt": "2026-10-31",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-10-31T08:41:49.421078+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-31T11:11:42.099129+00:00"
       }
     },
     {
@@ -2185,9 +2186,8 @@
       "source": "https://www.desdeparaguay.com/continental",
       "verifiedAt": "2026-10-07",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+        "status": "available",
+        "checkedAt": "2026-10-31T11:11:42.099129+00:00"
       }
     },
     {
