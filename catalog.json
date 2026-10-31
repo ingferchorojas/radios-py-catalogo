@@ -2970,8 +2970,9 @@
       "source": "https://www.desdeparaguay.com/700",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-10-30T08:17:29.980742+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-31T02:13:00.171271+00:00"
       }
     },
     {
