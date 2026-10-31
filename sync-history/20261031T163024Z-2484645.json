@@ -1,0 +1,29 @@
+{
+  "baseCommit": "51cd725f34aa1a2860f5a6d0d6e3fd54b30d348f",
+  "createdAt": "2026-10-31T16:41:46.494148+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-altopy",
+      "name": "Alto Paraguay",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-31T16:41:45.731414+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-portaldelchaco",
+      "name": "Portal del Chaco",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-31T16:41:45.731414+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
