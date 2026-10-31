@@ -1,0 +1,43 @@
+{
+  "baseCommit": "7c2e829edfc205983dea8e8698f61e7bcd01cba7",
+  "createdAt": "2026-10-31T03:44:01.328284+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-serrania",
+      "name": "Serranía",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-10-31T03:44:00.460759+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-660",
+      "name": "Regional",
+      "availability": {
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-10-31T03:44:00.460759+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-rqp",
+      "name": "RQP",
+      "availability": {
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-10-31T03:44:00.460759+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
