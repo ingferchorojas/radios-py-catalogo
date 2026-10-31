@@ -1,0 +1,29 @@
+{
+  "baseCommit": "501b457e2416d2bc7c52f43f9e6b226a38ac1447",
+  "createdAt": "2026-10-31T19:41:13.545843+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-arapy",
+      "name": "Arapy",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-31T19:41:12.767951+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1069",
+      "name": "Pilar Pilar",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-10-31T19:41:12.767951+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
