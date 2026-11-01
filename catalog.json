@@ -3256,8 +3256,9 @@
       ],
       "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-10-31T09:41:28.445186+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-01T00:12:20.932922+00:00"
       }
     },
     {
