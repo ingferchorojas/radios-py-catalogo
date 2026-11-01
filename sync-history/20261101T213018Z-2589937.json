@@ -1,0 +1,19 @@
+{
+  "baseCommit": "f7e2ded04711daea4be1d593f78527cc6aff64cf",
+  "createdAt": "2026-11-01T21:45:37.380461+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-agr",
+      "name": "AGR",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-01T21:45:36.504689+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
