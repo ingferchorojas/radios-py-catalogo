@@ -1,0 +1,40 @@
+{
+  "baseCommit": "50b2c5de593c5b78d124c0ddce558d5d3b339cfe",
+  "createdAt": "2026-11-01T09:15:28.956123+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-serrania",
+      "name": "Serranía",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-01T09:15:28.082244+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-altopy",
+      "name": "Alto Paraguay",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-01T09:15:28.082244+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-700",
+      "name": "Carlos A. López",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-01T09:15:28.082244+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
