@@ -1,0 +1,19 @@
+{
+  "baseCommit": "1be141035936b389d1771013a4862e50c6541a27",
+  "createdAt": "2026-11-01T19:14:49.091102+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-mdq",
+      "name": "MDQ",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-01T19:14:48.223041+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
