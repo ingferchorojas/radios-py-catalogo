@@ -2645,9 +2645,8 @@
       "source": "https://www.desdeparaguay.com/itapora",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-01T17:44:16.774127+00:00"
       }
     },
     {
@@ -3127,8 +3126,9 @@
       "source": "https://www.desdeparaguay.com/centro",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-01T07:43:25.977214+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-01T17:44:16.774127+00:00"
       }
     },
     {
