@@ -1,0 +1,19 @@
+{
+  "baseCommit": "2a140fdb36e8d9bddcbf0f079a107499d71c8346",
+  "createdAt": "2026-11-01T22:45:49.668249+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-elangel",
+      "name": "El Ángel",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-01T22:45:48.785279+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
