@@ -1,0 +1,24 @@
+{
+  "baseCommit": "45ad645986c9164e6bb7f4ddedb68676c8ca713b",
+  "createdAt": "2026-11-01T20:15:06.177601+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-caraguatay",
+      "name": "Caraguatay",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/caraguatay",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movcaraguatay/movcaraguatay.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/caraguatay"
+      },
+      "position": "prepend",
+      "verifiedAt": "2026-11-01",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    }
+  ]
+}
