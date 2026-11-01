@@ -1,0 +1,29 @@
+{
+  "baseCommit": "17c81c9e7fc75ed5818ca95239c69d6ea9bf241c",
+  "createdAt": "2026-11-01T07:43:26.774101+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-capital",
+      "name": "Capital",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-01T07:43:25.977214+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-centro",
+      "name": "Centro",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-01T07:43:25.977214+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
