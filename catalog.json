@@ -567,20 +567,20 @@
       "website": "https://www.desdeparaguay.com/1080",
       "streams": [
         {
-          "url": "https://mdstrm.com/audio/62d81ca6a459e4082203c95b/icecast.audio",
-          "format": "aac",
-          "source": "https://www.desdeparaguay.com/1080"
-        },
-        {
           "url": "https://www.desdeparaguay.com/1080",
           "format": "hls",
           "resolver": "desdeparaguay",
           "endpoint": "https://rds3.desdeparaguay.net/trans1080/trans1080/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/1080"
+        },
+        {
+          "url": "https://mdstrm.com/audio/62d81ca6a459e4082203c95b/icecast.audio",
+          "format": "aac",
+          "source": "https://www.desdeparaguay.com/1080"
         }
       ],
       "source": "https://www.desdeparaguay.com/1080",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-11-02"
     },
     {
       "id": "dsd-1020",
@@ -3206,8 +3206,9 @@
       "source": "https://www.desdeparaguay.com/centro",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-02T18:47:16.648760+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-02T23:16:07.570316+00:00"
       }
     },
     {
