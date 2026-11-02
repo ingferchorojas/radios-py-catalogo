@@ -1,0 +1,59 @@
+{
+  "baseCommit": "cab403eca90930a9457f307f5435d1ce7e5cce6e",
+  "createdAt": "2026-11-02T20:46:30.762706+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-saltosdelguaira",
+      "name": "Multi",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/saltosdelguaira",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movsaltosdelguaira/movsaltosdelguaira.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/saltosdelguaira"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-02",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-megaestacion95",
+      "name": "Megaestación",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-02T20:46:29.883261+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-continental",
+      "name": "Continental",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-02T20:46:29.883261+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-saltosdelguaira",
+      "name": "Multi",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-02T20:46:29.883261+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
