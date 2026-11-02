@@ -1671,19 +1671,19 @@
           "url": "https://www.desdeparaguay.com/universocde",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/transuniverso/transuniverso/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/transuniverso/transuniverso/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/universocde"
         },
         {
           "url": "https://www.desdeparaguay.com/universocde",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/transuniverso/transuniverso/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/transuniverso/transuniverso/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/universocde"
         }
       ],
       "source": "https://www.desdeparaguay.com/universocde",
-      "verifiedAt": "2026-10-31"
+      "verifiedAt": "2026-11-02"
     },
     {
       "id": "dsd-660",
@@ -2152,7 +2152,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/evolucion",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-02T03:50:46.068545+00:00"
+      }
     },
     {
       "id": "dsd-medano",
@@ -2418,8 +2423,9 @@
       "source": "https://www.desdeparaguay.com/arandu",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-10-30T11:15:04.279403+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-02T03:50:46.068545+00:00"
       }
     },
     {
