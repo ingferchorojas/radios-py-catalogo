@@ -1,0 +1,36 @@
+{
+  "baseCommit": "63bdfa0099516e6856182c251460689b61aea49b",
+  "createdAt": "2026-11-02T15:47:16.280637+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-caraguatay",
+      "name": "Caraguatay",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/caraguatay",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movcaraguatay/movcaraguatay.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/caraguatay"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-02",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-exclusiva",
+      "name": "Exclusiva",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-02T15:47:15.403877+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}

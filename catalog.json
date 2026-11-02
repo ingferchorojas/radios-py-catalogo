@@ -984,9 +984,8 @@
       "source": "https://www.desdeparaguay.com/exclusiva",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-02T14:46:48.917428+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-02T15:47:15.403877+00:00"
       }
     },
     {
@@ -1590,19 +1589,19 @@
           "url": "https://www.desdeparaguay.com/caraguatay",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movcaraguatay/movcaraguatay.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movcaraguatay/movcaraguatay.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/caraguatay"
         },
         {
           "url": "https://www.desdeparaguay.com/caraguatay",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movcaraguatay/movcaraguatay.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movcaraguatay/movcaraguatay.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/caraguatay"
         }
       ],
       "source": "https://www.desdeparaguay.com/caraguatay",
-      "verifiedAt": "2026-11-01",
+      "verifiedAt": "2026-11-02",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-02T08:18:49.247404+00:00"
