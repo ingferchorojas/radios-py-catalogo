@@ -1,0 +1,47 @@
+{
+  "baseCommit": "04744a165be0016a5bc887ad7a16a13d16ff9a67",
+  "createdAt": "2026-11-02T10:46:05.820319+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-pueblo",
+      "name": "Pueblo",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/pueblo",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movpueblo/movpueblo.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/pueblo"
+      },
+      "action": "add_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-02",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-serrania",
+      "name": "Serranía",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-02T10:46:04.960355+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-pueblo",
+      "name": "Pueblo",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-02T10:46:04.960355+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
