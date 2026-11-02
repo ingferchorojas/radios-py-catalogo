@@ -1636,8 +1636,9 @@
       "source": "https://www.desdeparaguay.com/altopy",
       "verifiedAt": "2026-11-02",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-02T16:16:23.007867+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-02T23:45:49.922288+00:00"
       }
     },
     {
@@ -2241,9 +2242,8 @@
       "source": "https://www.desdeparaguay.com/continental",
       "verifiedAt": "2026-10-07",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-02T20:46:29.883261+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-02T23:45:49.922288+00:00"
       }
     },
     {
@@ -2263,23 +2263,22 @@
           "url": "https://www.desdeparaguay.com/losangeles",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/losangeles"
         },
         {
           "url": "https://www.desdeparaguay.com/losangeles",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/losangeles"
         }
       ],
       "source": "https://www.desdeparaguay.com/losangeles",
       "verifiedAt": "2026-11-02",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-02T20:16:44.935820+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-02T23:45:49.922288+00:00"
       }
     },
     {
