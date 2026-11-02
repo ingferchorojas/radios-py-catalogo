@@ -1,0 +1,96 @@
+{
+  "baseCommit": "579a6663695950eae202598cd9788830ffa8c005",
+  "createdAt": "2026-11-02T10:16:43.099608+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "add_station",
+      "id": "dsd-concierto",
+      "name": "Concierto",
+      "station": {
+        "id": "dsd-concierto",
+        "name": "Concierto",
+        "city": "Ciudad del Este",
+        "department": "Alto Paraná",
+        "frequency": "89.1",
+        "band": "FM",
+        "categories": [
+          "Radio"
+        ],
+        "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/concierto.png?4",
+        "website": "https://www.desdeparaguay.com/concierto",
+        "source": "https://www.desdeparaguay.com/concierto",
+        "streams": [
+          {
+            "url": "https://www.desdeparaguay.com/concierto",
+            "format": "hls",
+            "resolver": "desdeparaguay",
+            "endpoint": "https://rds3.desdeparaguay.net/movconcierto/movconcierto.stream/playlist.m3u8",
+            "source": "https://www.desdeparaguay.com/concierto"
+          }
+        ],
+        "verifiedAt": "2026-11-02"
+      },
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "nacional-san-pedro",
+      "name": "Radio Nacional San Pedro",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-02T10:16:42.217399+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-evolucion",
+      "name": "Evolución",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-02T10:16:42.217399+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-tvillarrica",
+      "name": "T",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-02T10:16:42.217399+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-centro",
+      "name": "Centro",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-02T10:16:42.217399+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1059",
+      "name": "Nacional San Pedro",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-02T10:16:42.217399+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
