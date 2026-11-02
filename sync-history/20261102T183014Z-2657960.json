@@ -1,0 +1,18 @@
+{
+  "baseCommit": "271ee7b1d61aa177ce4b3c8c84f1fd7b8c3ca68e",
+  "createdAt": "2026-11-02T18:47:17.621937+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-centro",
+      "name": "Centro",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-02T18:47:16.648760+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
