@@ -1,0 +1,18 @@
+{
+  "baseCommit": "82ecf1d2a432a5f7a534f6de38830715fd49c34e",
+  "createdAt": "2026-11-02T15:16:42.175698+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-1069",
+      "name": "Pilar Pilar",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-02T15:16:41.287320+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
