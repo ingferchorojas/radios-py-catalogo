@@ -1,0 +1,19 @@
+{
+  "baseCommit": "090fc27b56f5fbb2f56efdc73ec282de9d7338d9",
+  "createdAt": "2026-11-02T00:16:23.158041+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-lareddelsol",
+      "name": "La Red del Sol",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-02T00:16:22.181105+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
