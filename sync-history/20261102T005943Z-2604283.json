@@ -1,0 +1,79 @@
+{
+  "baseCommit": "4ff73b0aaf01a0ee1c8cefde01c2cb83cf27f456",
+  "createdAt": "2026-11-02T01:17:27.733378+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-883",
+      "name": "Ñemby",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/883",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/mov883/mov883.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/883"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-01",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-780",
+      "name": "1º de Marzo",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/780",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/mov780/mov780.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/780"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-01",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-amor",
+      "name": "Amor",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/amor",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movamor/movamor.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/amor"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-01",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-memories",
+      "name": "Memories",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/memories",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movmemories/movmemories.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/memories"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-01",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    }
+  ]
+}
