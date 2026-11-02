@@ -1450,16 +1450,16 @@
       "website": "https://www.desdeparaguay.com/sanandres",
       "streams": [
         {
-          "url": "https://copaco.desdeparaguay.net/movsanandres/movsanandres.stream/playlist.m3u8",
-          "format": "hls",
-          "source": "https://www.desdepylabs.com/Stream/StreamUrl/sanandres/hls/"
-        },
-        {
           "url": "https://www.desdeparaguay.com/sanandres",
           "format": "hls",
           "resolver": "desdeparaguay",
           "endpoint": "https://rds3.desdeparaguay.net/movsanandres/movsanandres.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/sanandres"
+        },
+        {
+          "url": "https://copaco.desdeparaguay.net/movsanandres/movsanandres.stream/playlist.m3u8",
+          "format": "hls",
+          "source": "https://www.desdepylabs.com/Stream/StreamUrl/sanandres/hls/"
         },
         {
           "url": "https://www.desdeparaguay.com/sanandres",
@@ -1470,7 +1470,7 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/sanandres",
-      "verifiedAt": "2026-10-29"
+      "verifiedAt": "2026-11-02"
     },
     {
       "id": "dsd-atyra",
