@@ -1618,8 +1618,9 @@
       "source": "https://www.desdeparaguay.com/altopy",
       "verifiedAt": "2026-10-31",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-01T09:15:28.082244+00:00"
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-11-02T02:49:30.552442+00:00"
       }
     },
     {
@@ -1715,8 +1716,9 @@
       "source": "https://www.desdeparaguay.com/660",
       "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-01T07:14:22.842200+00:00"
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-11-02T02:49:30.552442+00:00"
       }
     },
     {
