@@ -1735,8 +1735,9 @@
       "source": "https://www.desdeparaguay.com/660",
       "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-02T07:52:03.033412+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-02T18:17:11.994980+00:00"
       }
     },
     {
@@ -1866,8 +1867,9 @@
       "source": "https://www.desdeparaguay.com/megaestacion95",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-02T13:47:47.708525+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-02T18:17:11.994980+00:00"
       }
     },
     {
@@ -3059,8 +3061,9 @@
       "source": "https://www.desdeparaguay.com/1420",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-02T08:46:51.649351+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-02T18:17:11.994980+00:00"
       }
     },
     {
