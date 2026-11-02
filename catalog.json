@@ -168,9 +168,8 @@
       "source": "https://mediosdelestado.gov.py/radios/",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "silence",
-        "checkedAt": "2026-11-02T11:46:49.828612+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-02T13:17:50.068561+00:00"
       }
     },
     {
@@ -1754,9 +1753,8 @@
       "source": "https://www.desdeparaguay.com/aquidaban",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-01T23:46:39.168584+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-02T13:17:50.068561+00:00"
       }
     },
     {
@@ -3169,8 +3167,9 @@
       "source": "https://www.desdeparaguay.com/centro",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-02T10:16:42.217399+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-02T13:17:50.068561+00:00"
       }
     },
     {
@@ -3204,9 +3203,8 @@
       ],
       "verifiedAt": "2026-10-31",
       "availability": {
-        "status": "unavailable",
-        "reason": "silence",
-        "checkedAt": "2026-11-02T11:46:49.828612+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-02T13:17:50.068561+00:00"
       }
     },
     {
