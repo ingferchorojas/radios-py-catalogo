@@ -1,0 +1,36 @@
+{
+  "baseCommit": "26dc176bcef15dc93ccd6ec69c39f7f48234a383",
+  "createdAt": "2026-11-02T21:16:14.280869+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-mix",
+      "name": "Mix",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/mix",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movmix/movmix.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/mix"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-02",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-mix",
+      "name": "Mix",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-02T21:16:13.396614+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
