@@ -1544,9 +1544,8 @@
       "source": "https://www.desdeparaguay.com/serrania",
       "verifiedAt": "2026-11-02",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-02T13:47:47.708525+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-02T17:48:15.095804+00:00"
       }
     },
     {
@@ -1625,14 +1624,14 @@
           "url": "https://www.desdeparaguay.com/altopy",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movaltopy/movaltopy.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movaltopy/movaltopy.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/altopy"
         },
         {
           "url": "https://www.desdeparaguay.com/altopy",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movaltopy/movaltopy.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movaltopy/movaltopy.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/altopy"
         }
       ],
@@ -1786,12 +1785,19 @@
           "url": "https://www.desdeparaguay.com/concepcion",
           "format": "hls",
           "resolver": "desdeparaguay",
+          "endpoint": "https://rds3.desdeparaguay.net/movconcepcion/movconcepcion.stream/playlist.m3u8",
+          "source": "https://www.desdeparaguay.com/concepcion"
+        },
+        {
+          "url": "https://www.desdeparaguay.com/concepcion",
+          "format": "hls",
+          "resolver": "desdeparaguay",
           "endpoint": "https://zn1radios.desdeparaguay.net/movconcepcion/movconcepcion.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/concepcion"
         }
       ],
       "source": "https://www.desdeparaguay.com/concepcion",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-11-02"
     },
     {
       "id": "dsd-lacosta",
@@ -2172,9 +2178,8 @@
       "source": "https://www.desdeparaguay.com/evolucion",
       "verifiedAt": "2026-11-02",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-02T13:47:47.708525+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-02T17:48:15.095804+00:00"
       }
     },
     {
@@ -2498,16 +2503,22 @@
           "url": "https://www.desdeparaguay.com/ciudad",
           "format": "hls",
           "resolver": "desdeparaguay",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movciudad/movciudad.stream/playlist.m3u8",
+          "source": "https://www.desdeparaguay.com/ciudad"
+        },
+        {
+          "url": "https://www.desdeparaguay.com/ciudad",
+          "format": "hls",
+          "resolver": "desdeparaguay",
           "endpoint": "https://rds3.desdeparaguay.net/movciudad/movciudad.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/ciudad"
         }
       ],
       "source": "https://www.desdeparaguay.com/ciudad",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-11-02",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-02T17:48:15.095804+00:00"
       }
     },
     {
@@ -2562,16 +2573,22 @@
           "url": "https://www.desdeparaguay.com/unasur",
           "format": "hls",
           "resolver": "desdeparaguay",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movunasur/movunasur.stream/playlist.m3u8",
+          "source": "https://www.desdeparaguay.com/unasur"
+        },
+        {
+          "url": "https://www.desdeparaguay.com/unasur",
+          "format": "hls",
+          "resolver": "desdeparaguay",
           "endpoint": "https://rds3.desdeparaguay.net/movunasur/movunasur.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/unasur"
         }
       ],
       "source": "https://www.desdeparaguay.com/unasur",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-11-02",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-02T13:47:47.708525+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-02T17:48:15.095804+00:00"
       }
     },
     {
@@ -2669,8 +2686,9 @@
       "source": "https://www.desdeparaguay.com/sanguri",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-10-30T09:45:36.659508+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-02T17:48:15.095804+00:00"
       }
     },
     {
