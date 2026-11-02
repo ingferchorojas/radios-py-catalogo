@@ -842,23 +842,22 @@
           "url": "https://www.desdeparaguay.com/conquistador",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movconquistador/movconquistador.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movconquistador/movconquistador.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/conquistador"
         },
         {
           "url": "https://www.desdeparaguay.com/conquistador",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movconquistador/movconquistador.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movconquistador/movconquistador.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/conquistador"
         }
       ],
       "source": "https://www.desdeparaguay.com/conquistador",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-11-02",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-02T19:17:00.890671+00:00"
       }
     },
     {
@@ -1786,14 +1785,14 @@
           "url": "https://www.desdeparaguay.com/concepcion",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movconcepcion/movconcepcion.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movconcepcion/movconcepcion.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/concepcion"
         },
         {
           "url": "https://www.desdeparaguay.com/concepcion",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movconcepcion/movconcepcion.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movconcepcion/movconcepcion.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/concepcion"
         }
       ],
@@ -2610,23 +2609,22 @@
           "url": "https://www.desdeparaguay.com/pueblo",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movpueblo/movpueblo.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movpueblo/movpueblo.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/pueblo"
         },
         {
           "url": "https://www.desdeparaguay.com/pueblo",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movpueblo/movpueblo.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movpueblo/movpueblo.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/pueblo"
         }
       ],
       "source": "https://www.desdeparaguay.com/pueblo",
       "verifiedAt": "2026-11-02",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-02T13:47:47.708525+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-02T19:17:00.890671+00:00"
       }
     },
     {

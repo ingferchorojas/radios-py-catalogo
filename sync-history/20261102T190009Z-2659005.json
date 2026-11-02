@@ -1,0 +1,83 @@
+{
+  "baseCommit": "491a3bd6bb087111f057f040160d92a3f28ff273",
+  "createdAt": "2026-11-02T19:17:01.758564+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-concepcion",
+      "name": "Concepción",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/concepcion",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movconcepcion/movconcepcion.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/concepcion"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-02",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-pueblo",
+      "name": "Pueblo",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/pueblo",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movpueblo/movpueblo.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/pueblo"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-02",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-conquistador",
+      "name": "Conquistador",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/conquistador",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movconquistador/movconquistador.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/conquistador"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-02",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-conquistador",
+      "name": "Conquistador",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-02T19:17:00.890671+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-pueblo",
+      "name": "Pueblo",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-02T19:17:00.890671+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
