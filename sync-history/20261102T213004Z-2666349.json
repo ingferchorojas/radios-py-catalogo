@@ -1,0 +1,36 @@
+{
+  "baseCommit": "de3f9924e10c60b73f16eab430ffdd234787161a",
+  "createdAt": "2026-11-02T21:45:57.447640+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-aquidaban",
+      "name": "Aquidabán",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/aquidaban",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movaquidaban/movaquidaban.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/aquidaban"
+      },
+      "action": "add_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-02",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-aquidaban",
+      "name": "Aquidabán",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-02T21:45:56.577856+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
