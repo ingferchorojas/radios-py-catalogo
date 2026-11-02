@@ -2625,19 +2625,19 @@
           "url": "https://www.desdeparaguay.com/metro",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movmetro/movmetro.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movmetro/movmetro.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/metro"
         },
         {
           "url": "https://www.desdeparaguay.com/metro",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movmetro/movmetro.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movmetro/movmetro.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/metro"
         }
       ],
       "source": "https://www.desdeparaguay.com/metro",
-      "verifiedAt": "2026-10-31",
+      "verifiedAt": "2026-11-02",
       "availability": {
         "status": "available",
         "checkedAt": "2026-10-31T11:42:25.893711+00:00"
@@ -3376,7 +3376,12 @@
           "source": "https://www.desdeparaguay.com/concierto"
         }
       ],
-      "verifiedAt": "2026-11-02"
+      "verifiedAt": "2026-11-02",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-02T16:48:26.695468+00:00"
+      }
     }
   ]
 }
