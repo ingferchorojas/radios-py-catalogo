@@ -1,0 +1,19 @@
+{
+  "baseCommit": "3eea89e50cc60ceee89d9b8fd620112515c983e0",
+  "createdAt": "2026-11-02T05:20:46.790338+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "itapua",
+      "name": "Itapúa FM",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-02T05:20:45.919041+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
