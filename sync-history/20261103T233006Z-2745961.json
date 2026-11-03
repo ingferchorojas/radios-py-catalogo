@@ -1,0 +1,19 @@
+{
+  "baseCommit": "69ac518fc403126d6037f68359f5c24f0b16a350",
+  "createdAt": "2026-11-03T23:43:30.370528+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-ycuamandyyu",
+      "name": "Ycuamandyyú",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-03T23:43:29.617794+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
