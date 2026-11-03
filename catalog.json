@@ -3220,9 +3220,8 @@
       "source": "https://www.desdeparaguay.com/centro",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-02T23:16:07.570316+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-03T07:19:58.659474+00:00"
       }
     },
     {
