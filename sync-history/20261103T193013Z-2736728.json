@@ -1,0 +1,19 @@
+{
+  "baseCommit": "ea92aaebd619841f73b5fde12063cc1088f9ebc5",
+  "createdAt": "2026-11-03T19:43:04.392806+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-capital",
+      "name": "Capital",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-03T19:43:03.624288+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
