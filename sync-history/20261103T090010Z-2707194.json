@@ -1,0 +1,58 @@
+{
+  "baseCommit": "fade448cc6691049e1fe2f7bc7b1e800972194d9",
+  "createdAt": "2026-11-03T09:13:19.453125+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-atyra",
+      "name": "Atyra",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/atyra",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movatyra/movatyra.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/atyra"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-03",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-atyra",
+      "name": "Atyra",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-03T09:13:18.582680+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-660",
+      "name": "Regional",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-03T09:13:18.582680+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1200",
+      "name": "Libre",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-03T09:13:18.582680+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}

@@ -1497,23 +1497,22 @@
           "url": "https://www.desdeparaguay.com/atyra",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movatyra/movatyra.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movatyra/movatyra.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/atyra"
         },
         {
           "url": "https://www.desdeparaguay.com/atyra",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movatyra/movatyra.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movatyra/movatyra.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/atyra"
         }
       ],
       "source": "https://www.desdeparaguay.com/atyra",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-11-03",
       "availability": {
-        "status": "unavailable",
-        "reason": "silence",
-        "checkedAt": "2026-11-03T05:46:38.118578+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-03T09:13:18.582680+00:00"
       }
     },
     {
@@ -1743,9 +1742,8 @@
       "source": "https://www.desdeparaguay.com/660",
       "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-02T18:17:11.994980+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-03T09:13:18.582680+00:00"
       }
     },
     {
@@ -3354,9 +3352,8 @@
       ],
       "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-03T00:15:52.585132+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-03T09:13:18.582680+00:00"
       }
     },
     {
