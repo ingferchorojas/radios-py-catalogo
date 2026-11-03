@@ -168,9 +168,8 @@
       "source": "https://mediosdelestado.gov.py/radios/",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-02T17:19:52.866058+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-03T10:12:53.957289+00:00"
       }
     },
     {
@@ -2633,9 +2632,8 @@
       "source": "https://www.desdeparaguay.com/pueblo",
       "verifiedAt": "2026-11-02",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-02T22:16:03.137826+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-03T10:12:53.957289+00:00"
       }
     },
     {
@@ -3175,9 +3173,8 @@
       "source": "https://www.desdeparaguay.com/4dmasnoticias",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "silence",
-        "checkedAt": "2026-10-31T01:42:56.194102+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-03T10:12:53.957289+00:00"
       }
     },
     {
@@ -3246,9 +3243,8 @@
       ],
       "verifiedAt": "2026-10-31",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-02T17:19:52.866058+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-03T10:12:53.957289+00:00"
       }
     },
     {
