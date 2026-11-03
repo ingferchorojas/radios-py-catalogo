@@ -1,0 +1,37 @@
+{
+  "baseCommit": "8589626d94c6d58eee655784212c6f5c69363f2b",
+  "createdAt": "2026-11-03T00:15:53.373419+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-kaaguazu",
+      "name": "Kaaguazú",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/kaaguazu",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/kaaguazu"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-02",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1200",
+      "name": "Libre",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-03T00:15:52.585132+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
