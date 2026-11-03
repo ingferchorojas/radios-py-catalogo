@@ -1,0 +1,37 @@
+{
+  "baseCommit": "e829bc2a1f3d09ea060da32c91afb3974923da3b",
+  "createdAt": "2026-11-03T04:47:28.305515+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-680",
+      "name": "Cáritas",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/680",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/trans680/trans680/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/680"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-03",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-piribebuy",
+      "name": "Piribebuy",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-03T04:47:27.523830+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
