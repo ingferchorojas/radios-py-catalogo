@@ -1,0 +1,80 @@
+{
+  "baseCommit": "98a943d4b101101f4f8cf15ca1e4152c4ff9379e",
+  "createdAt": "2026-11-03T08:15:28.496713+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-serrania",
+      "name": "Serranía",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/serrania",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movserrania/movserrania.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/serrania"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-03",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-serrania",
+      "name": "Serranía",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-03T08:15:27.537203+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-caraguatay",
+      "name": "Caraguatay",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-03T08:15:27.537203+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-universocde",
+      "name": "Universo",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-03T08:15:27.537203+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-piribebuy",
+      "name": "Piribebuy",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-03T08:15:27.537203+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-portaldelchaco",
+      "name": "Portal del Chaco",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-03T08:15:27.537203+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
