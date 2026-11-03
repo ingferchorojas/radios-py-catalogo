@@ -334,14 +334,14 @@
           "url": "https://www.desdeparaguay.com/680",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://www.desde-paraguay.com/trans680/trans680/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/trans680/trans680/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/680"
         },
         {
           "url": "https://www.desdeparaguay.com/680",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/trans680/trans680/playlist.m3u8",
+          "endpoint": "https://www.desde-paraguay.com/trans680/trans680/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/680"
         }
       ],
@@ -2048,19 +2048,19 @@
           "url": "https://www.desdeparaguay.com/agr",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movagr/movagr.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movagr/movagr.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/agr"
         },
         {
           "url": "https://www.desdeparaguay.com/agr",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movagr/movagr.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movagr/movagr.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/agr"
         }
       ],
       "source": "https://www.desdeparaguay.com/agr",
-      "verifiedAt": "2026-11-01",
+      "verifiedAt": "2026-11-03",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-02T22:16:03.137826+00:00"
@@ -2222,7 +2222,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/medano",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-03T16:14:05.023427+00:00"
+      }
     },
     {
       "id": "dsd-continental",
@@ -3067,8 +3072,9 @@
       "source": "https://www.desdeparaguay.com/1420",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-03T08:44:08.896572+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-03T16:14:05.023427+00:00"
       }
     },
     {

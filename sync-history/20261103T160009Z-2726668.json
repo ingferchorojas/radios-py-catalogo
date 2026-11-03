@@ -1,0 +1,67 @@
+{
+  "baseCommit": "3565a5a980a3fdc47a5ebf7a28b04945f9d4d59c",
+  "createdAt": "2026-11-03T16:14:05.911470+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-agr",
+      "name": "AGR",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/agr",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movagr/movagr.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/agr"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-03",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-680",
+      "name": "Cáritas",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/680",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/trans680/trans680/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/680"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-03",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-medano",
+      "name": "Medano",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-03T16:14:05.023427+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1420",
+      "name": "Guyrá Campana",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-03T16:14:05.023427+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
