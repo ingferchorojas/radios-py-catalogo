@@ -1,0 +1,30 @@
+{
+  "baseCommit": "43ea732702eee90ae218169b5497e18bccca84a9",
+  "createdAt": "2026-11-03T18:13:39.988666+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-medano",
+      "name": "Medano",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-03T18:13:39.019379+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1200",
+      "name": "Libre",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-03T18:13:39.019379+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
