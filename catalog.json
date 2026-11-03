@@ -1542,8 +1542,9 @@
       "source": "https://www.desdeparaguay.com/serrania",
       "verifiedAt": "2026-11-02",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-02T22:46:04.401965+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-03T03:48:20.721022+00:00"
       }
     },
     {
@@ -2353,19 +2354,19 @@
           "url": "https://www.desdeparaguay.com/arapy",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movarapy/movarapy.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movarapy/movarapy.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/arapy"
         },
         {
           "url": "https://www.desdeparaguay.com/arapy",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movarapy/movarapy.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movarapy/movarapy.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/arapy"
         }
       ],
       "source": "https://www.desdeparaguay.com/arapy",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-11-03",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-02T14:46:48.917428+00:00"
@@ -2542,19 +2543,19 @@
           "url": "https://www.desdeparaguay.com/tapiracuai",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movtapiracuai/movtapiracuai.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movtapiracuai/movtapiracuai.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/tapiracuai"
         },
         {
           "url": "https://www.desdeparaguay.com/tapiracuai",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movtapiracuai/movtapiracuai.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movtapiracuai/movtapiracuai.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/tapiracuai"
         }
       ],
       "source": "https://www.desdeparaguay.com/tapiracuai",
-      "verifiedAt": "2026-10-30",
+      "verifiedAt": "2026-11-03",
       "availability": {
         "status": "available",
         "checkedAt": "2026-10-30T14:43:03.697444+00:00"
