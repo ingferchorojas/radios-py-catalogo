@@ -1,0 +1,36 @@
+{
+  "baseCommit": "634d69e901498695064f5d333304107432d2fa64",
+  "createdAt": "2026-11-03T20:13:22.122051+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-altopy",
+      "name": "Alto Paraguay",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/altopy",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movaltopy/movaltopy.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/altopy"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-03",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-altopy",
+      "name": "Alto Paraguay",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-03T20:13:21.240772+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
