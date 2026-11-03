@@ -1,0 +1,18 @@
+{
+  "baseCommit": "854ad8d5bb344d1dbffc7f4a55068d17829f076c",
+  "createdAt": "2026-11-03T09:43:10.151387+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-sanguri",
+      "name": "Sanguri",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-03T09:43:09.204928+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
