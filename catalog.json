@@ -2223,8 +2223,9 @@
       "source": "https://www.desdeparaguay.com/evolucion",
       "verifiedAt": "2026-11-02",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-02T17:48:15.095804+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-04T19:13:40.348461+00:00"
       }
     },
     {
@@ -3133,8 +3134,9 @@
       "source": "https://www.desdeparaguay.com/1420",
       "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-04T17:42:27.799373+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-04T19:13:40.348461+00:00"
       }
     },
     {
