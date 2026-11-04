@@ -1,0 +1,29 @@
+{
+  "baseCommit": "4820c5b843003ecde7b83a4453625dec4626ab8f",
+  "createdAt": "2026-11-04T14:14:58.025002+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "montecarlo",
+      "name": "Radio Montecarlo",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-04T14:14:57.135974+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "corazon",
+      "name": "Radio Corazón",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-04T14:14:57.135974+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
