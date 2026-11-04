@@ -1573,8 +1573,9 @@
       "source": "https://www.desdeparaguay.com/serrania",
       "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-04T08:13:18.893036+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-04T19:43:23.203953+00:00"
       }
     },
     {
@@ -3298,18 +3299,18 @@
           "url": "https://www.desdeparaguay.com/1059",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/transsanpedro/transsanpedro/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/transsanpedro/transsanpedro/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/1059"
         },
         {
           "url": "https://www.desdeparaguay.com/1059",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/transsanpedro/transsanpedro/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/transsanpedro/transsanpedro/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/1059"
         }
       ],
-      "verifiedAt": "2026-10-31",
+      "verifiedAt": "2026-11-04",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-03T10:12:53.957289+00:00"
