@@ -1,0 +1,86 @@
+{
+  "baseCommit": "3c08495b674ac1ad7c56442fc1212ddac0bbedb2",
+  "createdAt": "2026-11-04T14:44:57.829186+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "itapua",
+      "name": "Itapúa FM",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-04T14:44:56.916528+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "nacional-am",
+      "name": "Radio Nacional del Paraguay AM",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-04T14:44:56.916528+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "nacional-fm",
+      "name": "Radio Nacional del Paraguay FM",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-04T14:44:56.916528+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "nacional-san-pedro",
+      "name": "Radio Nacional San Pedro",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-04T14:44:56.916528+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "universo",
+      "name": "Universo 970",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-04T14:44:56.916528+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "popular",
+      "name": "Radio Popular",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-04T14:44:56.916528+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-unasur",
+      "name": "Unasur",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-04T14:44:56.916528+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
