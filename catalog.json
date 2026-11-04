@@ -3058,19 +3058,19 @@
           "url": "https://www.desdeparaguay.com/1420",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/mov1420/mov1420.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/mov1420/mov1420.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/1420"
         },
         {
           "url": "https://www.desdeparaguay.com/1420",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/mov1420/mov1420.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/mov1420/mov1420.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/1420"
         }
       ],
       "source": "https://www.desdeparaguay.com/1420",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-11-03",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-03T20:43:05.407180+00:00"
@@ -3143,8 +3143,9 @@
       "source": "https://www.desdeparaguay.com/portaldelchaco",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-03T08:15:27.537203+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-04T00:14:15.889158+00:00"
       }
     },
     {
@@ -3382,8 +3383,9 @@
       ],
       "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-03T08:44:08.896572+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-04T00:14:15.889158+00:00"
       }
     },
     {
