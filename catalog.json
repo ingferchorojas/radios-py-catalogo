@@ -1640,9 +1640,8 @@
       "source": "https://www.desdeparaguay.com/altopy",
       "verifiedAt": "2026-11-03",
       "availability": {
-        "status": "unavailable",
-        "reason": "silence",
-        "checkedAt": "2026-11-04T02:44:12.684304+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-04T08:42:25.373350+00:00"
       }
     },
     {
@@ -3072,9 +3071,8 @@
       "source": "https://www.desdeparaguay.com/1420",
       "verifiedAt": "2026-11-03",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-04T02:14:03.561000+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-04T08:42:25.373350+00:00"
       }
     },
     {
@@ -3382,9 +3380,8 @@
       ],
       "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-04T00:14:15.889158+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-04T08:42:25.373350+00:00"
       }
     },
     {
