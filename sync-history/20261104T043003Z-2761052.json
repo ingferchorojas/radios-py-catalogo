@@ -1,0 +1,67 @@
+{
+  "baseCommit": "bdd4b01b3ea543b7c1319bd57e310fb4e2648897",
+  "createdAt": "2026-11-04T04:45:20.318836+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-ciudad",
+      "name": "Ciudad",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/ciudad",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movciudad/movciudad.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/ciudad"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-04",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-concierto",
+      "name": "Concierto",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/concierto",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movconcierto/movconcierto.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/concierto"
+      },
+      "action": "add_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-04",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-caraguatay",
+      "name": "Caraguatay",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-04T04:45:19.350437+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-piribebuy",
+      "name": "Piribebuy",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-04T04:45:19.350437+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
