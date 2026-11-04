@@ -1640,8 +1640,9 @@
       "source": "https://www.desdeparaguay.com/altopy",
       "verifiedAt": "2026-11-03",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-03T20:13:21.240772+00:00"
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-11-04T02:44:12.684304+00:00"
       }
     },
     {
