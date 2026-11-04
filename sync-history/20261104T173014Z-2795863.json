@@ -1,0 +1,47 @@
+{
+  "baseCommit": "bd3e702579ba3c7623a8b24c71eaf74e95baf76c",
+  "createdAt": "2026-11-04T17:42:28.745774+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-1420",
+      "name": "Guyrá Campana",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/1420",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/mov1420/mov1420.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/1420"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-04",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "nacional-fm",
+      "name": "Radio Nacional del Paraguay FM",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-04T17:42:27.799373+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1420",
+      "name": "Guyrá Campana",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-04T17:42:27.799373+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}

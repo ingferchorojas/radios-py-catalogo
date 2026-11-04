@@ -145,9 +145,8 @@
       "source": "https://mediosdelestado.gov.py/radios/",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-04T16:15:13.897632+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-04T17:42:27.799373+00:00"
       }
     },
     {
@@ -3113,23 +3112,22 @@
           "url": "https://www.desdeparaguay.com/1420",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/mov1420/mov1420.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/mov1420/mov1420.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/1420"
         },
         {
           "url": "https://www.desdeparaguay.com/1420",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/mov1420/mov1420.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/mov1420/mov1420.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/1420"
         }
       ],
       "source": "https://www.desdeparaguay.com/1420",
-      "verifiedAt": "2026-11-03",
+      "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-04T16:44:19.642462+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-04T17:42:27.799373+00:00"
       }
     },
     {
