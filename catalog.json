@@ -1546,8 +1546,9 @@
       "source": "https://www.desdeparaguay.com/serrania",
       "verifiedAt": "2026-11-03",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-03T08:15:27.537203+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-04T03:45:26.811128+00:00"
       }
     },
     {
@@ -1742,8 +1743,9 @@
       "source": "https://www.desdeparaguay.com/660",
       "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-03T09:13:18.582680+00:00"
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-11-04T03:45:26.811128+00:00"
       }
     },
     {
