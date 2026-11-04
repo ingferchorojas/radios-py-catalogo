@@ -1,0 +1,36 @@
+{
+  "baseCommit": "2db612c80c2e57256d996f51cdaf185e71e9b463",
+  "createdAt": "2026-11-04T20:43:28.803367+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-itapora",
+      "name": "Ita Pora",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/itapora",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movitapora/movitapora.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/itapora"
+      },
+      "action": "add_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-04",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1420",
+      "name": "Guyrá Campana",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-04T20:43:27.979062+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
