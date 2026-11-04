@@ -2324,8 +2324,9 @@
       "source": "https://www.desdeparaguay.com/losangeles",
       "verifiedAt": "2026-11-02",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-02T23:45:49.922288+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-04T16:44:19.642462+00:00"
       }
     },
     {
@@ -3008,16 +3009,22 @@
           "url": "https://www.desdeparaguay.com/elangel",
           "format": "hls",
           "resolver": "desdeparaguay",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movelangel/movelangel.stream/playlist.m3u8",
+          "source": "https://www.desdeparaguay.com/elangel"
+        },
+        {
+          "url": "https://www.desdeparaguay.com/elangel",
+          "format": "hls",
+          "resolver": "desdeparaguay",
           "endpoint": "https://rds3.desdeparaguay.net/movelangel/movelangel.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/elangel"
         }
       ],
       "source": "https://www.desdeparaguay.com/elangel",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-04T12:45:29.499379+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-04T16:44:19.642462+00:00"
       }
     },
     {
@@ -3122,8 +3129,9 @@
       "source": "https://www.desdeparaguay.com/1420",
       "verifiedAt": "2026-11-03",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-04T08:42:25.373350+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-04T16:44:19.642462+00:00"
       }
     },
     {
