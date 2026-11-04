@@ -2224,9 +2224,8 @@
       "source": "https://www.desdeparaguay.com/evolucion",
       "verifiedAt": "2026-11-02",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-04T19:13:40.348461+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-04T22:14:13.421268+00:00"
       }
     },
     {
