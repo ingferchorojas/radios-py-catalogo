@@ -3071,8 +3071,9 @@
       "source": "https://www.desdeparaguay.com/1420",
       "verifiedAt": "2026-11-03",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-03T20:43:05.407180+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-04T02:14:03.561000+00:00"
       }
     },
     {

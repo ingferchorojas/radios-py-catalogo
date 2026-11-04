@@ -1,0 +1,19 @@
+{
+  "baseCommit": "bf9568bd95f03729cbf99b139cf2553de93fdece",
+  "createdAt": "2026-11-04T02:14:04.492988+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-1420",
+      "name": "Guyrá Campana",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-04T02:14:03.561000+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
