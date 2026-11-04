@@ -2279,12 +2279,19 @@
           "url": "https://www.desdeparaguay.com/continental",
           "format": "hls",
           "resolver": "desdeparaguay",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movcontinental/movcontinental.stream/playlist.m3u8",
+          "source": "https://www.desdeparaguay.com/continental"
+        },
+        {
+          "url": "https://www.desdeparaguay.com/continental",
+          "format": "hls",
+          "resolver": "desdeparaguay",
           "endpoint": "https://rds3.desdeparaguay.net/movcontinental/movcontinental.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/continental"
         }
       ],
       "source": "https://www.desdeparaguay.com/continental",
-      "verifiedAt": "2026-10-07",
+      "verifiedAt": "2026-11-04",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-02T23:45:49.922288+00:00"
@@ -2307,23 +2314,22 @@
           "url": "https://www.desdeparaguay.com/losangeles",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/losangeles"
         },
         {
           "url": "https://www.desdeparaguay.com/losangeles",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/losangeles"
         }
       ],
       "source": "https://www.desdeparaguay.com/losangeles",
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-04T16:44:19.642462+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-04T18:44:25.815532+00:00"
       }
     },
     {
@@ -3457,14 +3463,14 @@
           "url": "https://www.desdeparaguay.com/concierto",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movconcierto/movconcierto.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movconcierto/movconcierto.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/concierto"
         },
         {
           "url": "https://www.desdeparaguay.com/concierto",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movconcierto/movconcierto.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movconcierto/movconcierto.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/concierto"
         }
       ],
