@@ -169,8 +169,9 @@
       "source": "https://mediosdelestado.gov.py/radios/",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-03T10:12:53.957289+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-04T12:15:46.551321+00:00"
       }
     },
     {
@@ -2116,16 +2117,22 @@
           "url": "https://www.desdeparaguay.com/parana",
           "format": "hls",
           "resolver": "desdeparaguay",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movparana/movparana.stream/playlist.m3u8",
+          "source": "https://www.desdeparaguay.com/parana"
+        },
+        {
+          "url": "https://www.desdeparaguay.com/parana",
+          "format": "hls",
+          "resolver": "desdeparaguay",
           "endpoint": "https://rds3.desdeparaguay.net/movparana/movparana.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/parana"
         }
       ],
       "source": "https://www.desdeparaguay.com/parana",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-04T12:15:46.551321+00:00"
       }
     },
     {
@@ -2606,8 +2613,9 @@
       "source": "https://www.desdeparaguay.com/unasur",
       "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-02T17:48:15.095804+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-04T12:15:46.551321+00:00"
       }
     },
     {
