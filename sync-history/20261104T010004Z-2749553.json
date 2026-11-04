@@ -1,0 +1,30 @@
+{
+  "baseCommit": "df50520be91dba25a6e1b1a611eca393555129f1",
+  "createdAt": "2026-11-04T01:14:12.140547+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-republica",
+      "name": "República",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-04T01:14:11.201638+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-4dmasnoticias",
+      "name": "4Dmás Noticias",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-04T01:14:11.201638+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
