@@ -1,0 +1,72 @@
+{
+  "baseCommit": "fa7d114c65ef96bc7cdaa0180ba94d9598fd121b",
+  "createdAt": "2026-11-04T15:18:40.217178+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-urbana",
+      "name": "Urbana",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/urbana",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/transurbana/transurbana/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/urbana"
+      },
+      "action": "add_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-04",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-portaldelchaco",
+      "name": "Portal del Chaco",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/portaldelchaco",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movportaldelchaco/movportaldelchaco.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/portaldelchaco"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-04",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-estacion40",
+      "name": "E40",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/estacion40",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/transestacion40/transestacion40/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/estacion40"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-04",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "universo",
+      "name": "Universo 970",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-04T15:18:36.369860+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}

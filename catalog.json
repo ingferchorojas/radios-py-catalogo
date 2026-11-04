@@ -225,9 +225,8 @@
       "source": "https://www.lanacion.com.py/medios/",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-04T14:44:56.916528+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-04T15:18:36.369860+00:00"
       }
     },
     {
@@ -930,20 +929,20 @@
       "website": "https://www.desdeparaguay.com/estacion40",
       "streams": [
         {
-          "url": "https://mdstrm.com/audio/62d81cfbbfbcee0837ba1b60/icecast.audio",
-          "format": "aac",
-          "source": "https://www.desdeparaguay.com/estacion40"
-        },
-        {
           "url": "https://www.desdeparaguay.com/estacion40",
           "format": "hls",
           "resolver": "desdeparaguay",
           "endpoint": "https://rds3.desdeparaguay.net/transestacion40/transestacion40/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/estacion40"
+        },
+        {
+          "url": "https://mdstrm.com/audio/62d81cfbbfbcee0837ba1b60/icecast.audio",
+          "format": "aac",
+          "source": "https://www.desdeparaguay.com/estacion40"
         }
       ],
       "source": "https://www.desdeparaguay.com/estacion40",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-11-04"
     },
     {
       "id": "dsd-emisoras",
@@ -2915,13 +2914,20 @@
       "website": "https://www.desdeparaguay.com/urbana",
       "streams": [
         {
+          "url": "https://www.desdeparaguay.com/urbana",
+          "format": "hls",
+          "resolver": "desdeparaguay",
+          "endpoint": "https://rds3.desdeparaguay.net/transurbana/transurbana/playlist.m3u8",
+          "source": "https://www.desdeparaguay.com/urbana"
+        },
+        {
           "url": "https://mdstrm.com/audio/62d81cdabff0bc082f8f1a24/icecast.audio",
           "format": "aac",
           "source": "https://www.desdeparaguay.com/urbana"
         }
       ],
       "source": "https://www.desdeparaguay.com/urbana",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-11-04"
     },
     {
       "id": "dsd-villaoliva",
@@ -3166,19 +3172,19 @@
           "url": "https://www.desdeparaguay.com/portaldelchaco",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movportaldelchaco/movportaldelchaco.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movportaldelchaco/movportaldelchaco.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/portaldelchaco"
         },
         {
           "url": "https://www.desdeparaguay.com/portaldelchaco",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movportaldelchaco/movportaldelchaco.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movportaldelchaco/movportaldelchaco.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/portaldelchaco"
         }
       ],
       "source": "https://www.desdeparaguay.com/portaldelchaco",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-11-04",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-04T08:13:18.893036+00:00"
