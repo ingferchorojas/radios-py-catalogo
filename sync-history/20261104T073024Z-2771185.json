@@ -1,0 +1,25 @@
+{
+  "baseCommit": "e7e69364a19e10166103834ac963c9cea5e22314",
+  "createdAt": "2026-11-04T07:44:57.994563+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-agr",
+      "name": "AGR",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/agr",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movagr/movagr.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/agr"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-04",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    }
+  ]
+}
