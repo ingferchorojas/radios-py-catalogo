@@ -1,0 +1,108 @@
+{
+  "baseCommit": "528d60d79f6820aaaffe4f70cf1cdb0854217adf",
+  "createdAt": "2026-11-04T09:14:20.411963+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-palma",
+      "name": "Palma",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/palma",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/transpalma/transpalma/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/palma"
+      },
+      "action": "add_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-04",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-unasur",
+      "name": "Unasur",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/unasur",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movunasur/movunasur.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/unasur"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-04",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-ypane",
+      "name": "Ypané",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/ypane",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movypane/movypane.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/ypane"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-04",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-700",
+      "name": "Carlos A. López",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/700",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/trans700/trans700/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/700"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-04",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "aspen",
+      "name": "Aspen",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/aspen",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/aspen"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-04",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1200",
+      "name": "Libre",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-04T09:14:19.557955+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}

@@ -52,21 +52,21 @@
       "website": "https://www.radioaspen.com.py/",
       "streams": [
         {
-          "url": "https://www.radioaspen.com.py/",
-          "format": "hls",
-          "resolver": "aspen",
-          "source": "https://www.radioaspen.com.py/"
-        },
-        {
           "url": "https://www.desdeparaguay.com/aspen",
           "format": "hls",
           "resolver": "desdeparaguay",
           "endpoint": "https://rds3.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/aspen"
+        },
+        {
+          "url": "https://www.radioaspen.com.py/",
+          "format": "hls",
+          "resolver": "aspen",
+          "source": "https://www.radioaspen.com.py/"
         }
       ],
       "source": "https://www.radioaspen.com.py/",
-      "verifiedAt": "2026-10-29"
+      "verifiedAt": "2026-11-04"
     },
     {
       "id": "itapua",
@@ -2588,19 +2588,19 @@
           "url": "https://www.desdeparaguay.com/unasur",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movunasur/movunasur.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movunasur/movunasur.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/unasur"
         },
         {
           "url": "https://www.desdeparaguay.com/unasur",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movunasur/movunasur.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movunasur/movunasur.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/unasur"
         }
       ],
       "source": "https://www.desdeparaguay.com/unasur",
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-04",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-02T17:48:15.095804+00:00"
@@ -2855,13 +2855,20 @@
       "website": "https://www.desdeparaguay.com/palma",
       "streams": [
         {
+          "url": "https://www.desdeparaguay.com/palma",
+          "format": "hls",
+          "resolver": "desdeparaguay",
+          "endpoint": "https://rds3.desdeparaguay.net/transpalma/transpalma/playlist.m3u8",
+          "source": "https://www.desdeparaguay.com/palma"
+        },
+        {
           "url": "https://mdstrm.com/audio/62d81d48f5ef320830c8becf/icecast.audio",
           "format": "aac",
           "source": "https://www.desdeparaguay.com/palma"
         }
       ],
       "source": "https://www.desdeparaguay.com/palma",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-11-04"
     },
     {
       "id": "dsd-urbana",
@@ -3022,19 +3029,19 @@
           "url": "https://www.desdeparaguay.com/ypane",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movypane/movypane.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movypane/movypane.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/ypane"
         },
         {
           "url": "https://www.desdeparaguay.com/ypane",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movypane/movypane.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movypane/movypane.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/ypane"
         }
       ],
       "source": "https://www.desdeparaguay.com/ypane",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-11-04",
       "availability": {
         "status": "available",
         "checkedAt": "2026-10-30T12:14:30.029192+00:00"
@@ -3092,19 +3099,19 @@
           "url": "https://www.desdeparaguay.com/700",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/trans700/trans700/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/trans700/trans700/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/700"
         },
         {
           "url": "https://www.desdeparaguay.com/700",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/trans700/trans700/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/trans700/trans700/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/700"
         }
       ],
       "source": "https://www.desdeparaguay.com/700",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-11-04",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-04T08:13:18.893036+00:00"
@@ -3351,9 +3358,8 @@
       ],
       "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-04T00:44:07.765937+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-04T09:14:19.557955+00:00"
       }
     },
     {
