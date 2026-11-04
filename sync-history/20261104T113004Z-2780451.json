@@ -1,0 +1,70 @@
+{
+  "baseCommit": "5500744423a8cc9fcbe0ca83a61948e62b3d276a",
+  "createdAt": "2026-11-04T11:44:07.450311+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-1140",
+      "name": "Central",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/1140",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/mov1140/mov1140.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/1140"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-04",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "universo",
+      "name": "Universo 970",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-04T11:44:06.600230+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1140",
+      "name": "Central",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-04T11:44:06.600230+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 3
+    },
+    {
+      "action": "availability",
+      "id": "dsd-4dmasnoticias",
+      "name": "4Dmás Noticias",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-04T11:44:06.600230+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 4
+    },
+    {
+      "action": "availability",
+      "id": "dsd-concierto",
+      "name": "Concierto",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-04T11:44:06.600230+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 5
+    }
+  ]
+}

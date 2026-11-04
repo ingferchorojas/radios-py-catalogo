@@ -216,7 +216,12 @@
         }
       ],
       "source": "https://www.lanacion.com.py/medios/",
-      "verifiedAt": "2026-10-27"
+      "verifiedAt": "2026-10-27",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-04T11:44:06.600230+00:00"
+      }
     },
     {
       "id": "corazon",
@@ -366,23 +371,22 @@
           "url": "https://www.desdeparaguay.com/1140",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/mov1140/mov1140.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/mov1140/mov1140.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/1140"
         },
         {
           "url": "https://www.desdeparaguay.com/1140",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/mov1140/mov1140.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/mov1140/mov1140.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/1140"
         }
       ],
       "source": "https://www.desdeparaguay.com/1140",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-04T11:44:06.600230+00:00"
       }
     },
     {
@@ -3183,9 +3187,8 @@
       "source": "https://www.desdeparaguay.com/4dmasnoticias",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-04T01:14:11.201638+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-04T11:44:06.600230+00:00"
       }
     },
     {
@@ -3421,9 +3424,8 @@
       ],
       "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-04T08:13:18.893036+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-04T11:44:06.600230+00:00"
       }
     }
   ]
