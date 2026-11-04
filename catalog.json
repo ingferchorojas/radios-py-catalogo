@@ -354,19 +354,19 @@
           "url": "https://www.desdeparaguay.com/680",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/trans680/trans680/playlist.m3u8",
+          "endpoint": "https://www.desde-paraguay.com/trans680/trans680/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/680"
         },
         {
           "url": "https://www.desdeparaguay.com/680",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://www.desde-paraguay.com/trans680/trans680/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/trans680/trans680/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/680"
         }
       ],
       "source": "https://www.desdeparaguay.com/680",
-      "verifiedAt": "2026-11-03"
+      "verifiedAt": "2026-11-04"
     },
     {
       "id": "dsd-1140",
@@ -2091,8 +2091,9 @@
       "source": "https://www.desdeparaguay.com/agr",
       "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-02T22:16:03.137826+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-04T23:16:45.083233+00:00"
       }
     },
     {
@@ -2294,8 +2295,9 @@
       "source": "https://www.desdeparaguay.com/continental",
       "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-02T23:45:49.922288+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-04T23:16:45.083233+00:00"
       }
     },
     {
@@ -2329,8 +2331,9 @@
       "source": "https://www.desdeparaguay.com/losangeles",
       "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-04T18:44:25.815532+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-04T23:16:45.083233+00:00"
       }
     },
     {

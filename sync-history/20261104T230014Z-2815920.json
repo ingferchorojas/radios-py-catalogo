@@ -1,0 +1,61 @@
+{
+  "baseCommit": "d111ed2cb2773f8079fc7634a86703fb0e441840",
+  "createdAt": "2026-11-04T23:16:45.975579+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-680",
+      "name": "Cáritas",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/680",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://www.desde-paraguay.com/trans680/trans680/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/680"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-04",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-agr",
+      "name": "AGR",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-04T23:16:45.083233+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-continental",
+      "name": "Continental",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-04T23:16:45.083233+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-losangeles",
+      "name": "Los Angeles",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-04T23:16:45.083233+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
