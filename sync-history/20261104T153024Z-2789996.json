@@ -1,0 +1,30 @@
+{
+  "baseCommit": "a6362776fe33b6c0d5307c09798c50aa483fe9fd",
+  "createdAt": "2026-11-04T15:46:38.149432+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "popular",
+      "name": "Radio Popular",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-04T15:46:37.274002+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-650",
+      "name": "La Tribu",
+      "availability": {
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-11-04T15:46:37.274002+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}

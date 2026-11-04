@@ -278,9 +278,8 @@
       "source": "https://www.lanacion.com.py/medios/",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-04T14:44:56.916528+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-04T15:46:37.274002+00:00"
       }
     },
     {
@@ -504,7 +503,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/650",
-      "verifiedAt": "2026-10-29"
+      "verifiedAt": "2026-10-29",
+      "availability": {
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-11-04T15:46:37.274002+00:00"
+      }
     },
     {
       "id": "dsd-1120",
