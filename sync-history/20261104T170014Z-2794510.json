@@ -1,0 +1,29 @@
+{
+  "baseCommit": "0e4606e085a2abd0f745b49460919accbbb68b16",
+  "createdAt": "2026-11-04T17:15:02.779462+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "nacional-am",
+      "name": "Radio Nacional del Paraguay AM",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-04T17:15:01.616434+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "nacional-san-pedro",
+      "name": "Radio Nacional San Pedro",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-04T17:15:01.616434+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
