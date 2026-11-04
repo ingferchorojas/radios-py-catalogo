@@ -2671,8 +2671,9 @@
       "source": "https://www.desdeparaguay.com/pueblo",
       "verifiedAt": "2026-11-02",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-03T10:12:53.957289+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-04T18:14:14.882659+00:00"
       }
     },
     {
@@ -3266,8 +3267,9 @@
       "source": "https://www.desdeparaguay.com/centro",
       "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-04T07:17:01.516150+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-04T18:14:14.882659+00:00"
       }
     },
     {
