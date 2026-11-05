@@ -1,0 +1,151 @@
+{
+  "baseCommit": "02944b4150eb25c55f3fbeeeb82585fec868072c",
+  "createdAt": "2026-11-05T18:52:55.555627+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-radiomas",
+      "name": "Más",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/radiomas",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movradiomas/movradiomas.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/radiomas"
+      },
+      "action": "add_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-universocde",
+      "name": "Universo",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/universocde",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/transuniverso/transuniverso/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/universocde"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-yacyreta",
+      "name": "Yacyreta",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/yacyreta",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movyacyreta/movyacyreta.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/yacyreta"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-republica",
+      "name": "República",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/republica",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movrepublica/movrepublica.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/republica"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-tvillarrica",
+      "name": "T",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/tvillarrica",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movtransamerica/movtransamerica.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/tvillarrica"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-visionfm",
+      "name": "Visión",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/visionfm",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movvision/movvision.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/visionfm"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-elangel",
+      "name": "El Ángel",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/elangel",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movelangel/movelangel.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/elangel"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-700",
+      "name": "Carlos A. López",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/700",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/trans700/trans700/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/700"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    }
+  ]
+}
