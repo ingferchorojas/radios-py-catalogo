@@ -1,0 +1,191 @@
+{
+  "baseCommit": "a655d4419296ecfdabf5f231e8d0566e179f2bf3",
+  "createdAt": "2026-11-05T16:31:43.949709+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-1069",
+      "name": "Pilar Pilar",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/1069",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/mov1069/mov1069.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/1069"
+      },
+      "action": "add_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-mdq",
+      "name": "MDQ",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/mdq",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movmdq/movmdq.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/mdq"
+      },
+      "action": "add_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-megaestacion95",
+      "name": "Megaestación",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/megaestacion95",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movmegaestacion95/movmegaestacion95.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/megaestacion95"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-agr",
+      "name": "AGR",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/agr",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movagr/movagr.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/agr"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-pueblo",
+      "name": "Pueblo",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/pueblo",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movpueblo/movpueblo.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/pueblo"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-itapora",
+      "name": "Ita Pora",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/itapora",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movitapora/movitapora.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/itapora"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-concierto",
+      "name": "Concierto",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/concierto",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movconcierto/movconcierto.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/concierto"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-canal100",
+      "name": "Canal",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-05T16:31:42.998041+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-cfa",
+      "name": "CFA",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-05T16:31:42.998041+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-conquistador",
+      "name": "Conquistador",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-05T16:31:42.998041+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-emisoras",
+      "name": "Emisoras Paraguay",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-05T16:31:42.998041+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-exclusiva",
+      "name": "Exclusiva",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-05T16:31:42.998041+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
