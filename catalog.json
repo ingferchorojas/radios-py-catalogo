@@ -540,7 +540,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/1120",
-      "verifiedAt": "2026-10-29"
+      "verifiedAt": "2026-10-29",
+      "availability": {
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-11-05T02:16:43.951414+00:00"
+      }
     },
     {
       "id": "dsd-1000",
@@ -3183,8 +3188,9 @@
       "source": "https://www.desdeparaguay.com/700",
       "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-04T08:13:18.893036+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-05T02:16:43.951414+00:00"
       }
     },
     {
