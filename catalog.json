@@ -1013,9 +1013,8 @@
       "source": "https://www.desdeparaguay.com/exclusiva",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-05T04:18:18.045432+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-05T07:17:38.659949+00:00"
       }
     },
     {
@@ -2221,23 +2220,22 @@
           "url": "https://www.desdeparaguay.com/evolucion",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movevolucion/movevolucion.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movevolucion/movevolucion.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/evolucion"
         },
         {
           "url": "https://www.desdeparaguay.com/evolucion",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movevolucion/movevolucion.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movevolucion/movevolucion.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/evolucion"
         }
       ],
       "source": "https://www.desdeparaguay.com/evolucion",
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-05T02:47:30.697359+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-05T07:17:38.659949+00:00"
       }
     },
     {
@@ -3301,9 +3299,8 @@
       "source": "https://www.desdeparaguay.com/centro",
       "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-04T18:14:14.882659+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-05T07:17:38.659949+00:00"
       }
     },
     {
