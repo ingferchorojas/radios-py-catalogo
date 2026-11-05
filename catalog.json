@@ -642,9 +642,8 @@
       "source": "https://www.desdeparaguay.com/1020",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-05T13:58:54.798378+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-05T15:27:58.325734+00:00"
       }
     },
     {
@@ -827,19 +826,19 @@
           "url": "https://www.desdeparaguay.com/cardinalromance",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/transabcfm/transabcfm/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/transabcfm/transabcfm/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/cardinalromance"
         },
         {
           "url": "https://www.desdeparaguay.com/cardinalromance",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/transabcfm/transabcfm/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/transabcfm/transabcfm/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/cardinalromance"
         }
       ],
       "source": "https://www.desdeparaguay.com/cardinalromance",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-11-05",
       "availability": {
         "status": "available",
         "checkedAt": "2026-10-30T10:15:20.438376+00:00"
@@ -1029,8 +1028,9 @@
       "source": "https://www.desdeparaguay.com/exclusiva",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-05T07:17:38.659949+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-05T15:27:58.325734+00:00"
       }
     },
     {
@@ -1225,9 +1225,8 @@
       "source": "https://www.desdeparaguay.com/memories",
       "verifiedAt": "2026-11-01",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-05T14:28:46.323641+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-05T15:27:58.325734+00:00"
       }
     },
     {
@@ -1296,9 +1295,8 @@
       "source": "https://www.desdeparaguay.com/nihongakko",
       "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-05T13:02:13.452060+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-05T15:27:58.325734+00:00"
       }
     },
     {
@@ -1425,9 +1423,8 @@
       "source": "https://www.desdeparaguay.com/tropicalia",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-05T13:02:13.452060+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-05T15:27:58.325734+00:00"
       }
     },
     {
@@ -1461,9 +1458,8 @@
       "source": "https://www.desdeparaguay.com/venus",
       "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-05T13:02:13.452060+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-05T15:27:58.325734+00:00"
       }
     },
     {
@@ -2736,9 +2732,8 @@
       "source": "https://www.desdeparaguay.com/pueblo",
       "verifiedAt": "2026-11-02",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-04T18:14:14.882659+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-05T15:27:58.325734+00:00"
       }
     },
     {
@@ -2793,12 +2788,19 @@
           "url": "https://www.desdeparaguay.com/sanguri",
           "format": "hls",
           "resolver": "desdeparaguay",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movsanguri/movsanguri.stream/playlist.m3u8",
+          "source": "https://www.desdeparaguay.com/sanguri"
+        },
+        {
+          "url": "https://www.desdeparaguay.com/sanguri",
+          "format": "hls",
+          "resolver": "desdeparaguay",
           "endpoint": "https://rds3.desdeparaguay.net/movsanguri/movsanguri.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/sanguri"
         }
       ],
       "source": "https://www.desdeparaguay.com/sanguri",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-11-05",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-03T09:43:09.204928+00:00"

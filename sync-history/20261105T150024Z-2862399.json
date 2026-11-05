@@ -1,0 +1,121 @@
+{
+  "baseCommit": "e5353f4b135c9b46014ef7db1a0325ad38ca54e9",
+  "createdAt": "2026-11-05T15:27:59.168226+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-sanguri",
+      "name": "Sanguri",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/sanguri",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movsanguri/movsanguri.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/sanguri"
+      },
+      "action": "add_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-cardinalromance",
+      "name": "Cardinal Romance",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/cardinalromance",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/transabcfm/transabcfm/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/cardinalromance"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1020",
+      "name": "Ñanduti",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-05T15:27:58.325734+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 2
+    },
+    {
+      "action": "availability",
+      "id": "dsd-exclusiva",
+      "name": "Exclusiva",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-05T15:27:58.325734+00:00"
+      },
+      "consecutiveFailures": 4,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-memories",
+      "name": "Memories",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-05T15:27:58.325734+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 2
+    },
+    {
+      "action": "availability",
+      "id": "dsd-nihongakko",
+      "name": "Nihon Gakko",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-05T15:27:58.325734+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 2
+    },
+    {
+      "action": "availability",
+      "id": "dsd-tropicalia",
+      "name": "Tropicalia",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-05T15:27:58.325734+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-venus",
+      "name": "Venus",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-05T15:27:58.325734+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-pueblo",
+      "name": "Pueblo",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-05T15:27:58.325734+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
