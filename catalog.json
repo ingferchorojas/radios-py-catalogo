@@ -721,16 +721,22 @@
           "url": "https://www.desdeparaguay.com/aranduka",
           "format": "hls",
           "resolver": "desdeparaguay",
+          "endpoint": "https://rds3.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8",
+          "source": "https://www.desdeparaguay.com/aranduka"
+        },
+        {
+          "url": "https://www.desdeparaguay.com/aranduka",
+          "format": "hls",
+          "resolver": "desdeparaguay",
           "endpoint": "https://zn1radios.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/aranduka"
         }
       ],
       "source": "https://www.desdeparaguay.com/aranduka",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-05T10:49:00.620689+00:00"
       }
     },
     {
@@ -2083,19 +2089,19 @@
           "url": "https://www.desdeparaguay.com/agr",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movagr/movagr.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movagr/movagr.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/agr"
         },
         {
           "url": "https://www.desdeparaguay.com/agr",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movagr/movagr.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movagr/movagr.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/agr"
         }
       ],
       "source": "https://www.desdeparaguay.com/agr",
-      "verifiedAt": "2026-11-04",
+      "verifiedAt": "2026-11-05",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-05T09:43:24.506657+00:00"
