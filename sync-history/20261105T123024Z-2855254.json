@@ -1,0 +1,367 @@
+{
+  "baseCommit": "0a42354d4e56e1b8c4c2df503a0b75cdccd2d879",
+  "createdAt": "2026-11-05T13:02:14.399455+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-losangeles",
+      "name": "Los Angeles",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/losangeles",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/losangeles"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-yacyreta",
+      "name": "Yacyreta",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/yacyreta",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movyacyreta/movyacyreta.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/yacyreta"
+      },
+      "action": "add_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-piribebuy",
+      "name": "Piribebuy",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/piribebuy",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movpiribebuy/movpiribebuy.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/piribebuy"
+      },
+      "action": "add_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-arandu",
+      "name": "Arandú",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/arandu",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movarandu/movarandu.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/arandu"
+      },
+      "action": "add_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-republica",
+      "name": "República",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/republica",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movrepublica/movrepublica.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/republica"
+      },
+      "action": "add_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-tvillarrica",
+      "name": "T",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/tvillarrica",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movtransamerica/movtransamerica.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/tvillarrica"
+      },
+      "action": "add_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-visionfm",
+      "name": "Visión",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/visionfm",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movvision/movvision.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/visionfm"
+      },
+      "action": "add_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-caraguatay",
+      "name": "Caraguatay",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/caraguatay",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movcaraguatay/movcaraguatay.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/caraguatay"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-altopy",
+      "name": "Alto Paraguay",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/altopy",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movaltopy/movaltopy.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/altopy"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-arapy",
+      "name": "Arapy",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/arapy",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movarapy/movarapy.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/arapy"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-ciudad",
+      "name": "Ciudad",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/ciudad",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movciudad/movciudad.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/ciudad"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-tapiracuai",
+      "name": "Tapiracuai",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/tapiracuai",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movtapiracuai/movtapiracuai.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/tapiracuai"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-unasur",
+      "name": "Unasur",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/unasur",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movunasur/movunasur.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/unasur"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-metro",
+      "name": "Metro",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/metro",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movmetro/movmetro.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/metro"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-ypane",
+      "name": "Ypané",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/ypane",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movypane/movypane.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/ypane"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-700",
+      "name": "Carlos A. López",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/700",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/trans700/trans700/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/700"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-centro",
+      "name": "Centro",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/centro",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movcentro/movcentro.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/centro"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-1300",
+      "name": "Fe y Alegría",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/1300",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movfeyalegria/movfeyalegria.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/1300"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-nihongakko",
+      "name": "Nihon Gakko",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-05T13:02:13.452060+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-tropicalia",
+      "name": "Tropicalia",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-05T13:02:13.452060+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-venus",
+      "name": "Venus",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-05T13:02:13.452060+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
