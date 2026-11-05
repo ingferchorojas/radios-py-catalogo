@@ -1012,8 +1012,9 @@
       "source": "https://www.desdeparaguay.com/exclusiva",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-04T07:17:01.516150+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-05T04:18:18.045432+00:00"
       }
     },
     {
@@ -3504,8 +3505,9 @@
       ],
       "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-04T11:44:06.600230+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-05T04:18:18.045432+00:00"
       }
     }
   ]
