@@ -2770,14 +2770,14 @@
           "url": "https://www.desdeparaguay.com/itapora",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movitapora/movitapora.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movitapora/movitapora.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/itapora"
         },
         {
           "url": "https://www.desdeparaguay.com/itapora",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movitapora/movitapora.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movitapora/movitapora.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/itapora"
         }
       ],
