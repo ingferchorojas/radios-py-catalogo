@@ -542,8 +542,9 @@
       "source": "https://www.desdeparaguay.com/1120",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-05T02:47:30.697359+00:00"
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-11-05T04:47:44.290375+00:00"
       }
     },
     {
@@ -2488,8 +2489,9 @@
       "source": "https://www.desdeparaguay.com/piribebuy",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-04T08:13:18.893036+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-05T04:47:44.290375+00:00"
       }
     },
     {
