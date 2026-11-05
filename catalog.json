@@ -3493,9 +3493,8 @@
       ],
       "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-05T04:18:18.045432+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-05T10:12:54.050624+00:00"
       }
     }
   ]

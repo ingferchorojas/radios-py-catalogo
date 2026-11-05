@@ -1,0 +1,18 @@
+{
+  "baseCommit": "047ee09cad9d7db539ec1af4659834cd1b8e1204",
+  "createdAt": "2026-11-05T10:12:54.918496+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-concierto",
+      "name": "Concierto",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-05T10:12:54.050624+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
