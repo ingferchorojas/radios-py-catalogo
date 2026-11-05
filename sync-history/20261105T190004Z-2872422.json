@@ -1,0 +1,277 @@
+{
+  "baseCommit": "a7ebcfc4ea26c33715c53a31e7bcb10dfe829b26",
+  "createdAt": "2026-11-05T19:32:33.225197+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-altopy",
+      "name": "Alto Paraguay",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/altopy",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movaltopy/movaltopy.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/altopy"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-660",
+      "name": "Regional",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/660",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/mov660/mov660.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/660"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-piribebuy",
+      "name": "Piribebuy",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/piribebuy",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movpiribebuy/movpiribebuy.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/piribebuy"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-unasur",
+      "name": "Unasur",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/unasur",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movunasur/movunasur.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/unasur"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-metro",
+      "name": "Metro",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/metro",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movmetro/movmetro.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/metro"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-1420",
+      "name": "Guyrá Campana",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/1420",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/mov1420/mov1420.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/1420"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-700",
+      "name": "Carlos A. López",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/700",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/trans700/trans700/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/700"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-sanandres",
+      "name": "San Andrés",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/sanandres",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movsanandres/movsanandres.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/sanandres"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-serrania",
+      "name": "Serranía",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/serrania",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movserrania/movserrania.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/serrania"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-agr",
+      "name": "AGR",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/agr",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movagr/movagr.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/agr"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-curuguaty",
+      "name": "Curuguaty",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/curuguaty",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movcuruguaty/movcuruguaty.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/curuguaty"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-multiradio",
+      "name": "Multi",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/multiradio",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movmultiradio/movmultiradio.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/multiradio"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-ciudad",
+      "name": "Ciudad",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/ciudad",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movciudad/movciudad.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/ciudad"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-republica",
+      "name": "República",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/republica",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movrepublica/movrepublica.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/republica"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-elangel",
+      "name": "El Ángel",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/elangel",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movelangel/movelangel.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/elangel"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    }
+  ]
+}
