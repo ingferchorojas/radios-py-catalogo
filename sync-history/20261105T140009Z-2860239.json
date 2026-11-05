@@ -1,0 +1,78 @@
+{
+  "baseCommit": "1f2cabb83aebeff146f3b03f78d923038625c2d5",
+  "createdAt": "2026-11-05T14:28:47.284271+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-serrania",
+      "name": "Serranía",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/serrania",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movserrania/movserrania.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/serrania"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-aquidaban",
+      "name": "Aquidabán",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/aquidaban",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movaquidaban/movaquidaban.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/aquidaban"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-amor",
+      "name": "Amor",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-05T14:28:46.323641+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-emisoras",
+      "name": "Emisoras Paraguay",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-05T14:28:46.323641+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-memories",
+      "name": "Memories",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-05T14:28:46.323641+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}

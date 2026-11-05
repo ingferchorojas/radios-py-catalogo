@@ -678,9 +678,8 @@
       "source": "https://www.desdeparaguay.com/amor",
       "verifiedAt": "2026-11-01",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-05T13:58:54.798378+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-05T14:28:46.323641+00:00"
       }
     },
     {
@@ -994,8 +993,9 @@
       "source": "https://www.desdeparaguay.com/emisoras",
       "verifiedAt": "2026-10-07",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-10-30T11:15:04.279403+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-05T14:28:46.323641+00:00"
       }
     },
     {
@@ -1225,8 +1225,9 @@
       "source": "https://www.desdeparaguay.com/memories",
       "verifiedAt": "2026-11-01",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-10-30T23:12:03.763480+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-05T14:28:46.323641+00:00"
       }
     },
     {
@@ -1588,14 +1589,14 @@
           "url": "https://www.desdeparaguay.com/serrania",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movserrania/movserrania.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movserrania/movserrania.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/serrania"
         },
         {
           "url": "https://www.desdeparaguay.com/serrania",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movserrania/movserrania.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movserrania/movserrania.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/serrania"
         }
       ],
@@ -1818,19 +1819,19 @@
           "url": "https://www.desdeparaguay.com/aquidaban",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movaquidaban/movaquidaban.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movaquidaban/movaquidaban.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/aquidaban"
         },
         {
           "url": "https://www.desdeparaguay.com/aquidaban",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movaquidaban/movaquidaban.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movaquidaban/movaquidaban.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/aquidaban"
         }
       ],
       "source": "https://www.desdeparaguay.com/aquidaban",
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-05",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-05T13:58:54.798378+00:00"
