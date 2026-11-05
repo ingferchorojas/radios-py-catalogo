@@ -1,0 +1,19 @@
+{
+  "baseCommit": "94f278a7ed567a56292c378610da959c3e1e8ee6",
+  "createdAt": "2026-11-05T06:51:01.564142+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-saltosdelguaira",
+      "name": "Multi",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-05T06:51:00.522915+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
