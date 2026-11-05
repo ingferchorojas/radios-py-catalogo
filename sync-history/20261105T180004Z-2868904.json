@@ -1,0 +1,73 @@
+{
+  "baseCommit": "6a15de8feb8f68de8d328982d8f1053351954af1",
+  "createdAt": "2026-11-05T18:12:59.841944+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "abc-cardinal",
+      "name": "ABC Cardinal",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-05T18:12:58.859385+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 2
+    },
+    {
+      "action": "availability",
+      "id": "aspen",
+      "name": "Aspen",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-05T18:12:58.859385+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 2
+    },
+    {
+      "action": "availability",
+      "id": "dsd-780",
+      "name": "1º de Marzo",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-05T18:12:58.859385+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-capital",
+      "name": "Capital",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-05T18:12:58.859385+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 2
+    },
+    {
+      "action": "availability",
+      "id": "dsd-800",
+      "name": "La Unión",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-05T18:12:58.859385+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 2
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1200",
+      "name": "Libre",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-05T18:12:58.859385+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 2
+    }
+  ]
+}

@@ -38,9 +38,8 @@
       "source": "https://www.abc.com.py/730am/",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-05T17:30:37.623657+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-05T18:12:58.859385+00:00"
       }
     },
     {
@@ -73,9 +72,8 @@
       "source": "https://www.radioaspen.com.py/",
       "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-05T17:30:37.623657+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-05T18:12:58.859385+00:00"
       }
     },
     {
@@ -348,9 +346,8 @@
       "source": "https://www.desdeparaguay.com/780",
       "verifiedAt": "2026-11-01",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-05T17:30:37.623657+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-05T18:12:58.859385+00:00"
       }
     },
     {
@@ -2018,9 +2015,8 @@
       "source": "https://www.desdeparaguay.com/capital",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-03T19:43:03.624288+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-05T18:12:58.859385+00:00"
       }
     },
     {
@@ -3455,9 +3451,8 @@
       ],
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-05T17:30:37.623657+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-05T18:12:58.859385+00:00"
       }
     },
     {
@@ -3537,9 +3532,8 @@
       ],
       "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-05T17:30:37.623657+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-05T18:12:58.859385+00:00"
       }
     },
     {
