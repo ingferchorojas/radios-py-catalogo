@@ -2301,9 +2301,8 @@
       "source": "https://www.desdeparaguay.com/continental",
       "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-04T23:16:45.083233+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-05T09:13:48.536463+00:00"
       }
     },
     {
@@ -2337,9 +2336,8 @@
       "source": "https://www.desdeparaguay.com/losangeles",
       "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-04T23:16:45.083233+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-05T09:13:48.536463+00:00"
       }
     },
     {
@@ -2773,14 +2771,14 @@
           "url": "https://www.desdeparaguay.com/itapora",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movitapora/movitapora.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movitapora/movitapora.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/itapora"
         },
         {
           "url": "https://www.desdeparaguay.com/itapora",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movitapora/movitapora.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movitapora/movitapora.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/itapora"
         }
       ],
@@ -3151,9 +3149,8 @@
       "source": "https://www.desdeparaguay.com/1420",
       "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-05T03:48:14.972695+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-05T09:13:48.536463+00:00"
       }
     },
     {

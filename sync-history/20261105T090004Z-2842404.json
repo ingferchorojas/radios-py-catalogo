@@ -1,0 +1,58 @@
+{
+  "baseCommit": "c662efc6f5d9a40e7e7c83975dec1e51f80e48eb",
+  "createdAt": "2026-11-05T09:13:49.496370+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-itapora",
+      "name": "Ita Pora",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/itapora",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movitapora/movitapora.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/itapora"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-continental",
+      "name": "Continental",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-05T09:13:48.536463+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-losangeles",
+      "name": "Los Angeles",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-05T09:13:48.536463+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1420",
+      "name": "Guyrá Campana",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-05T09:13:48.536463+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
