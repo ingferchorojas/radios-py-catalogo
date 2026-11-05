@@ -1670,8 +1670,9 @@
       "source": "https://www.desdeparaguay.com/altopy",
       "verifiedAt": "2026-11-03",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-04T08:42:25.373350+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-05T00:16:50.589433+00:00"
       }
     },
     {
@@ -1806,8 +1807,9 @@
       "source": "https://www.desdeparaguay.com/aquidaban",
       "verifiedAt": "2026-11-02",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-02T21:45:56.577856+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-05T00:16:50.589433+00:00"
       }
     },
     {
@@ -3216,8 +3218,9 @@
       "source": "https://www.desdeparaguay.com/portaldelchaco",
       "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-04T08:13:18.893036+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-05T00:16:50.589433+00:00"
       }
     },
     {
@@ -3429,8 +3432,9 @@
       ],
       "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-04T09:14:19.557955+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-05T00:16:50.589433+00:00"
       }
     },
     {
