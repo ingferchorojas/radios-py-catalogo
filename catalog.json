@@ -199,9 +199,8 @@
       "source": "https://www.lanacion.com.py/medios/",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-05T11:52:17.791937+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-05T13:58:54.798378+00:00"
       }
     },
     {
@@ -227,9 +226,8 @@
       "source": "https://www.lanacion.com.py/medios/",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-05T11:52:17.791937+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-05T13:58:54.798378+00:00"
       }
     },
     {
@@ -254,9 +252,8 @@
       "source": "https://www.lanacion.com.py/medios/",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-05T11:52:17.791937+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-05T13:58:54.798378+00:00"
       }
     },
     {
@@ -282,9 +279,8 @@
       "source": "https://www.lanacion.com.py/medios/",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-05T11:52:17.791937+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-05T13:58:54.798378+00:00"
       }
     },
     {
@@ -644,7 +640,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/1020",
-      "verifiedAt": "2026-10-29"
+      "verifiedAt": "2026-10-29",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-05T13:58:54.798378+00:00"
+      }
     },
     {
       "id": "dsd-amor",
@@ -675,7 +676,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/amor",
-      "verifiedAt": "2026-11-01"
+      "verifiedAt": "2026-11-01",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-05T13:58:54.798378+00:00"
+      }
     },
     {
       "id": "dsd-anr",
@@ -1777,19 +1783,19 @@
           "url": "https://www.desdeparaguay.com/660",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/mov660/mov660.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/mov660/mov660.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/660"
         },
         {
           "url": "https://www.desdeparaguay.com/660",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/mov660/mov660.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/mov660/mov660.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/660"
         }
       ],
       "source": "https://www.desdeparaguay.com/660",
-      "verifiedAt": "2026-10-30",
+      "verifiedAt": "2026-11-05",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-04T07:17:01.516150+00:00"
@@ -1826,9 +1832,8 @@
       "source": "https://www.desdeparaguay.com/aquidaban",
       "verifiedAt": "2026-11-02",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-05T00:16:50.589433+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-05T13:58:54.798378+00:00"
       }
     },
     {
@@ -1950,19 +1955,19 @@
           "url": "https://www.desdeparaguay.com/kaaguazu",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/kaaguazu"
         },
         {
           "url": "https://www.desdeparaguay.com/kaaguazu",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/kaaguazu"
         }
       ],
       "source": "https://www.desdeparaguay.com/kaaguazu",
-      "verifiedAt": "2026-11-03"
+      "verifiedAt": "2026-11-05"
     },
     {
       "id": "dsd-capital",
@@ -2017,19 +2022,19 @@
           "url": "https://www.desdeparaguay.com/delsol",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movdelsol/movdelsol.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movdelsol/movdelsol.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/delsol"
         },
         {
           "url": "https://www.desdeparaguay.com/delsol",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movdelsol/movdelsol.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movdelsol/movdelsol.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/delsol"
         }
       ],
       "source": "https://www.desdeparaguay.com/delsol",
-      "verifiedAt": "2026-10-30",
+      "verifiedAt": "2026-11-05",
       "availability": {
         "status": "available",
         "checkedAt": "2026-10-30T08:46:24.089479+00:00"
@@ -2135,12 +2140,19 @@
           "url": "https://www.desdeparaguay.com/curuguaty",
           "format": "hls",
           "resolver": "desdeparaguay",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movcuruguaty/movcuruguaty.stream/playlist.m3u8",
+          "source": "https://www.desdeparaguay.com/curuguaty"
+        },
+        {
+          "url": "https://www.desdeparaguay.com/curuguaty",
+          "format": "hls",
+          "resolver": "desdeparaguay",
           "endpoint": "https://rds3.desdeparaguay.net/movcuruguaty/movcuruguaty.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/curuguaty"
         }
       ],
       "source": "https://www.desdeparaguay.com/curuguaty",
-      "verifiedAt": "2026-10-27",
+      "verifiedAt": "2026-11-05",
       "availability": {
         "status": "available",
         "checkedAt": "2026-10-30T11:44:46.932474+00:00"
