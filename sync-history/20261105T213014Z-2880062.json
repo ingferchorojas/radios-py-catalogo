@@ -1,0 +1,61 @@
+{
+  "baseCommit": "869f70245040b7af1d9a5eea306dcc8670074775",
+  "createdAt": "2026-11-05T21:43:46.475285+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-cardinalromance",
+      "name": "Cardinal Romance",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/cardinalromance",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/transabcfm/transabcfm/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/cardinalromance"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-fiesta",
+      "name": "Fiesta",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/fiesta",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movfiesta/movfiesta.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/fiesta"
+      },
+      "action": "add_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-kaaguazu",
+      "name": "Kaaguazú",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/kaaguazu",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/kaaguazu"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-05",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    }
+  ]
+}
