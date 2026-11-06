@@ -1,0 +1,79 @@
+{
+  "baseCommit": "f44a315cbed55587a8d66766e6b8cd24fab7640c",
+  "createdAt": "2026-11-06T16:50:30.760327+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-camara",
+      "name": "Cámara",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T16:50:29.904940+00:00"
+      },
+      "consecutiveFailures": 4,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-rockandpop",
+      "name": "Rock & Pop",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T16:50:29.904940+00:00"
+      },
+      "consecutiveFailures": 4,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-romance",
+      "name": "Romance",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T16:50:29.904940+00:00"
+      },
+      "consecutiveFailures": 4,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-tropicalia",
+      "name": "Tropicalia",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T16:50:29.904940+00:00"
+      },
+      "consecutiveFailures": 4,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-venus",
+      "name": "Venus",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T16:50:29.904940+00:00"
+      },
+      "consecutiveFailures": 4,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-vibras",
+      "name": "Vibras",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T16:50:29.904940+00:00"
+      },
+      "consecutiveFailures": 4,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
