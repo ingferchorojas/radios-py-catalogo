@@ -1,0 +1,301 @@
+{
+  "baseCommit": "d283cbb30bb93c86524906816e0246012bdccea4",
+  "createdAt": "2026-11-06T14:02:16.538907+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-arapy",
+      "name": "Arapy",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/arapy",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movarapy/movarapy.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/arapy"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-06",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-metro",
+      "name": "Metro",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/metro",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movmetro/movmetro.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/metro"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-06",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-tvillarrica",
+      "name": "T",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/tvillarrica",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movtransamerica/movtransamerica.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/tvillarrica"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-06",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-1059",
+      "name": "Nacional San Pedro",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/1059",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/transsanpedro/transsanpedro/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/1059"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-06",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "abc-cardinal",
+      "name": "ABC Cardinal",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+      },
+      "consecutiveFailures": 4,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "aspen",
+      "name": "Aspen",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "nacional-san-pedro",
+      "name": "Radio Nacional San Pedro",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 2
+    },
+    {
+      "action": "availability",
+      "id": "montecarlo",
+      "name": "Radio Montecarlo",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 2
+    },
+    {
+      "action": "availability",
+      "id": "universo",
+      "name": "Universo 970",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 2
+    },
+    {
+      "action": "availability",
+      "id": "corazon",
+      "name": "Radio Corazón",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 2
+    },
+    {
+      "action": "availability",
+      "id": "popular",
+      "name": "Radio Popular",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 2
+    },
+    {
+      "action": "availability",
+      "id": "dsd-780",
+      "name": "1º de Marzo",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+      },
+      "consecutiveFailures": 4,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-emisoras",
+      "name": "Emisoras Paraguay",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-exclusiva",
+      "name": "Exclusiva",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-go",
+      "name": "Go",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-memories",
+      "name": "Memories",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-mix",
+      "name": "Mix",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-nihongakko",
+      "name": "Nihon Gakko",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-883",
+      "name": "Ñemby",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-romance",
+      "name": "Romance",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-ciudad",
+      "name": "Ciudad",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+      },
+      "consecutiveFailures": 4,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1059",
+      "name": "Nacional San Pedro",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 2
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1200",
+      "name": "Libre",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+      },
+      "consecutiveFailures": 4,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
