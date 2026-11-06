@@ -1,0 +1,66 @@
+{
+  "baseCommit": "2f5ab8fe17c461e265d1700ed6d83f9b723001e9",
+  "createdAt": "2026-11-06T17:45:47.027329+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-arandu",
+      "name": "Arandú",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/arandu",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movarandu/movarandu.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/arandu"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-06",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-lareddelsol",
+      "name": "La Red del Sol",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/lareddelsol",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movsol/movsol.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/lareddelsol"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-06",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-lareddelsol",
+      "name": "La Red del Sol",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:45:46.121973+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-centro",
+      "name": "Centro",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T17:45:46.121973+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
