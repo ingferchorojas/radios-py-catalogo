@@ -2500,8 +2500,9 @@
       "source": "https://www.desdeparaguay.com/arapy",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-02T14:46:48.917428+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T04:46:01.044951+00:00"
       }
     },
     {
@@ -2570,8 +2571,9 @@
       "source": "https://www.desdeparaguay.com/piribebuy",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-05T08:15:42.578712+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T04:46:01.044951+00:00"
       }
     },
     {
