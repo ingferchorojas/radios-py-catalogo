@@ -2701,9 +2701,8 @@
       "source": "https://www.desdeparaguay.com/ciudad",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T22:14:25.434282+00:00"
       }
     },
     {
