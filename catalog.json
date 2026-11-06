@@ -1569,19 +1569,19 @@
           "url": "https://www.desdeparaguay.com/atyra",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movatyra/movatyra.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movatyra/movatyra.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/atyra"
         },
         {
           "url": "https://www.desdeparaguay.com/atyra",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movatyra/movatyra.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movatyra/movatyra.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/atyra"
         }
       ],
       "source": "https://www.desdeparaguay.com/atyra",
-      "verifiedAt": "2026-11-05",
+      "verifiedAt": "2026-11-06",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-03T09:13:18.582680+00:00"
@@ -1604,14 +1604,14 @@
           "url": "https://www.desdeparaguay.com/serrania",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movserrania/movserrania.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movserrania/movserrania.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/serrania"
         },
         {
           "url": "https://www.desdeparaguay.com/serrania",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movserrania/movserrania.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movserrania/movserrania.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/serrania"
         }
       ],
@@ -1698,14 +1698,14 @@
           "url": "https://www.desdeparaguay.com/altopy",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movaltopy/movaltopy.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movaltopy/movaltopy.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/altopy"
         },
         {
           "url": "https://www.desdeparaguay.com/altopy",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movaltopy/movaltopy.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movaltopy/movaltopy.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/altopy"
         }
       ],
@@ -1971,19 +1971,19 @@
           "url": "https://www.desdeparaguay.com/kaaguazu",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/kaaguazu"
         },
         {
           "url": "https://www.desdeparaguay.com/kaaguazu",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/kaaguazu"
         }
       ],
       "source": "https://www.desdeparaguay.com/kaaguazu",
-      "verifiedAt": "2026-11-05",
+      "verifiedAt": "2026-11-06",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-06T10:19:19.779248+00:00"
@@ -2550,14 +2550,14 @@
           "url": "https://www.desdeparaguay.com/piribebuy",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movpiribebuy/movpiribebuy.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movpiribebuy/movpiribebuy.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/piribebuy"
         },
         {
           "url": "https://www.desdeparaguay.com/piribebuy",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movpiribebuy/movpiribebuy.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movpiribebuy/movpiribebuy.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/piribebuy"
         }
       ],
@@ -2796,19 +2796,19 @@
           "url": "https://www.desdeparaguay.com/metro",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movmetro/movmetro.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movmetro/movmetro.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/metro"
         },
         {
           "url": "https://www.desdeparaguay.com/metro",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movmetro/movmetro.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movmetro/movmetro.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/metro"
         }
       ],
       "source": "https://www.desdeparaguay.com/metro",
-      "verifiedAt": "2026-11-05",
+      "verifiedAt": "2026-11-06",
       "availability": {
         "status": "available",
         "checkedAt": "2026-10-31T11:42:25.893711+00:00"
@@ -2831,19 +2831,19 @@
           "url": "https://www.desdeparaguay.com/sanguri",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movsanguri/movsanguri.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movsanguri/movsanguri.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/sanguri"
         },
         {
           "url": "https://www.desdeparaguay.com/sanguri",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movsanguri/movsanguri.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movsanguri/movsanguri.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/sanguri"
         }
       ],
       "source": "https://www.desdeparaguay.com/sanguri",
-      "verifiedAt": "2026-11-05",
+      "verifiedAt": "2026-11-06",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-03T09:43:09.204928+00:00"
@@ -3370,9 +3370,8 @@
       "source": "https://www.desdeparaguay.com/4dmasnoticias",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-04T23:45:48.314654+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T11:01:02.476951+00:00"
       }
     },
     {
