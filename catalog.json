@@ -1816,9 +1816,8 @@
       "source": "https://www.desdeparaguay.com/660",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "silence",
-        "checkedAt": "2026-11-06T03:15:26.077382+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T07:15:06.798489+00:00"
       }
     },
     {
@@ -2025,9 +2024,8 @@
       "source": "https://www.desdeparaguay.com/capital",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T03:15:26.077382+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T07:15:06.798489+00:00"
       }
     },
     {
@@ -3403,23 +3401,22 @@
           "url": "https://www.desdeparaguay.com/centro",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movcentro/movcentro.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movcentro/movcentro.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/centro"
         },
         {
           "url": "https://www.desdeparaguay.com/centro",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movcentro/movcentro.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movcentro/movcentro.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/centro"
         }
       ],
       "source": "https://www.desdeparaguay.com/centro",
-      "verifiedAt": "2026-11-05",
+      "verifiedAt": "2026-11-06",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T00:13:22.395608+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T07:15:06.798489+00:00"
       }
     },
     {
