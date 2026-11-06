@@ -934,8 +934,9 @@
       "source": "https://www.desdeparaguay.com/conquistador",
       "verifiedAt": "2026-11-02",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-05T17:30:37.623657+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T15:57:23.474150+00:00"
       }
     },
     {

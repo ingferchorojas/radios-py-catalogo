@@ -1,0 +1,19 @@
+{
+  "baseCommit": "ed1039acacf23dacea2d62225d9c43ebd1a2cd6f",
+  "createdAt": "2026-11-06T15:57:24.347735+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-conquistador",
+      "name": "Conquistador",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T15:57:23.474150+00:00"
+      },
+      "consecutiveFailures": 4,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
