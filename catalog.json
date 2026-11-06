@@ -38,9 +38,8 @@
       "source": "https://www.abc.com.py/730am/",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {
@@ -73,9 +72,8 @@
       "source": "https://www.radioaspen.com.py/",
       "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {
@@ -348,9 +346,8 @@
       "source": "https://www.desdeparaguay.com/780",
       "verifiedAt": "2026-11-01",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {
@@ -415,9 +412,8 @@
       "source": "https://www.desdeparaguay.com/1140",
       "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T14:58:14.243285+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {
@@ -594,9 +590,8 @@
       "source": "https://www.desdeparaguay.com/1000",
       "verifiedAt": "2026-11-02",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T14:58:14.243285+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {
@@ -659,9 +654,8 @@
       "source": "https://www.desdeparaguay.com/1020",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T14:58:14.243285+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {
@@ -695,9 +689,8 @@
       "source": "https://www.desdeparaguay.com/amor",
       "verifiedAt": "2026-11-01",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T14:58:14.243285+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {
@@ -731,9 +724,8 @@
       "source": "https://www.desdeparaguay.com/anr",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T14:58:14.243285+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {
@@ -767,9 +759,8 @@
       "source": "https://www.desdeparaguay.com/aranduka",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T14:58:14.243285+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {
@@ -803,9 +794,8 @@
       "source": "https://www.desdeparaguay.com/camara",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T16:50:29.904940+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {
@@ -839,9 +829,8 @@
       "source": "https://www.desdeparaguay.com/canal100",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T14:58:14.243285+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {
@@ -903,9 +892,8 @@
       "source": "https://www.desdeparaguay.com/cfa",
       "verifiedAt": "2026-10-07",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T14:58:14.243285+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {
@@ -939,9 +927,8 @@
       "source": "https://www.desdeparaguay.com/conquistador",
       "verifiedAt": "2026-11-02",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T15:57:23.474150+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {
@@ -1033,9 +1020,8 @@
       "source": "https://www.desdeparaguay.com/emisoras",
       "verifiedAt": "2026-10-07",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {
@@ -1069,9 +1055,8 @@
       "source": "https://www.desdeparaguay.com/exclusiva",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {
@@ -1105,9 +1090,8 @@
       "source": "https://www.desdeparaguay.com/farra",
       "verifiedAt": "2026-11-02",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T14:58:14.243285+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {
@@ -1141,9 +1125,8 @@
       "source": "https://www.desdeparaguay.com/fernando",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T14:58:14.243285+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {
@@ -1177,9 +1160,8 @@
       "source": "https://www.desdeparaguay.com/go",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {
@@ -1242,9 +1224,8 @@
       "source": "https://www.desdeparaguay.com/latina",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T14:58:14.243285+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {
@@ -1278,9 +1259,8 @@
       "source": "https://www.desdeparaguay.com/memories",
       "verifiedAt": "2026-11-01",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {
@@ -1314,9 +1294,8 @@
       "source": "https://www.desdeparaguay.com/mix",
       "verifiedAt": "2026-11-02",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {
@@ -1350,9 +1329,8 @@
       "source": "https://www.desdeparaguay.com/nihongakko",
       "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {
@@ -1386,9 +1364,8 @@
       "source": "https://www.desdeparaguay.com/883",
       "verifiedAt": "2026-11-01",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {
@@ -1422,9 +1399,8 @@
       "source": "https://www.desdeparaguay.com/rockandpop",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T16:50:29.904940+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {
@@ -1458,9 +1434,8 @@
       "source": "https://www.desdeparaguay.com/romance",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T16:50:29.904940+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {
@@ -1494,9 +1469,8 @@
       "source": "https://www.desdeparaguay.com/tropicalia",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T16:50:29.904940+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {
@@ -1530,9 +1504,8 @@
       "source": "https://www.desdeparaguay.com/venus",
       "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T16:50:29.904940+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {
@@ -1566,9 +1539,8 @@
       "source": "https://www.desdeparaguay.com/vibras",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T16:50:29.904940+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {
@@ -3205,19 +3177,19 @@
           "url": "https://www.desdeparaguay.com/elangel",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movelangel/movelangel.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movelangel/movelangel.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/elangel"
         },
         {
           "url": "https://www.desdeparaguay.com/elangel",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movelangel/movelangel.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movelangel/movelangel.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/elangel"
         }
       ],
       "source": "https://www.desdeparaguay.com/elangel",
-      "verifiedAt": "2026-11-05",
+      "verifiedAt": "2026-11-06",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-04T16:44:19.642462+00:00"
@@ -3616,9 +3588,8 @@
       ],
       "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T14:02:15.650779+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
       }
     },
     {

@@ -1,0 +1,344 @@
+{
+  "baseCommit": "0312742b1e4415b0d7787fe6e20d9b2bbd2eddef",
+  "createdAt": "2026-11-06T17:15:18.699465+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-elangel",
+      "name": "El Ángel",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/elangel",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movelangel/movelangel.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/elangel"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-06",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "abc-cardinal",
+      "name": "ABC Cardinal",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "aspen",
+      "name": "Aspen",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-780",
+      "name": "1º de Marzo",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1140",
+      "name": "Central",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1000",
+      "name": "Mil",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1020",
+      "name": "Ñanduti",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-amor",
+      "name": "Amor",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-anr",
+      "name": "ANR",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-aranduka",
+      "name": "Aranduka",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-camara",
+      "name": "Cámara",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-canal100",
+      "name": "Canal",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-cfa",
+      "name": "CFA",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-conquistador",
+      "name": "Conquistador",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-emisoras",
+      "name": "Emisoras Paraguay",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-exclusiva",
+      "name": "Exclusiva",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-farra",
+      "name": "Farra",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-fernando",
+      "name": "Fernando de la Mora",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-go",
+      "name": "Go",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-latina",
+      "name": "Latina",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-memories",
+      "name": "Memories",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-mix",
+      "name": "Mix",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-nihongakko",
+      "name": "Nihon Gakko",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-883",
+      "name": "Ñemby",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-rockandpop",
+      "name": "Rock & Pop",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-romance",
+      "name": "Romance",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-tropicalia",
+      "name": "Tropicalia",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-venus",
+      "name": "Venus",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-vibras",
+      "name": "Vibras",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1200",
+      "name": "Libre",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
