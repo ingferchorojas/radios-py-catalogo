@@ -1,0 +1,18 @@
+{
+  "baseCommit": "98f7c2be3444334b6bf630a3131e0e5e42f98f4e",
+  "createdAt": "2026-11-06T10:19:20.647956+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-kaaguazu",
+      "name": "Kaaguazú",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-06T10:19:19.779248+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
