@@ -1,0 +1,43 @@
+{
+  "baseCommit": "88f98b6d40bbc5502140c1ed3399d58a7cc58ec5",
+  "createdAt": "2026-11-06T18:45:06.901541+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-concepcion",
+      "name": "Concepción",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/concepcion",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movconcepcion/movconcepcion.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/concepcion"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-06",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-serrania",
+      "name": "Serranía",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/serrania",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movserrania/movserrania.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/serrania"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-06",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    }
+  ]
+}

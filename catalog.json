@@ -1635,14 +1635,14 @@
           "url": "https://www.desdeparaguay.com/serrania",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movserrania/movserrania.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movserrania/movserrania.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/serrania"
         },
         {
           "url": "https://www.desdeparaguay.com/serrania",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movserrania/movserrania.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movserrania/movserrania.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/serrania"
         }
       ],
@@ -1900,19 +1900,19 @@
           "url": "https://www.desdeparaguay.com/concepcion",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movconcepcion/movconcepcion.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movconcepcion/movconcepcion.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/concepcion"
         },
         {
           "url": "https://www.desdeparaguay.com/concepcion",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movconcepcion/movconcepcion.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movconcepcion/movconcepcion.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/concepcion"
         }
       ],
       "source": "https://www.desdeparaguay.com/concepcion",
-      "verifiedAt": "2026-11-02"
+      "verifiedAt": "2026-11-06"
     },
     {
       "id": "dsd-lacosta",
