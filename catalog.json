@@ -208,8 +208,9 @@
       "source": "https://www.lanacion.com.py/medios/",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-05T13:58:54.798378+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T12:00:33.647154+00:00"
       }
     },
     {
@@ -1378,7 +1379,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/rockandpop",
-      "verifiedAt": "2026-10-29"
+      "verifiedAt": "2026-10-29",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T12:00:33.647154+00:00"
+      }
     },
     {
       "id": "dsd-romance",
@@ -1510,7 +1516,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/vibras",
-      "verifiedAt": "2026-10-29"
+      "verifiedAt": "2026-10-29",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T12:00:33.647154+00:00"
+      }
     },
     {
       "id": "dsd-sanandres",
@@ -1936,14 +1947,14 @@
           "url": "https://www.desdeparaguay.com/megaestacion95",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movmegaestacion95/movmegaestacion95.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movmegaestacion95/movmegaestacion95.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/megaestacion95"
         },
         {
           "url": "https://www.desdeparaguay.com/megaestacion95",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movmegaestacion95/movmegaestacion95.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movmegaestacion95/movmegaestacion95.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/megaestacion95"
         }
       ],
@@ -2076,19 +2087,19 @@
           "url": "https://www.desdeparaguay.com/fiesta",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movfiesta/movfiesta.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movfiesta/movfiesta.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/fiesta"
         },
         {
           "url": "https://www.desdeparaguay.com/fiesta",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movfiesta/movfiesta.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movfiesta/movfiesta.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/fiesta"
         }
       ],
       "source": "https://www.desdeparaguay.com/fiesta",
-      "verifiedAt": "2026-11-05"
+      "verifiedAt": "2026-11-06"
     },
     {
       "id": "dsd-radiomas",
@@ -2107,19 +2118,19 @@
           "url": "https://www.desdeparaguay.com/radiomas",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movradiomas/movradiomas.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movradiomas/movradiomas.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/radiomas"
         },
         {
           "url": "https://www.desdeparaguay.com/radiomas",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movradiomas/movradiomas.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movradiomas/movradiomas.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/radiomas"
         }
       ],
       "source": "https://www.desdeparaguay.com/radiomas",
-      "verifiedAt": "2026-11-05"
+      "verifiedAt": "2026-11-06"
     },
     {
       "id": "dsd-agr",
@@ -2480,19 +2491,19 @@
           "url": "https://www.desdeparaguay.com/arapy",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movarapy/movarapy.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movarapy/movarapy.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/arapy"
         },
         {
           "url": "https://www.desdeparaguay.com/arapy",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movarapy/movarapy.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movarapy/movarapy.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/arapy"
         }
       ],
       "source": "https://www.desdeparaguay.com/arapy",
-      "verifiedAt": "2026-11-05",
+      "verifiedAt": "2026-11-06",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-06T09:12:05.129657+00:00"
@@ -3391,14 +3402,14 @@
           "url": "https://www.desdeparaguay.com/centro",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movcentro/movcentro.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movcentro/movcentro.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/centro"
         },
         {
           "url": "https://www.desdeparaguay.com/centro",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movcentro/movcentro.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movcentro/movcentro.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/centro"
         }
       ],
@@ -3469,8 +3480,9 @@
       ],
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-05T18:12:58.859385+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T12:00:33.647154+00:00"
       }
     },
     {

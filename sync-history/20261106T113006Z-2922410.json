@@ -1,0 +1,145 @@
+{
+  "baseCommit": "809f7938632ffed46d48a61d727e8716700afc64",
+  "createdAt": "2026-11-06T12:00:34.524783+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-arapy",
+      "name": "Arapy",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/arapy",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movarapy/movarapy.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/arapy"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-06",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-centro",
+      "name": "Centro",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/centro",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movcentro/movcentro.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/centro"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-06",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-megaestacion95",
+      "name": "Megaestación",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/megaestacion95",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movmegaestacion95/movmegaestacion95.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/megaestacion95"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-06",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-fiesta",
+      "name": "Fiesta",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/fiesta",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movfiesta/movfiesta.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/fiesta"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-06",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-radiomas",
+      "name": "Más",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/radiomas",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movradiomas/movradiomas.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/radiomas"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-06",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "montecarlo",
+      "name": "Radio Montecarlo",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T12:00:33.647154+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-rockandpop",
+      "name": "Rock & Pop",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T12:00:33.647154+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-vibras",
+      "name": "Vibras",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T12:00:33.647154+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-800",
+      "name": "La Unión",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T12:00:33.647154+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
