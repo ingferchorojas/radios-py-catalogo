@@ -1940,19 +1940,19 @@
           "url": "https://www.desdeparaguay.com/megaestacion95",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movmegaestacion95/movmegaestacion95.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movmegaestacion95/movmegaestacion95.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/megaestacion95"
         },
         {
           "url": "https://www.desdeparaguay.com/megaestacion95",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movmegaestacion95/movmegaestacion95.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movmegaestacion95/movmegaestacion95.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/megaestacion95"
         }
       ],
       "source": "https://www.desdeparaguay.com/megaestacion95",
-      "verifiedAt": "2026-11-05",
+      "verifiedAt": "2026-11-06",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-02T20:46:29.883261+00:00"

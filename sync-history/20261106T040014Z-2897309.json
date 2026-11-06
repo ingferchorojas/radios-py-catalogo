@@ -1,0 +1,25 @@
+{
+  "baseCommit": "c625d1df454395d5b93d6c3fe14efb127745fd8b",
+  "createdAt": "2026-11-06T04:16:15.476305+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-megaestacion95",
+      "name": "Megaestación",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/megaestacion95",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movmegaestacion95/movmegaestacion95.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/megaestacion95"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-06",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    }
+  ]
+}
