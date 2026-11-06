@@ -1,0 +1,73 @@
+{
+  "baseCommit": "dec24ea96432d22ea86035f364a000c7d7764dff",
+  "createdAt": "2026-11-06T13:00:49.211074+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-ycuamandyyu",
+      "name": "Ycuamandyyú",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/ycuamandyyu",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movycuamandyyu/movycuamandyyu.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/ycuamandyyu"
+      },
+      "action": "add_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-06",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "universo",
+      "name": "Universo 970",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T13:00:48.335610+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "corazon",
+      "name": "Radio Corazón",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T13:00:48.335610+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "popular",
+      "name": "Radio Popular",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T13:00:48.335610+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-venus",
+      "name": "Venus",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T13:00:48.335610+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
