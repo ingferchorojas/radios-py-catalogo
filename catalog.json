@@ -1568,19 +1568,19 @@
           "url": "https://www.desdeparaguay.com/atyra",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movatyra/movatyra.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movatyra/movatyra.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/atyra"
         },
         {
           "url": "https://www.desdeparaguay.com/atyra",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movatyra/movatyra.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movatyra/movatyra.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/atyra"
         }
       ],
       "source": "https://www.desdeparaguay.com/atyra",
-      "verifiedAt": "2026-11-03",
+      "verifiedAt": "2026-11-05",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-03T09:13:18.582680+00:00"
@@ -3330,8 +3330,9 @@
       "source": "https://www.desdeparaguay.com/portaldelchaco",
       "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-05T08:15:42.578712+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T00:13:22.395608+00:00"
       }
     },
     {
@@ -3401,8 +3402,9 @@
       "source": "https://www.desdeparaguay.com/centro",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-05T07:17:38.659949+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T00:13:22.395608+00:00"
       }
     },
     {
@@ -3546,8 +3548,9 @@
       ],
       "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-05T18:12:58.859385+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T00:13:22.395608+00:00"
       }
     },
     {
@@ -3581,8 +3584,9 @@
       ],
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-05T08:44:28.074153+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-06T00:13:22.395608+00:00"
       }
     },
     {
