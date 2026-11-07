@@ -3370,9 +3370,8 @@
       "source": "https://www.desdeparaguay.com/portaldelchaco",
       "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-07T11:15:53.056210+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-07T15:21:44.375958+00:00"
       }
     },
     {
