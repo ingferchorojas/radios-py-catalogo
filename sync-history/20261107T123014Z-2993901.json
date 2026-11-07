@@ -1,0 +1,54 @@
+{
+  "baseCommit": "bd4958f2bcbdad4212c193b5e2941b19e82ef62a",
+  "createdAt": "2026-11-07T12:46:54.001036+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-sanandres",
+      "name": "San Andrés",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/sanandres",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movsanandres/movsanandres.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/sanandres"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-07",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-1059",
+      "name": "Nacional San Pedro",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/1059",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/transsanpedro/transsanpedro/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/1059"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-07",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-medano",
+      "name": "Medano",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-07T12:46:53.055940+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
