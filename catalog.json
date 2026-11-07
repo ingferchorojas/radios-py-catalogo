@@ -1650,9 +1650,8 @@
       "source": "https://www.desdeparaguay.com/serrania",
       "verifiedAt": "2026-11-06",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-07T03:17:12.629245+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-07T08:45:13.630257+00:00"
       }
     },
     {
@@ -3630,9 +3629,8 @@
       ],
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-07T01:16:50.364729+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-07T08:45:13.630257+00:00"
       }
     },
     {
