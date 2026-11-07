@@ -2432,8 +2432,9 @@
       "source": "https://www.desdeparaguay.com/losangeles",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-05T09:13:48.536463+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-07T19:45:04.869859+00:00"
       }
     },
     {

@@ -1,0 +1,19 @@
+{
+  "baseCommit": "92c243bb1b64569aaf24692d2a013f219b297994",
+  "createdAt": "2026-11-07T19:45:05.752776+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-losangeles",
+      "name": "Los Angeles",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-07T19:45:04.869859+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
