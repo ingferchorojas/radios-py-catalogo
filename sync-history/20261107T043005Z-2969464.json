@@ -1,0 +1,31 @@
+{
+  "baseCommit": "f32415166656eb2d4cb4d49a57eb6cf410b4941e",
+  "createdAt": "2026-11-07T04:47:27.022648+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-capital",
+      "name": "Capital",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-07T04:47:26.116835+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-piribebuy",
+      "name": "Piribebuy",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-07T04:47:26.116835+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}

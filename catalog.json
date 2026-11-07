@@ -2055,8 +2055,9 @@
       "source": "https://www.desdeparaguay.com/capital",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-06T07:15:06.798489+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-07T04:47:26.116835+00:00"
       }
     },
     {
@@ -2604,8 +2605,9 @@
       "source": "https://www.desdeparaguay.com/piribebuy",
       "verifiedAt": "2026-11-06",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-06T08:13:46.262666+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-07T04:47:26.116835+00:00"
       }
     },
     {
