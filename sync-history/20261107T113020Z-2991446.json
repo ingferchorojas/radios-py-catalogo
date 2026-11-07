@@ -1,0 +1,18 @@
+{
+  "baseCommit": "e29b69e2461380f1c94dbebac789e7a54ab363f0",
+  "createdAt": "2026-11-07T11:46:15.027909+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-evolucion",
+      "name": "Evolución",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-07T11:46:14.132309+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
