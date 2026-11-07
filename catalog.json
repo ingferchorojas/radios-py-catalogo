@@ -1742,8 +1742,9 @@
       "source": "https://www.desdeparaguay.com/altopy",
       "verifiedAt": "2026-11-07",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-07T08:15:42.753763+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-07T11:15:53.056210+00:00"
       }
     },
     {
@@ -2322,8 +2323,9 @@
       "source": "https://www.desdeparaguay.com/evolucion",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-05T07:17:38.659949+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-07T11:15:53.056210+00:00"
       }
     },
     {
@@ -2810,9 +2812,8 @@
       "source": "https://www.desdeparaguay.com/pueblo",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-07T09:15:08.553183+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-07T11:15:53.056210+00:00"
       }
     },
     {
@@ -3370,8 +3371,9 @@
       "source": "https://www.desdeparaguay.com/portaldelchaco",
       "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-07T08:15:42.753763+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-07T11:15:53.056210+00:00"
       }
     },
     {
