@@ -1867,23 +1867,22 @@
           "url": "https://www.desdeparaguay.com/aquidaban",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movaquidaban/movaquidaban.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movaquidaban/movaquidaban.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/aquidaban"
         },
         {
           "url": "https://www.desdeparaguay.com/aquidaban",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movaquidaban/movaquidaban.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movaquidaban/movaquidaban.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/aquidaban"
         }
       ],
       "source": "https://www.desdeparaguay.com/aquidaban",
-      "verifiedAt": "2026-11-05",
+      "verifiedAt": "2026-11-07",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-07T18:45:35.575099+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-07T23:14:11.619053+00:00"
       }
     },
     {
@@ -2673,9 +2672,8 @@
       "source": "https://www.desdeparaguay.com/saltosdelguaira",
       "verifiedAt": "2026-11-02",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-05T06:51:00.522915+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-07T23:14:11.619053+00:00"
       }
     },
     {
