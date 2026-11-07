@@ -1,0 +1,49 @@
+{
+  "baseCommit": "72739f3ae87426005ec35b64be8009e109d3df61",
+  "createdAt": "2026-11-07T18:45:36.431703+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-parana",
+      "name": "Paraná",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/parana",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movparana/movparana.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/parana"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-07",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-aquidaban",
+      "name": "Aquidabán",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-07T18:45:35.575099+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1420",
+      "name": "Guyrá Campana",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-07T18:45:35.575099+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
