@@ -1,0 +1,37 @@
+{
+  "baseCommit": "934317db5bf7df9176edbb91490648326ba9105f",
+  "createdAt": "2026-11-07T17:14:11.986799+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-arapy",
+      "name": "Arapy",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/arapy",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movarapy/movarapy.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/arapy"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-07",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-arandu",
+      "name": "Arandú",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-07T17:14:11.117065+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}

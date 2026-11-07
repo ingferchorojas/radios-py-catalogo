@@ -2516,19 +2516,19 @@
           "url": "https://www.desdeparaguay.com/arapy",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movarapy/movarapy.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movarapy/movarapy.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/arapy"
         },
         {
           "url": "https://www.desdeparaguay.com/arapy",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movarapy/movarapy.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movarapy/movarapy.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/arapy"
         }
       ],
       "source": "https://www.desdeparaguay.com/arapy",
-      "verifiedAt": "2026-11-06",
+      "verifiedAt": "2026-11-07",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-06T09:12:05.129657+00:00"
@@ -2635,8 +2635,9 @@
       "source": "https://www.desdeparaguay.com/arandu",
       "verifiedAt": "2026-11-06",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-02T08:46:51.649351+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-07T17:14:11.117065+00:00"
       }
     },
     {
