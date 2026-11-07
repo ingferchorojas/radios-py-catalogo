@@ -1,0 +1,19 @@
+{
+  "baseCommit": "8bb7f062acfd41ab1a969a263bf5cf514a1df4d0",
+  "createdAt": "2026-11-07T02:16:54.072647+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-700",
+      "name": "Carlos A. López",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-07T02:16:53.107094+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
