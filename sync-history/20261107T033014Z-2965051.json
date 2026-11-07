@@ -1,0 +1,73 @@
+{
+  "baseCommit": "aebbc145edb34ef395d17494f356da3de82678b2",
+  "createdAt": "2026-11-07T03:48:16.527032+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-sanandres",
+      "name": "San Andrés",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/sanandres",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movsanandres/movsanandres.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/sanandres"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-07",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-kaaguazu",
+      "name": "Kaaguazú",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/kaaguazu",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/kaaguazu"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-07",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-elangel",
+      "name": "El Ángel",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/elangel",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movelangel/movelangel.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/elangel"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-07",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-660",
+      "name": "Regional",
+      "availability": {
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-11-07T03:48:15.459552+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
