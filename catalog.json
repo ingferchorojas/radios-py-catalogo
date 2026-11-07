@@ -1160,8 +1160,9 @@
       "source": "https://www.desdeparaguay.com/go",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-07T19:14:58.089253+00:00"
       }
     },
     {
@@ -2637,9 +2638,8 @@
       "source": "https://www.desdeparaguay.com/arandu",
       "verifiedAt": "2026-11-06",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-07T17:14:11.117065+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-07T19:14:58.089253+00:00"
       }
     },
     {
