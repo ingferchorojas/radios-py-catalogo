@@ -1,0 +1,37 @@
+{
+  "baseCommit": "a2d87ff37309c5ee8adb205ea00e2543d9311427",
+  "createdAt": "2026-11-07T16:14:13.571549+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-parana",
+      "name": "Paraná",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/parana",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movparana/movparana.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/parana"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-07",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-agr",
+      "name": "AGR",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-07T16:14:12.669497+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}

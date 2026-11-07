@@ -2183,8 +2183,9 @@
       "source": "https://www.desdeparaguay.com/agr",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-05T09:43:24.506657+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-07T16:14:12.669497+00:00"
       }
     },
     {
@@ -2239,14 +2240,14 @@
           "url": "https://www.desdeparaguay.com/parana",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movparana/movparana.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movparana/movparana.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/parana"
         },
         {
           "url": "https://www.desdeparaguay.com/parana",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movparana/movparana.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movparana/movparana.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/parana"
         }
       ],
