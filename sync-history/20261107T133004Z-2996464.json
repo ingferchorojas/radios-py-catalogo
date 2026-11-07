@@ -1,0 +1,36 @@
+{
+  "baseCommit": "d6519a388809355e39fe5d3e9610d4b85897cfa0",
+  "createdAt": "2026-11-07T13:46:14.611890+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-parana",
+      "name": "Paraná",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/parana",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movparana/movparana.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/parana"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-07",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-multiradio",
+      "name": "Multi",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-07T13:46:13.707438+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
