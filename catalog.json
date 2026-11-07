@@ -1731,23 +1731,22 @@
           "url": "https://www.desdeparaguay.com/altopy",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movaltopy/movaltopy.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movaltopy/movaltopy.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/altopy"
         },
         {
           "url": "https://www.desdeparaguay.com/altopy",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movaltopy/movaltopy.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movaltopy/movaltopy.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/altopy"
         }
       ],
       "source": "https://www.desdeparaguay.com/altopy",
-      "verifiedAt": "2026-11-06",
+      "verifiedAt": "2026-11-07",
       "availability": {
-        "status": "unavailable",
-        "reason": "silence",
-        "checkedAt": "2026-11-07T02:46:40.083174+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-07T08:15:42.753763+00:00"
       }
     },
     {
@@ -2603,9 +2602,8 @@
       "source": "https://www.desdeparaguay.com/piribebuy",
       "verifiedAt": "2026-11-06",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-07T04:47:26.116835+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-07T08:15:42.753763+00:00"
       }
     },
     {
@@ -3339,9 +3337,8 @@
       "source": "https://www.desdeparaguay.com/700",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-07T02:16:53.107094+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-07T08:15:42.753763+00:00"
       }
     },
     {
@@ -3375,9 +3372,8 @@
       "source": "https://www.desdeparaguay.com/portaldelchaco",
       "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-07T00:16:01.599190+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-07T08:15:42.753763+00:00"
       }
     },
     {
