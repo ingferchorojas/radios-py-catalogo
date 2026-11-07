@@ -1,0 +1,19 @@
+{
+  "baseCommit": "44aa41e240b194bc93c75b4c079d39d1bfda1122",
+  "createdAt": "2026-11-07T21:14:54.821900+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-pueblo",
+      "name": "Pueblo",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-07T21:14:53.929589+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
