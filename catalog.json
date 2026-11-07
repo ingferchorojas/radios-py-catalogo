@@ -2040,23 +2040,22 @@
           "url": "https://www.desdeparaguay.com/capital",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movcapital/movcapital.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movcapital/movcapital.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/capital"
         },
         {
           "url": "https://www.desdeparaguay.com/capital",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movcapital/movcapital.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movcapital/movcapital.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/capital"
         }
       ],
       "source": "https://www.desdeparaguay.com/capital",
-      "verifiedAt": "2026-11-05",
+      "verifiedAt": "2026-11-07",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-07T04:47:26.116835+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-07T07:47:08.569027+00:00"
       }
     },
     {
@@ -3448,9 +3447,8 @@
       "source": "https://www.desdeparaguay.com/centro",
       "verifiedAt": "2026-11-06",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-06T17:45:46.121973+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-07T07:47:08.569027+00:00"
       }
     },
     {
