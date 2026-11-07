@@ -2461,7 +2461,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/multiradio",
-      "verifiedAt": "2026-11-05"
+      "verifiedAt": "2026-11-05",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-07T01:16:50.364729+00:00"
+      }
     },
     {
       "id": "dsd-yacyreta",
@@ -3401,8 +3406,9 @@
       "source": "https://www.desdeparaguay.com/4dmasnoticias",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-06T11:01:02.476951+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-07T01:16:50.364729+00:00"
       }
     },
     {
@@ -3624,8 +3630,9 @@
       ],
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-06T08:43:24.852423+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-07T01:16:50.364729+00:00"
       }
     },
     {
