@@ -1709,9 +1709,8 @@
       "source": "https://www.desdeparaguay.com/caraguatay",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "silence",
-        "checkedAt": "2026-11-08T03:45:51.703574+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-08T09:15:29.941825+00:00"
       }
     },
     {
@@ -2040,19 +2039,19 @@
           "url": "https://www.desdeparaguay.com/capital",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movcapital/movcapital.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movcapital/movcapital.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/capital"
         },
         {
           "url": "https://www.desdeparaguay.com/capital",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movcapital/movcapital.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movcapital/movcapital.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/capital"
         }
       ],
       "source": "https://www.desdeparaguay.com/capital",
-      "verifiedAt": "2026-11-07",
+      "verifiedAt": "2026-11-08",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-07T07:47:08.569027+00:00"
@@ -3621,22 +3620,21 @@
           "url": "https://www.desdeparaguay.com/mdq",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movmdq/movmdq.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movmdq/movmdq.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/mdq"
         },
         {
           "url": "https://www.desdeparaguay.com/mdq",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movmdq/movmdq.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movmdq/movmdq.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/mdq"
         }
       ],
-      "verifiedAt": "2026-11-05",
+      "verifiedAt": "2026-11-08",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-07T14:16:03.884280+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-08T09:15:29.941825+00:00"
       }
     },
     {

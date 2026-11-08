@@ -1,0 +1,65 @@
+{
+  "baseCommit": "f4c8eab7331b0d47661ad7a21171101a073606b0",
+  "createdAt": "2026-11-08T09:15:30.824655+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-capital",
+      "name": "Capital",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/capital",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movcapital/movcapital.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/capital"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-08",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-mdq",
+      "name": "MDQ",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/mdq",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movmdq/movmdq.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/mdq"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-08",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-caraguatay",
+      "name": "Caraguatay",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-08T09:15:29.941825+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-mdq",
+      "name": "MDQ",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-08T09:15:29.941825+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
