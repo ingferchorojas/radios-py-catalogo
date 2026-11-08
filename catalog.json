@@ -1650,8 +1650,9 @@
       "source": "https://www.desdeparaguay.com/serrania",
       "verifiedAt": "2026-11-07",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-07T08:45:13.630257+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-08T04:45:44.490852+00:00"
       }
     },
     {
@@ -2604,8 +2605,9 @@
       "source": "https://www.desdeparaguay.com/piribebuy",
       "verifiedAt": "2026-11-06",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-07T08:15:42.753763+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-08T04:45:44.490852+00:00"
       }
     },
     {
