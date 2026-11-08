@@ -1795,14 +1795,14 @@
           "url": "https://www.desdeparaguay.com/universocde",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/transuniverso/transuniverso/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/transuniverso/transuniverso/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/universocde"
         },
         {
           "url": "https://www.desdeparaguay.com/universocde",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/transuniverso/transuniverso/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/transuniverso/transuniverso/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/universocde"
         }
       ],
@@ -3440,8 +3440,9 @@
       "source": "https://www.desdeparaguay.com/centro",
       "verifiedAt": "2026-11-06",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-08T07:45:33.711683+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-08T16:42:27.845405+00:00"
       }
     },
     {
