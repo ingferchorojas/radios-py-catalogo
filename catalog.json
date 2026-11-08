@@ -2672,8 +2672,9 @@
       "source": "https://www.desdeparaguay.com/saltosdelguaira",
       "verifiedAt": "2026-11-02",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-07T23:14:11.619053+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-08T00:44:15.932292+00:00"
       }
     },
     {
@@ -3596,8 +3597,9 @@
       ],
       "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-07T09:15:08.553183+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-08T00:44:15.932292+00:00"
       }
     },
     {
