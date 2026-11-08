@@ -1,0 +1,29 @@
+{
+  "baseCommit": "84fd79a88dc4421331a6af7ea781e8244199b7e1",
+  "createdAt": "2026-11-08T09:43:53.436294+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-portaldelchaco",
+      "name": "Portal del Chaco",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-08T09:43:52.577784+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1200",
+      "name": "Libre",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-08T09:43:52.577784+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
