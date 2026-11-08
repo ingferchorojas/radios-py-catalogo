@@ -1,0 +1,19 @@
+{
+  "baseCommit": "569a9b9acc670361db5ba60f8435d534372d895e",
+  "createdAt": "2026-11-08T17:41:57.264702+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-1080",
+      "name": "Monumental",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-08T17:41:56.402109+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
