@@ -1709,8 +1709,9 @@
       "source": "https://www.desdeparaguay.com/caraguatay",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-06T08:13:46.262666+00:00"
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-11-08T03:45:51.703574+00:00"
       }
     },
     {
@@ -2779,8 +2780,9 @@
       "source": "https://www.desdeparaguay.com/unasur",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-04T14:44:56.916528+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-08T03:45:51.703574+00:00"
       }
     },
     {
