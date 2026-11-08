@@ -1600,23 +1600,22 @@
           "url": "https://www.desdeparaguay.com/atyra",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movatyra/movatyra.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movatyra/movatyra.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/atyra"
         },
         {
           "url": "https://www.desdeparaguay.com/atyra",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movatyra/movatyra.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movatyra/movatyra.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/atyra"
         }
       ],
       "source": "https://www.desdeparaguay.com/atyra",
-      "verifiedAt": "2026-11-06",
+      "verifiedAt": "2026-11-08",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-07T14:16:03.884280+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-08T08:14:37.883845+00:00"
       }
     },
     {
@@ -2604,9 +2603,8 @@
       "source": "https://www.desdeparaguay.com/piribebuy",
       "verifiedAt": "2026-11-06",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-08T04:45:44.490852+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-08T08:14:37.883845+00:00"
       }
     },
     {

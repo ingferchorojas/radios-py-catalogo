@@ -1,0 +1,47 @@
+{
+  "baseCommit": "1057eacbaeb346f08d45a1373258b3b0d0de7383",
+  "createdAt": "2026-11-08T08:14:38.764284+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-atyra",
+      "name": "Atyra",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/atyra",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movatyra/movatyra.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/atyra"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-08",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-atyra",
+      "name": "Atyra",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-08T08:14:37.883845+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-piribebuy",
+      "name": "Piribebuy",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-08T08:14:37.883845+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
