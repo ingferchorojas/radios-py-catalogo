@@ -2775,9 +2775,8 @@
       "source": "https://www.desdeparaguay.com/unasur",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-08T03:45:51.703574+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-08T16:12:49.089224+00:00"
       }
     },
     {
