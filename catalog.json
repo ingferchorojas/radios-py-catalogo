@@ -366,19 +366,19 @@
           "url": "https://www.desdeparaguay.com/680",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://www.desde-paraguay.com/trans680/trans680/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/trans680/trans680/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/680"
         },
         {
           "url": "https://www.desdeparaguay.com/680",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/trans680/trans680/playlist.m3u8",
+          "endpoint": "https://www.desde-paraguay.com/trans680/trans680/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/680"
         }
       ],
       "source": "https://www.desdeparaguay.com/680",
-      "verifiedAt": "2026-11-04"
+      "verifiedAt": "2026-11-09"
     },
     {
       "id": "dsd-1140",
@@ -411,9 +411,8 @@
       "source": "https://www.desdeparaguay.com/1140",
       "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-09T14:12:44.129577+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-09T15:43:09.757041+00:00"
       }
     },
     {
