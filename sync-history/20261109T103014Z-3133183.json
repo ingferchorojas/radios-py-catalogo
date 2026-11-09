@@ -1,0 +1,25 @@
+{
+  "baseCommit": "f3ba7406295481ee338bf7c0fb4cfa0dc0ec99e3",
+  "createdAt": "2026-11-09T10:42:31.552219+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-fiesta",
+      "name": "Fiesta",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/fiesta",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movfiesta/movfiesta.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/fiesta"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-09",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    }
+  ]
+}

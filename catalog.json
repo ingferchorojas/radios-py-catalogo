@@ -2110,19 +2110,19 @@
           "url": "https://www.desdeparaguay.com/fiesta",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movfiesta/movfiesta.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movfiesta/movfiesta.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/fiesta"
         },
         {
           "url": "https://www.desdeparaguay.com/fiesta",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movfiesta/movfiesta.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movfiesta/movfiesta.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/fiesta"
         }
       ],
       "source": "https://www.desdeparaguay.com/fiesta",
-      "verifiedAt": "2026-11-06"
+      "verifiedAt": "2026-11-09"
     },
     {
       "id": "dsd-radiomas",
