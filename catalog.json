@@ -1640,23 +1640,22 @@
           "url": "https://www.desdeparaguay.com/serrania",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movserrania/movserrania.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movserrania/movserrania.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/serrania"
         },
         {
           "url": "https://www.desdeparaguay.com/serrania",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movserrania/movserrania.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movserrania/movserrania.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/serrania"
         }
       ],
       "source": "https://www.desdeparaguay.com/serrania",
-      "verifiedAt": "2026-11-07",
+      "verifiedAt": "2026-11-09",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-09T04:45:13.928217+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-09T08:13:12.425343+00:00"
       }
     },
     {
@@ -1714,9 +1713,8 @@
       "source": "https://www.desdeparaguay.com/caraguatay",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-09T04:45:13.928217+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-09T08:13:12.425343+00:00"
       }
     },
     {
@@ -2606,9 +2604,8 @@
       "source": "https://www.desdeparaguay.com/piribebuy",
       "verifiedAt": "2026-11-06",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-09T04:15:31.061650+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-09T08:13:12.425343+00:00"
       }
     },
     {
@@ -3344,9 +3341,8 @@
       "source": "https://www.desdeparaguay.com/700",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-09T02:13:54.496147+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-09T08:13:12.425343+00:00"
       }
     },
     {
@@ -3380,9 +3376,8 @@
       "source": "https://www.desdeparaguay.com/portaldelchaco",
       "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-08T22:12:44.731045+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-09T08:13:12.425343+00:00"
       }
     },
     {
