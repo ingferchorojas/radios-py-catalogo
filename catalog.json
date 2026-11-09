@@ -2244,14 +2244,14 @@
           "url": "https://www.desdeparaguay.com/parana",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movparana/movparana.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movparana/movparana.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/parana"
         },
         {
           "url": "https://www.desdeparaguay.com/parana",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movparana/movparana.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movparana/movparana.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/parana"
         }
       ],
@@ -3598,8 +3598,9 @@
       ],
       "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-08T09:43:52.577784+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-09T00:13:36.249823+00:00"
       }
     },
     {
@@ -3633,8 +3634,9 @@
       ],
       "verifiedAt": "2026-11-08",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-08T09:15:29.941825+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-09T00:13:36.249823+00:00"
       }
     },
     {
