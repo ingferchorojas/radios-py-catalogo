@@ -1654,8 +1654,9 @@
       "source": "https://www.desdeparaguay.com/serrania",
       "verifiedAt": "2026-11-07",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-08T10:13:08.157438+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-09T04:45:13.928217+00:00"
       }
     },
     {
@@ -1713,8 +1714,9 @@
       "source": "https://www.desdeparaguay.com/caraguatay",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-08T09:15:29.941825+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-09T04:45:13.928217+00:00"
       }
     },
     {
@@ -2057,8 +2059,9 @@
       "source": "https://www.desdeparaguay.com/capital",
       "verifiedAt": "2026-11-08",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-07T07:47:08.569027+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-09T04:45:13.928217+00:00"
       }
     },
     {
@@ -2641,8 +2644,9 @@
       "source": "https://www.desdeparaguay.com/arandu",
       "verifiedAt": "2026-11-06",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-07T19:14:58.089253+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-09T04:45:13.928217+00:00"
       }
     },
     {
