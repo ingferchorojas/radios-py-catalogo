@@ -2114,14 +2114,14 @@
           "url": "https://www.desdeparaguay.com/fiesta",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movfiesta/movfiesta.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movfiesta/movfiesta.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/fiesta"
         },
         {
           "url": "https://www.desdeparaguay.com/fiesta",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movfiesta/movfiesta.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movfiesta/movfiesta.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/fiesta"
         }
       ],
@@ -3293,19 +3293,19 @@
           "url": "https://www.desdeparaguay.com/1420",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/mov1420/mov1420.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/mov1420/mov1420.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/1420"
         },
         {
           "url": "https://www.desdeparaguay.com/1420",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/mov1420/mov1420.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/mov1420/mov1420.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/1420"
         }
       ],
       "source": "https://www.desdeparaguay.com/1420",
-      "verifiedAt": "2026-11-05",
+      "verifiedAt": "2026-11-09",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-09T08:42:08.128927+00:00"

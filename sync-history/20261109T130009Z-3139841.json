@@ -1,0 +1,43 @@
+{
+  "baseCommit": "2290fb3cdff3bb5c9e8409380a5847ee768fbf16",
+  "createdAt": "2026-11-09T13:13:03.049897+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-fiesta",
+      "name": "Fiesta",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/fiesta",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movfiesta/movfiesta.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/fiesta"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-09",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-1420",
+      "name": "Guyrá Campana",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/1420",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/mov1420/mov1420.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/1420"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-09",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    }
+  ]
+}
