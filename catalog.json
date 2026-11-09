@@ -3305,9 +3305,8 @@
       "source": "https://www.desdeparaguay.com/1420",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-09T01:43:41.680560+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-09T08:42:08.128927+00:00"
       }
     },
     {
@@ -3597,9 +3596,8 @@
       ],
       "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-09T00:13:36.249823+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-09T08:42:08.128927+00:00"
       }
     },
     {
@@ -3633,9 +3631,8 @@
       ],
       "verifiedAt": "2026-11-08",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-09T00:13:36.249823+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-09T08:42:08.128927+00:00"
       }
     },
     {
