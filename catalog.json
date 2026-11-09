@@ -411,9 +411,8 @@
       "source": "https://www.desdeparaguay.com/1140",
       "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-08T23:43:17.871893+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-09T09:11:56.445013+00:00"
       }
     },
     {

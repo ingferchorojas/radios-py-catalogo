@@ -1,0 +1,18 @@
+{
+  "baseCommit": "84120135bdd57ea7398fc98c37c0eb3da63fdf68",
+  "createdAt": "2026-11-09T09:11:57.294479+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-1140",
+      "name": "Central",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-09T09:11:56.445013+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
