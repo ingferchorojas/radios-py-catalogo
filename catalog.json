@@ -1732,19 +1732,19 @@
           "url": "https://www.desdeparaguay.com/altopy",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movaltopy/movaltopy.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movaltopy/movaltopy.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/altopy"
         },
         {
           "url": "https://www.desdeparaguay.com/altopy",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movaltopy/movaltopy.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movaltopy/movaltopy.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/altopy"
         }
       ],
       "source": "https://www.desdeparaguay.com/altopy",
-      "verifiedAt": "2026-11-07",
+      "verifiedAt": "2026-11-09",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-08T13:42:14.335622+00:00"

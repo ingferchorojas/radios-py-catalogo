@@ -1,0 +1,25 @@
+{
+  "baseCommit": "7cc0ff8b2a772554fdfcd75dd6eb387a0d2dc216",
+  "createdAt": "2026-11-09T16:11:52.004988+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-altopy",
+      "name": "Alto Paraguay",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/altopy",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movaltopy/movaltopy.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/altopy"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-09",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    }
+  ]
+}
