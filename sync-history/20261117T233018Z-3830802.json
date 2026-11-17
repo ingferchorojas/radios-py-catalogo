@@ -1,0 +1,245 @@
+{
+  "baseCommit": "043ab5fe71066f487410f4fd6f30ab6b37d3ad1f",
+  "createdAt": "2026-11-17T23:46:01.531007+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-conquistador",
+      "name": "Conquistador",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/conquistador",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movfernando/movfernando.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/conquistador"
+      },
+      "action": "add_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-17",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-hit",
+      "name": "Hit",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/hit",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movhit/movhit.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/hit"
+      },
+      "action": "add_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-17",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "nacional-san-pedro",
+      "name": "Radio Nacional San Pedro",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-17T23:46:00.681797+00:00"
+      },
+      "consecutiveFailures": 13,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-cfa",
+      "name": "CFA",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-17T23:46:00.681797+00:00"
+      },
+      "consecutiveFailures": 11,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-hit",
+      "name": "Hit",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-17T23:46:00.681797+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 23
+    },
+    {
+      "action": "availability",
+      "id": "dsd-mix",
+      "name": "Mix",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-17T23:46:00.681797+00:00"
+      },
+      "consecutiveFailures": 71,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-altopy",
+      "name": "Alto Paraguay",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-17T23:46:00.681797+00:00"
+      },
+      "consecutiveFailures": 16,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-agr",
+      "name": "AGR",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-17T23:46:00.681797+00:00"
+      },
+      "consecutiveFailures": 7,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-parana",
+      "name": "Paraná",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-17T23:46:00.681797+00:00"
+      },
+      "consecutiveFailures": 28,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-evolucion",
+      "name": "Evolución",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-17T23:46:00.681797+00:00"
+      },
+      "consecutiveFailures": 11,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-arandu",
+      "name": "Arandú",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-17T23:46:00.681797+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 387
+    },
+    {
+      "action": "availability",
+      "id": "dsd-ciudad",
+      "name": "Ciudad",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-17T23:46:00.681797+00:00"
+      },
+      "consecutiveFailures": 103,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-pueblo",
+      "name": "Pueblo",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-17T23:46:00.681797+00:00"
+      },
+      "consecutiveFailures": 11,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-4dmasnoticias",
+      "name": "4Dmás Noticias",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-17T23:46:00.681797+00:00"
+      },
+      "consecutiveFailures": 12,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-centro",
+      "name": "Centro",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-17T23:46:00.681797+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1059",
+      "name": "Nacional San Pedro",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-17T23:46:00.681797+00:00"
+      },
+      "consecutiveFailures": 13,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-ycuamandyyu",
+      "name": "Ycuamandyyú",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-17T23:46:00.681797+00:00"
+      },
+      "consecutiveFailures": 14,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-mdq",
+      "name": "MDQ",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-17T23:46:00.681797+00:00"
+      },
+      "consecutiveFailures": 11,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-concierto",
+      "name": "Concierto",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-17T23:46:00.681797+00:00"
+      },
+      "consecutiveFailures": 105,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
