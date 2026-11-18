@@ -1899,8 +1899,9 @@
       "source": "https://www.desdeparaguay.com/aquidaban",
       "verifiedAt": "2026-11-07",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-07T23:14:11.619053+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-18T00:45:54.509815+00:00"
       }
     },
     {
@@ -2940,8 +2941,9 @@
       "source": "https://www.desdeparaguay.com/itapora",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-01T17:44:16.774127+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-18T00:45:54.509815+00:00"
       }
     },
     {
@@ -3619,8 +3621,9 @@
       ],
       "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-09T08:42:08.128927+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-18T00:45:54.509815+00:00"
       }
     },
     {
