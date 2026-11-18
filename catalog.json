@@ -2387,8 +2387,9 @@
       "source": "https://www.desdeparaguay.com/medano",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-07T12:46:53.055940+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-18T04:48:00.659149+00:00"
       }
     },
     {
