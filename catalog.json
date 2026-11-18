@@ -3326,8 +3326,9 @@
       "source": "https://www.desdeparaguay.com/1420",
       "verifiedAt": "2026-11-09",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-09T08:42:08.128927+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-18T02:16:57.944477+00:00"
       }
     },
     {
@@ -3361,8 +3362,9 @@
       "source": "https://www.desdeparaguay.com/700",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-09T08:13:12.425343+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-18T02:16:57.944477+00:00"
       }
     },
     {
