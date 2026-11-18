@@ -1,0 +1,36 @@
+{
+  "baseCommit": "636f046145594f72c074e90439e2ebe04ccd0403",
+  "createdAt": "2026-11-18T06:18:16.962884+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-ycuamandyyu",
+      "name": "Ycuamandyyú",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/ycuamandyyu",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movycuamandyyu/movycuamandyyu.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/ycuamandyyu"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-18",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-ycuamandyyu",
+      "name": "Ycuamandyyú",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-18T06:18:16.019680+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
