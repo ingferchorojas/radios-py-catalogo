@@ -1066,8 +1066,9 @@
       "source": "https://www.desdeparaguay.com/exclusiva",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-18T21:14:15.081850+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-18T23:45:48.271672+00:00"
       }
     },
     {
@@ -2797,9 +2798,8 @@
       "source": "https://www.desdeparaguay.com/unasur",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-18T21:45:05.333091+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-18T23:45:48.271672+00:00"
       }
     },
     {

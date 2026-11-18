@@ -1,0 +1,30 @@
+{
+  "baseCommit": "79f32e17a6343a14c298a2d883b70bad3ee4f392",
+  "createdAt": "2026-11-18T23:45:49.446299+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-exclusiva",
+      "name": "Exclusiva",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-18T23:45:48.271672+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-unasur",
+      "name": "Unasur",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-18T23:45:48.271672+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
