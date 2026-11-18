@@ -3358,8 +3358,9 @@
       "source": "https://www.desdeparaguay.com/700",
       "verifiedAt": "2026-11-18",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-18T08:15:49.063859+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-18T22:45:01.500004+00:00"
       }
     },
     {
