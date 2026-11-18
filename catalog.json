@@ -658,8 +658,9 @@
       "source": "https://www.desdeparaguay.com/1020",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-18T03:17:31.324891+00:00"
       }
     },
     {
@@ -1418,8 +1419,9 @@
       "source": "https://www.desdeparaguay.com/rockandpop",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-18T03:17:31.324891+00:00"
       }
     },
     {
@@ -1864,8 +1866,9 @@
       "source": "https://www.desdeparaguay.com/660",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-09T07:14:44.405699+00:00"
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-11-18T03:17:31.324891+00:00"
       }
     },
     {
@@ -2072,8 +2075,9 @@
       "source": "https://www.desdeparaguay.com/capital",
       "verifiedAt": "2026-11-08",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-09T07:14:44.405699+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-18T03:17:31.324891+00:00"
       }
     },
     {

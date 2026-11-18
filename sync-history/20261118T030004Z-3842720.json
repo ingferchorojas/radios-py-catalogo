@@ -1,0 +1,55 @@
+{
+  "baseCommit": "d2a7be48b9f3a9da154f1bd6ee63212c291a9212",
+  "createdAt": "2026-11-18T03:17:32.205974+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-1020",
+      "name": "Ñanduti",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-18T03:17:31.324891+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-rockandpop",
+      "name": "Rock & Pop",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-18T03:17:31.324891+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-660",
+      "name": "Regional",
+      "availability": {
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-11-18T03:17:31.324891+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-capital",
+      "name": "Capital",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-18T03:17:31.324891+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
