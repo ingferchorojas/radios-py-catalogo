@@ -1,0 +1,25 @@
+{
+  "baseCommit": "cefd87b1b43e4c8175126398121e2fb9d34f9cbc",
+  "createdAt": "2026-11-18T01:46:53.250773+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-universocde",
+      "name": "Universo",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/universocde",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/transuniverso/transuniverso/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/universocde"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-17",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    }
+  ]
+}
