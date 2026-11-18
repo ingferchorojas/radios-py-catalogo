@@ -261,8 +261,9 @@
       "source": "https://www.lanacion.com.py/medios/",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-18T13:13:22.318338+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-18T14:43:51.913318+00:00"
       }
     },
     {
@@ -288,8 +289,9 @@
       "source": "https://www.lanacion.com.py/medios/",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-09T15:13:08.333223+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-18T14:43:51.913318+00:00"
       }
     },
     {
@@ -3344,14 +3346,14 @@
           "url": "https://www.desdeparaguay.com/700",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/trans700/trans700/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/trans700/trans700/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/700"
         },
         {
           "url": "https://www.desdeparaguay.com/700",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/trans700/trans700/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/trans700/trans700/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/700"
         }
       ],
