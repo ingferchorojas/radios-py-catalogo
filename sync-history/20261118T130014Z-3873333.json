@@ -1,0 +1,18 @@
+{
+  "baseCommit": "09cde149f5d79a128fbffeaee58c48c77d71d8bf",
+  "createdAt": "2026-11-18T13:13:23.291578+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "corazon",
+      "name": "Radio Corazón",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-18T13:13:22.318338+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
