@@ -1,0 +1,40 @@
+{
+  "baseCommit": "1545e32f7198eba64ac5b03ecd80002aaa0fd19b",
+  "createdAt": "2026-11-18T15:13:26.304812+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "universo",
+      "name": "Universo 970",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-18T15:13:25.420833+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "corazon",
+      "name": "Radio Corazón",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-18T15:13:25.420833+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "popular",
+      "name": "Radio Popular",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-18T15:13:25.420833+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}

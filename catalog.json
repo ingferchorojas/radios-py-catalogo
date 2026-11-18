@@ -234,9 +234,8 @@
       "source": "https://www.lanacion.com.py/medios/",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-18T14:13:29.991991+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-18T15:13:25.420833+00:00"
       }
     },
     {
@@ -261,9 +260,8 @@
       "source": "https://www.lanacion.com.py/medios/",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-18T14:43:51.913318+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-18T15:13:25.420833+00:00"
       }
     },
     {
@@ -289,9 +287,8 @@
       "source": "https://www.lanacion.com.py/medios/",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-18T14:43:51.913318+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-18T15:13:25.420833+00:00"
       }
     },
     {
