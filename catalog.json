@@ -2628,8 +2628,9 @@
       "source": "https://www.desdeparaguay.com/piribebuy",
       "verifiedAt": "2026-11-06",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-09T08:13:12.425343+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-18T04:18:17.786410+00:00"
       }
     },
     {
