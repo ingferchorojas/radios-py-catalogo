@@ -3429,9 +3429,8 @@
       "source": "https://www.desdeparaguay.com/4dmasnoticias",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-17T23:46:00.681797+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-18T10:14:44.966898+00:00"
       }
     },
     {
@@ -3487,18 +3486,18 @@
           "url": "https://www.desdeparaguay.com/1059",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/transsanpedro/transsanpedro/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/transsanpedro/transsanpedro/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/1059"
         },
         {
           "url": "https://www.desdeparaguay.com/1059",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/transsanpedro/transsanpedro/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/transsanpedro/transsanpedro/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/1059"
         }
       ],
-      "verifiedAt": "2026-11-07",
+      "verifiedAt": "2026-11-18",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-18T08:44:12.134937+00:00"
@@ -3574,14 +3573,14 @@
           "url": "https://www.desdeparaguay.com/ycuamandyyu",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movycuamandyyu/movycuamandyyu.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movycuamandyyu/movycuamandyyu.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/ycuamandyyu"
         },
         {
           "url": "https://www.desdeparaguay.com/ycuamandyyu",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movycuamandyyu/movycuamandyyu.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movycuamandyyu/movycuamandyyu.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/ycuamandyyu"
         }
       ],
