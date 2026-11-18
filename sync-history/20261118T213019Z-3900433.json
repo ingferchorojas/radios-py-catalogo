@@ -1,0 +1,19 @@
+{
+  "baseCommit": "32be386c3f1ce52aac913e79a17c6d76e7e3bd04",
+  "createdAt": "2026-11-18T21:45:06.274397+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-unasur",
+      "name": "Unasur",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-18T21:45:05.333091+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
