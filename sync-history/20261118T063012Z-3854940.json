@@ -1,0 +1,18 @@
+{
+  "baseCommit": "1b9f41a7f7003f81d6a328506b36724ad4f1490f",
+  "createdAt": "2026-11-18T06:47:30.292263+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-medano",
+      "name": "Medano",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-18T06:47:29.443714+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
