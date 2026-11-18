@@ -2059,23 +2059,22 @@
           "url": "https://www.desdeparaguay.com/capital",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movcapital/movcapital.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movcapital/movcapital.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/capital"
         },
         {
           "url": "https://www.desdeparaguay.com/capital",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movcapital/movcapital.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movcapital/movcapital.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/capital"
         }
       ],
       "source": "https://www.desdeparaguay.com/capital",
-      "verifiedAt": "2026-11-08",
+      "verifiedAt": "2026-11-18",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-18T03:17:31.324891+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-18T09:44:22.666839+00:00"
       }
     },
     {
@@ -2312,8 +2311,9 @@
       "source": "https://www.desdeparaguay.com/santahelena",
       "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-10-30T18:12:43.924951+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-18T09:44:22.666839+00:00"
       }
     },
     {
