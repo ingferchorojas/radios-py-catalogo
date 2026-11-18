@@ -1,0 +1,29 @@
+{
+  "baseCommit": "810c3fcc9451d50d085e062f8f7ef7f5f2e7c575",
+  "createdAt": "2026-11-18T10:44:23.113604+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-1020",
+      "name": "Ñanduti",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-18T10:44:22.264307+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-rockandpop",
+      "name": "Rock & Pop",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-18T10:44:22.264307+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
