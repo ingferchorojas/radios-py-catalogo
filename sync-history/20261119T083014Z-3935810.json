@@ -1,0 +1,89 @@
+{
+  "baseCommit": "4d96734117b4fa576c392aa6c365d22811ce9aa6",
+  "createdAt": "2026-11-19T08:48:19.918618+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-universocde",
+      "name": "Universo",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/universocde",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/transuniverso/transuniverso/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/universocde"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-19",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-1069",
+      "name": "Pilar Pilar",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/1069",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/mov1069/mov1069.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/1069"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-19",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "nacional-san-pedro",
+      "name": "Radio Nacional San Pedro",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-19T08:48:18.960787+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-exclusiva",
+      "name": "Exclusiva",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-19T08:48:18.960787+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1069",
+      "name": "Pilar Pilar",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-19T08:48:18.960787+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1200",
+      "name": "Libre",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-19T08:48:18.960787+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}

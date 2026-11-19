@@ -180,8 +180,9 @@
       "source": "https://mediosdelestado.gov.py/radios/",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-18T16:13:12.212188+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-19T08:48:18.960787+00:00"
       }
     },
     {
@@ -1066,8 +1067,9 @@
       "source": "https://www.desdeparaguay.com/exclusiva",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-19T07:18:59.513095+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-19T08:48:18.960787+00:00"
       }
     },
     {
@@ -1824,14 +1826,14 @@
           "url": "https://www.desdeparaguay.com/universocde",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/transuniverso/transuniverso/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/transuniverso/transuniverso/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/universocde"
         },
         {
           "url": "https://www.desdeparaguay.com/universocde",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/transuniverso/transuniverso/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/transuniverso/transuniverso/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/universocde"
         }
       ],
@@ -2585,23 +2587,22 @@
           "url": "https://www.desdeparaguay.com/1069",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/mov1069/mov1069.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/mov1069/mov1069.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/1069"
         },
         {
           "url": "https://www.desdeparaguay.com/1069",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/mov1069/mov1069.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/mov1069/mov1069.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/1069"
         }
       ],
       "source": "https://www.desdeparaguay.com/1069",
-      "verifiedAt": "2026-11-05",
+      "verifiedAt": "2026-11-19",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-18T20:44:49.125358+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-19T08:48:18.960787+00:00"
       }
     },
     {
@@ -3632,9 +3633,8 @@
       ],
       "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-19T00:47:23.696368+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-19T08:48:18.960787+00:00"
       }
     },
     {
