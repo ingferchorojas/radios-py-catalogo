@@ -1,0 +1,37 @@
+{
+  "baseCommit": "5b193b2a42f9c21bd2936f63f29017fd49f66d09",
+  "createdAt": "2026-11-19T09:47:22.971521+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-losangeles",
+      "name": "Los Angeles",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/losangeles",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/losangeles"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-19",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-centro",
+      "name": "Centro",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-19T09:47:22.121764+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}

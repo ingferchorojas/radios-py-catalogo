@@ -2449,19 +2449,19 @@
           "url": "https://www.desdeparaguay.com/losangeles",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/losangeles"
         },
         {
           "url": "https://www.desdeparaguay.com/losangeles",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/losangeles"
         }
       ],
       "source": "https://www.desdeparaguay.com/losangeles",
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-08T12:12:56.028894+00:00"
@@ -3481,8 +3481,9 @@
       "source": "https://www.desdeparaguay.com/centro",
       "verifiedAt": "2026-11-18",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-19T08:17:47.319004+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-19T09:47:22.121764+00:00"
       }
     },
     {
