@@ -2030,14 +2030,14 @@
           "url": "https://www.desdeparaguay.com/kaaguazu",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/kaaguazu"
         },
         {
           "url": "https://www.desdeparaguay.com/kaaguazu",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/kaaguazu"
         }
       ],
@@ -2352,8 +2352,9 @@
       "source": "https://www.desdeparaguay.com/evolucion",
       "verifiedAt": "2026-11-07",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-18T07:17:15.369135+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-19T00:47:23.696368+00:00"
       }
     },
     {
@@ -2443,14 +2444,14 @@
           "url": "https://www.desdeparaguay.com/losangeles",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/losangeles"
         },
         {
           "url": "https://www.desdeparaguay.com/losangeles",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/losangeles"
         }
       ],
@@ -3625,8 +3626,9 @@
       ],
       "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-18T08:44:12.134937+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-19T00:47:23.696368+00:00"
       }
     },
     {

@@ -1,0 +1,67 @@
+{
+  "baseCommit": "aa1c39f0f1ee82447fdb322e65794e11f8e19a3a",
+  "createdAt": "2026-11-19T00:47:24.544242+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-kaaguazu",
+      "name": "Kaaguazú",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/kaaguazu",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/kaaguazu"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-18",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-losangeles",
+      "name": "Los Angeles",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/losangeles",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/losangeles"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-18",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-evolucion",
+      "name": "Evolución",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-19T00:47:23.696368+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1200",
+      "name": "Libre",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-19T00:47:23.696368+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
