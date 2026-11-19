@@ -1,0 +1,19 @@
+{
+  "baseCommit": "917e7d387a5c85a6fa2b66f6563fda87122242c4",
+  "createdAt": "2026-11-19T07:48:55.910115+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-aquidaban",
+      "name": "Aquidabán",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-19T07:48:55.035263+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}

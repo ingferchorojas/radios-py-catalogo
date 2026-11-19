@@ -1909,8 +1909,9 @@
       "source": "https://www.desdeparaguay.com/aquidaban",
       "verifiedAt": "2026-11-18",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-18T20:44:49.125358+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-19T07:48:55.035263+00:00"
       }
     },
     {
