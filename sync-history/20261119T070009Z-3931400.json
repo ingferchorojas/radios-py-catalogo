@@ -1,0 +1,18 @@
+{
+  "baseCommit": "58439f84373b8b1a3feb8d4798387101f2304cb9",
+  "createdAt": "2026-11-19T07:19:00.395161+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-exclusiva",
+      "name": "Exclusiva",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-19T07:18:59.513095+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
