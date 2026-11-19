@@ -1655,23 +1655,22 @@
           "url": "https://www.desdeparaguay.com/serrania",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movserrania/movserrania.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movserrania/movserrania.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/serrania"
         },
         {
           "url": "https://www.desdeparaguay.com/serrania",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movserrania/movserrania.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movserrania/movserrania.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/serrania"
         }
       ],
       "source": "https://www.desdeparaguay.com/serrania",
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-19",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-19T00:17:17.109188+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-19T11:46:56.993027+00:00"
       }
     },
     {
@@ -2452,14 +2451,14 @@
           "url": "https://www.desdeparaguay.com/losangeles",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/losangeles"
         },
         {
           "url": "https://www.desdeparaguay.com/losangeles",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/losangeles"
         }
       ],
@@ -2553,23 +2552,22 @@
           "url": "https://www.desdeparaguay.com/arapy",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movarapy/movarapy.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movarapy/movarapy.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/arapy"
         },
         {
           "url": "https://www.desdeparaguay.com/arapy",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movarapy/movarapy.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movarapy/movarapy.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/arapy"
         }
       ],
       "source": "https://www.desdeparaguay.com/arapy",
-      "verifiedAt": "2026-11-07",
+      "verifiedAt": "2026-11-19",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-18T20:44:49.125358+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-19T11:46:56.993027+00:00"
       }
     },
     {
@@ -2743,9 +2741,8 @@
       "source": "https://www.desdeparaguay.com/ciudad",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-17T23:46:00.681797+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-19T11:46:56.993027+00:00"
       }
     },
     {
@@ -3396,19 +3393,19 @@
           "url": "https://www.desdeparaguay.com/portaldelchaco",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movportaldelchaco/movportaldelchaco.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movportaldelchaco/movportaldelchaco.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/portaldelchaco"
         },
         {
           "url": "https://www.desdeparaguay.com/portaldelchaco",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movportaldelchaco/movportaldelchaco.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movportaldelchaco/movportaldelchaco.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/portaldelchaco"
         }
       ],
       "source": "https://www.desdeparaguay.com/portaldelchaco",
-      "verifiedAt": "2026-11-04",
+      "verifiedAt": "2026-11-19",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-19T08:17:47.319004+00:00"
