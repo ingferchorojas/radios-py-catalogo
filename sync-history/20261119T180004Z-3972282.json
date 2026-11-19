@@ -1,0 +1,43 @@
+{
+  "baseCommit": "24ba25c0aa402ddfe5d4b291d3ca14c15c2cca59",
+  "createdAt": "2026-11-19T18:12:31.622768+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-unasur",
+      "name": "Unasur",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/unasur",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movunasur/movunasur.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/unasur"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-19",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-visionfm",
+      "name": "Visión",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/visionfm",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movvision/movvision.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/visionfm"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-19",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    }
+  ]
+}
