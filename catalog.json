@@ -1066,8 +1066,9 @@
       "source": "https://www.desdeparaguay.com/exclusiva",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-19T01:17:29.822709+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-19T02:47:43.206527+00:00"
       }
     },
     {
@@ -1206,8 +1207,9 @@
       "source": "https://www.desdeparaguay.com/hit",
       "verifiedAt": "2026-11-17",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-17T23:46:00.681797+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-19T02:47:43.206527+00:00"
       }
     },
     {
@@ -2079,8 +2081,9 @@
       "source": "https://www.desdeparaguay.com/capital",
       "verifiedAt": "2026-11-18",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-18T09:44:22.666839+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-19T02:47:43.206527+00:00"
       }
     },
     {
@@ -2631,9 +2634,8 @@
       "source": "https://www.desdeparaguay.com/piribebuy",
       "verifiedAt": "2026-11-06",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-19T01:17:29.822709+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-19T02:47:43.206527+00:00"
       }
     },
     {
@@ -2808,8 +2810,9 @@
       "source": "https://www.desdeparaguay.com/unasur",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-18T23:45:48.271672+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-19T02:47:43.206527+00:00"
       }
     },
     {
