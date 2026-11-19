@@ -1,0 +1,19 @@
+{
+  "baseCommit": "5d4b0e69402cd7b86a96b8dea1d9781583c9f578",
+  "createdAt": "2026-11-19T17:12:09.879075+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-4dmasnoticias",
+      "name": "4Dmás Noticias",
+      "availability": {
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-11-19T17:12:08.944511+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
