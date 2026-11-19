@@ -1067,9 +1067,8 @@
       "source": "https://www.desdeparaguay.com/exclusiva",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-19T08:48:18.960787+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-19T11:16:33.515083+00:00"
       }
     },
     {
@@ -1737,9 +1736,8 @@
       "source": "https://www.desdeparaguay.com/caraguatay",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-19T01:17:29.822709+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-19T11:16:33.515083+00:00"
       }
     },
     {
@@ -1944,7 +1942,12 @@
         }
       ],
       "source": "https://www.desdeparaguay.com/concepcion",
-      "verifiedAt": "2026-11-06"
+      "verifiedAt": "2026-11-06",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-19T11:16:33.515083+00:00"
+      }
     },
     {
       "id": "dsd-lacosta",
@@ -2498,9 +2501,8 @@
       "source": "https://www.desdeparaguay.com/multiradio",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-19T05:48:31.760428+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-19T11:16:33.515083+00:00"
       }
     },
     {
