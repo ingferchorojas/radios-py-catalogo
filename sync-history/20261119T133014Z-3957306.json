@@ -1,0 +1,29 @@
+{
+  "baseCommit": "3e51a4a0e338ddf5abe0f690ecd4db27428890a0",
+  "createdAt": "2026-11-19T13:43:22.035301+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-agr",
+      "name": "AGR",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-19T13:43:21.100154+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-4dmasnoticias",
+      "name": "4Dmás Noticias",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-19T13:43:21.100154+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}

@@ -2219,9 +2219,8 @@
       "source": "https://www.desdeparaguay.com/agr",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-19T03:18:19.688824+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-19T13:43:21.100154+00:00"
       }
     },
     {
@@ -3442,9 +3441,8 @@
       "source": "https://www.desdeparaguay.com/4dmasnoticias",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-19T01:17:29.822709+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-19T13:43:21.100154+00:00"
       }
     },
     {
