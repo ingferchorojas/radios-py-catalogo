@@ -1,0 +1,76 @@
+{
+  "baseCommit": "4249c5cbd49efddc3b4ca3aa9f3a9c304de8a832",
+  "createdAt": "2026-11-19T10:17:04.383942+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-universocde",
+      "name": "Universo",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/universocde",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/transuniverso/transuniverso/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/universocde"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-19",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-losangeles",
+      "name": "Los Angeles",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/losangeles",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/losangeles"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-19",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-piribebuy",
+      "name": "Piribebuy",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-19T10:17:03.527911+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-unasur",
+      "name": "Unasur",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-19T10:17:03.527911+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-concierto",
+      "name": "Concierto",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-19T10:17:03.527911+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}

@@ -1826,14 +1826,14 @@
           "url": "https://www.desdeparaguay.com/universocde",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/transuniverso/transuniverso/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/transuniverso/transuniverso/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/universocde"
         },
         {
           "url": "https://www.desdeparaguay.com/universocde",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/transuniverso/transuniverso/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/transuniverso/transuniverso/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/universocde"
         }
       ],
@@ -2449,14 +2449,14 @@
           "url": "https://www.desdeparaguay.com/losangeles",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/losangeles"
         },
         {
           "url": "https://www.desdeparaguay.com/losangeles",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movlosangeles/movlosangeles.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/losangeles"
         }
       ],
@@ -2636,9 +2636,8 @@
       "source": "https://www.desdeparaguay.com/piribebuy",
       "verifiedAt": "2026-11-06",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-19T04:20:02.135001+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-19T10:17:03.527911+00:00"
       }
     },
     {
@@ -2813,9 +2812,8 @@
       "source": "https://www.desdeparaguay.com/unasur",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-19T02:47:43.206527+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-19T10:17:03.527911+00:00"
       }
     },
     {
@@ -3705,9 +3703,8 @@
       ],
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-17T23:46:00.681797+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-19T10:17:03.527911+00:00"
       }
     }
   ]
