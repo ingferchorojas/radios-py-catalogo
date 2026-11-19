@@ -2214,8 +2214,9 @@
       "source": "https://www.desdeparaguay.com/agr",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-18T08:44:12.134937+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-19T03:18:19.688824+00:00"
       }
     },
     {
