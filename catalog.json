@@ -1873,9 +1873,8 @@
       "source": "https://www.desdeparaguay.com/660",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "silence",
-        "checkedAt": "2026-11-19T03:48:28.864155+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-19T08:17:47.319004+00:00"
       }
     },
     {
@@ -2082,9 +2081,8 @@
       "source": "https://www.desdeparaguay.com/capital",
       "verifiedAt": "2026-11-18",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-19T02:47:43.206527+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-19T08:17:47.319004+00:00"
       }
     },
     {
@@ -3270,8 +3268,9 @@
       "source": "https://www.desdeparaguay.com/lareddelsol",
       "verifiedAt": "2026-11-06",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-06T17:45:46.121973+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-19T08:17:47.319004+00:00"
       }
     },
     {
@@ -3376,9 +3375,8 @@
       "source": "https://www.desdeparaguay.com/700",
       "verifiedAt": "2026-11-18",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-18T22:45:01.500004+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-19T08:17:47.319004+00:00"
       }
     },
     {
@@ -3412,9 +3410,8 @@
       "source": "https://www.desdeparaguay.com/portaldelchaco",
       "verifiedAt": "2026-11-04",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-19T00:17:17.109188+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-19T08:17:47.319004+00:00"
       }
     },
     {
@@ -3484,9 +3481,8 @@
       "source": "https://www.desdeparaguay.com/centro",
       "verifiedAt": "2026-11-18",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-18T17:43:13.576350+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-19T08:17:47.319004+00:00"
       }
     },
     {
