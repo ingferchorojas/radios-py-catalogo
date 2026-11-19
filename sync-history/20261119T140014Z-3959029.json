@@ -1,0 +1,29 @@
+{
+  "baseCommit": "8a2c83d9b12a48a0f4eff834301637e880d9bb5e",
+  "createdAt": "2026-11-19T14:13:17.595269+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "universo",
+      "name": "Universo 970",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-19T14:13:16.750758+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-concepcion",
+      "name": "Concepción",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-19T14:13:16.750758+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
