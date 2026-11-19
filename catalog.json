@@ -2595,8 +2595,9 @@
       "source": "https://www.desdeparaguay.com/1069",
       "verifiedAt": "2026-11-19",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-19T08:48:18.960787+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-19T17:42:30.771419+00:00"
       }
     },
     {
@@ -3435,9 +3436,8 @@
       "source": "https://www.desdeparaguay.com/4dmasnoticias",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "silence",
-        "checkedAt": "2026-11-19T17:12:08.944511+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-19T17:42:30.771419+00:00"
       }
     },
     {
