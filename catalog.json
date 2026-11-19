@@ -1210,9 +1210,8 @@
       "source": "https://www.desdeparaguay.com/hit",
       "verifiedAt": "2026-11-17",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-19T02:47:43.206527+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-19T13:14:09.900627+00:00"
       }
     },
     {
@@ -3665,9 +3664,8 @@
       ],
       "verifiedAt": "2026-11-08",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-17T23:46:00.681797+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-19T13:14:09.900627+00:00"
       }
     },
     {

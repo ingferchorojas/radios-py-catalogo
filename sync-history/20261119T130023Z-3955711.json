@@ -1,0 +1,29 @@
+{
+  "baseCommit": "6e8fed1f4cdd875c7539017e59773152baf05539",
+  "createdAt": "2026-11-19T13:14:10.741107+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-hit",
+      "name": "Hit",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-19T13:14:09.900627+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-mdq",
+      "name": "MDQ",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-19T13:14:09.900627+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
