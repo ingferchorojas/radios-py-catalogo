@@ -1632,8 +1632,9 @@
       "source": "https://www.desdeparaguay.com/atyra",
       "verifiedAt": "2026-11-08",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-08T08:14:37.883845+00:00"
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-11-20T07:16:04.437026+00:00"
       }
     },
     {
@@ -1823,19 +1824,19 @@
           "url": "https://www.desdeparaguay.com/universocde",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/transuniverso/transuniverso/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/transuniverso/transuniverso/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/universocde"
         },
         {
           "url": "https://www.desdeparaguay.com/universocde",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/transuniverso/transuniverso/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/transuniverso/transuniverso/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/universocde"
         }
       ],
       "source": "https://www.desdeparaguay.com/universocde",
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-03T08:15:27.537203+00:00"
@@ -1872,9 +1873,8 @@
       "source": "https://www.desdeparaguay.com/660",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "silence",
-        "checkedAt": "2026-11-20T03:15:23.225324+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-20T07:16:04.437026+00:00"
       }
     },
     {
@@ -2084,9 +2084,8 @@
       "source": "https://www.desdeparaguay.com/capital",
       "verifiedAt": "2026-11-18",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-20T04:16:45.745562+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-20T07:16:04.437026+00:00"
       }
     },
     {
