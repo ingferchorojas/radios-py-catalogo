@@ -1065,9 +1065,8 @@
       "source": "https://www.desdeparaguay.com/exclusiva",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-20T08:42:49.862704+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-20T09:12:56.497892+00:00"
       }
     },
     {
@@ -1632,9 +1631,8 @@
       "source": "https://www.desdeparaguay.com/atyra",
       "verifiedAt": "2026-11-08",
       "availability": {
-        "status": "unavailable",
-        "reason": "silence",
-        "checkedAt": "2026-11-20T07:16:04.437026+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-20T09:12:56.497892+00:00"
       }
     },
     {

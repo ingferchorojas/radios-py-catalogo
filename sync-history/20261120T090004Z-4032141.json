@@ -1,0 +1,29 @@
+{
+  "baseCommit": "59069207f60c440901ba4e3fbd58a10af58ca9a8",
+  "createdAt": "2026-11-20T09:12:57.374724+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-exclusiva",
+      "name": "Exclusiva",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-20T09:12:56.497892+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-atyra",
+      "name": "Atyra",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-20T09:12:56.497892+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
