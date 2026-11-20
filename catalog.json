@@ -1907,8 +1907,9 @@
       "source": "https://www.desdeparaguay.com/aquidaban",
       "verifiedAt": "2026-11-18",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-19T14:42:50.203269+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T04:16:45.745562+00:00"
       }
     },
     {
@@ -2082,8 +2083,9 @@
       "source": "https://www.desdeparaguay.com/capital",
       "verifiedAt": "2026-11-18",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-19T08:17:47.319004+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T04:16:45.745562+00:00"
       }
     },
     {
@@ -2306,19 +2308,19 @@
           "url": "https://www.desdeparaguay.com/santahelena",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movsantahelena/movsantahelena.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movsantahelena/movsantahelena.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/santahelena"
         },
         {
           "url": "https://www.desdeparaguay.com/santahelena",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movsantahelena/movsantahelena.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movsantahelena/movsantahelena.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/santahelena"
         }
       ],
       "source": "https://www.desdeparaguay.com/santahelena",
-      "verifiedAt": "2026-10-30",
+      "verifiedAt": "2026-11-20",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-18T11:44:31.372803+00:00"
@@ -2666,8 +2668,9 @@
       "source": "https://www.desdeparaguay.com/arandu",
       "verifiedAt": "2026-11-06",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-17T23:46:00.681797+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T04:16:45.745562+00:00"
       }
     },
     {
@@ -3283,19 +3286,19 @@
           "url": "https://www.desdeparaguay.com/ypane",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movypane/movypane.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movypane/movypane.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/ypane"
         },
         {
           "url": "https://www.desdeparaguay.com/ypane",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movypane/movypane.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movypane/movypane.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/ypane"
         }
       ],
       "source": "https://www.desdeparaguay.com/ypane",
-      "verifiedAt": "2026-11-05",
+      "verifiedAt": "2026-11-20",
       "availability": {
         "status": "available",
         "checkedAt": "2026-10-30T12:14:30.029192+00:00"
