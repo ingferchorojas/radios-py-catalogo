@@ -1,0 +1,36 @@
+{
+  "baseCommit": "dc315c48e2b6e60c3018d04d2675cc4f904435c3",
+  "createdAt": "2026-11-20T13:42:13.612042+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-concierto",
+      "name": "Concierto",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/concierto",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movconcierto/movconcierto.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/concierto"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-20",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "corazon",
+      "name": "Radio Corazón",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-20T13:42:12.550934+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
