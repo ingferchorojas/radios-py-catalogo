@@ -1,0 +1,138 @@
+{
+  "baseCommit": "4da5d9caa2cbab68a23c7b55c3046d77cb231dfc",
+  "createdAt": "2026-11-20T23:44:55.775133+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "nacional-fm",
+      "name": "Radio Nacional del Paraguay FM",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T23:44:54.802560+00:00"
+      },
+      "consecutiveFailures": 6,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "nacional-san-pedro",
+      "name": "Radio Nacional San Pedro",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T23:44:54.802560+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-atyra",
+      "name": "Atyra",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T23:44:54.802560+00:00"
+      },
+      "consecutiveFailures": 4,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-agr",
+      "name": "AGR",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T23:44:54.802560+00:00"
+      },
+      "consecutiveFailures": 4,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-evolucion",
+      "name": "Evolución",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T23:44:54.802560+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-saltosdelguaira",
+      "name": "Multi",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T23:44:54.802560+00:00"
+      },
+      "consecutiveFailures": 4,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-ciudad",
+      "name": "Ciudad",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T23:44:54.802560+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-tvillarrica",
+      "name": "T",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-20T23:44:54.802560+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 3
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1059",
+      "name": "Nacional San Pedro",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T23:44:54.802560+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-ycuamandyyu",
+      "name": "Ycuamandyyú",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T23:44:54.802560+00:00"
+      },
+      "consecutiveFailures": 6,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-mdq",
+      "name": "MDQ",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T23:44:54.802560+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
