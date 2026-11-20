@@ -1870,8 +1870,9 @@
       "source": "https://www.desdeparaguay.com/660",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-19T08:17:47.319004+00:00"
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-11-20T03:15:23.225324+00:00"
       }
     },
     {

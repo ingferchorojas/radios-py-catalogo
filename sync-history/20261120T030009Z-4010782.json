@@ -1,0 +1,19 @@
+{
+  "baseCommit": "17e1def4101cbc9ea637a11a6415c765a9d92486",
+  "createdAt": "2026-11-20T03:15:24.205264+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-660",
+      "name": "Regional",
+      "availability": {
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-11-20T03:15:23.225324+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
