@@ -206,9 +206,8 @@
       "source": "https://www.lanacion.com.py/medios/",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-20T13:12:18.192428+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-20T14:41:26.856692+00:00"
       }
     },
     {
@@ -234,9 +233,8 @@
       "source": "https://www.lanacion.com.py/medios/",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-20T12:42:17.896421+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-20T14:41:26.856692+00:00"
       }
     },
     {
@@ -1905,9 +1903,8 @@
       "source": "https://www.desdeparaguay.com/aquidaban",
       "verifiedAt": "2026-11-18",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-20T04:16:45.745562+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-20T14:41:26.856692+00:00"
       }
     },
     {
@@ -3677,14 +3674,14 @@
           "url": "https://www.desdeparaguay.com/concierto",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movconcierto/movconcierto.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movconcierto/movconcierto.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/concierto"
         },
         {
           "url": "https://www.desdeparaguay.com/concierto",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movconcierto/movconcierto.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movconcierto/movconcierto.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/concierto"
         }
       ],
