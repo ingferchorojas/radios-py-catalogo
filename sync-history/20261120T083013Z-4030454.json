@@ -1,0 +1,63 @@
+{
+  "baseCommit": "7532adcbaf32a39459e40dbc0b89cb07b4f2a0ba",
+  "createdAt": "2026-11-20T08:42:50.710015+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "nacional-san-pedro",
+      "name": "Radio Nacional San Pedro",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-20T08:42:49.862704+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-exclusiva",
+      "name": "Exclusiva",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T08:42:49.862704+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-arandu",
+      "name": "Arandú",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-20T08:42:49.862704+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1059",
+      "name": "Nacional San Pedro",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-20T08:42:49.862704+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1200",
+      "name": "Libre",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-20T08:42:49.862704+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
