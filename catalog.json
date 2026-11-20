@@ -2943,8 +2943,9 @@
       "source": "https://www.desdeparaguay.com/itapora",
       "verifiedAt": "2026-11-18",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-18T08:15:49.063859+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T02:13:52.423980+00:00"
       }
     },
     {
@@ -3327,8 +3328,9 @@
       "source": "https://www.desdeparaguay.com/1420",
       "verifiedAt": "2026-11-09",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-19T09:17:17.315611+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T02:13:52.423980+00:00"
       }
     },
     {
@@ -3362,8 +3364,9 @@
       "source": "https://www.desdeparaguay.com/700",
       "verifiedAt": "2026-11-18",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-19T08:17:47.319004+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T02:13:52.423980+00:00"
       }
     },
     {
