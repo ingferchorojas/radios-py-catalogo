@@ -1,0 +1,47 @@
+{
+  "baseCommit": "e1f45c6f70172c6f745efcd5ac38bf5729317327",
+  "createdAt": "2026-11-20T07:45:08.318666+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-700",
+      "name": "Carlos A. López",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/700",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/trans700/trans700/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/700"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-20",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-700",
+      "name": "Carlos A. López",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-20T07:45:07.474813+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-centro",
+      "name": "Centro",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-20T07:45:07.474813+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
