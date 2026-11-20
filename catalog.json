@@ -3675,18 +3675,18 @@
           "url": "https://www.desdeparaguay.com/concierto",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movconcierto/movconcierto.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movconcierto/movconcierto.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/concierto"
         },
         {
           "url": "https://www.desdeparaguay.com/concierto",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movconcierto/movconcierto.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movconcierto/movconcierto.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/concierto"
         }
       ],
-      "verifiedAt": "2026-11-05",
+      "verifiedAt": "2026-11-20",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-19T10:17:03.527911+00:00"
