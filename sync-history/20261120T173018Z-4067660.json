@@ -1,0 +1,31 @@
+{
+  "baseCommit": "88fa3a283f8f3cd3bd44e70fe6d8ae917cb19d0f",
+  "createdAt": "2026-11-20T17:42:13.695464+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-itapora",
+      "name": "Ita Pora",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T17:42:12.704422+00:00"
+      },
+      "consecutiveFailures": 4,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-tvillarrica",
+      "name": "T",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T17:42:12.704422+00:00"
+      },
+      "consecutiveFailures": 5,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}

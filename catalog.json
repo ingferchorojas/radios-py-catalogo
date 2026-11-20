@@ -2942,8 +2942,9 @@
       "source": "https://www.desdeparaguay.com/itapora",
       "verifiedAt": "2026-11-18",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-20T10:41:52.601469+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T17:42:12.704422+00:00"
       }
     },
     {
@@ -3012,8 +3013,9 @@
       "source": "https://www.desdeparaguay.com/tvillarrica",
       "verifiedAt": "2026-11-06",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-02T10:16:42.217399+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T17:42:12.704422+00:00"
       }
     },
     {
