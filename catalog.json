@@ -1735,9 +1735,8 @@
       "source": "https://www.desdeparaguay.com/caraguatay",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-20T04:46:10.311096+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-20T08:13:44.652949+00:00"
       }
     },
     {
@@ -1757,23 +1756,22 @@
           "url": "https://www.desdeparaguay.com/altopy",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movaltopy/movaltopy.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movaltopy/movaltopy.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/altopy"
         },
         {
           "url": "https://www.desdeparaguay.com/altopy",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movaltopy/movaltopy.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movaltopy/movaltopy.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/altopy"
         }
       ],
       "source": "https://www.desdeparaguay.com/altopy",
-      "verifiedAt": "2026-11-19",
+      "verifiedAt": "2026-11-20",
       "availability": {
-        "status": "unavailable",
-        "reason": "silence",
-        "checkedAt": "2026-11-20T02:44:21.410139+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-20T08:13:44.652949+00:00"
       }
     },
     {
@@ -2633,9 +2631,8 @@
       "source": "https://www.desdeparaguay.com/piribebuy",
       "verifiedAt": "2026-11-06",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-20T04:46:10.311096+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-20T08:13:44.652949+00:00"
       }
     },
     {
@@ -3408,9 +3405,8 @@
       "source": "https://www.desdeparaguay.com/portaldelchaco",
       "verifiedAt": "2026-11-19",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-20T01:43:42.709926+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-20T08:13:44.652949+00:00"
       }
     },
     {
@@ -3603,9 +3599,8 @@
       ],
       "verifiedAt": "2026-11-18",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-20T01:43:42.709926+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-20T08:13:44.652949+00:00"
       }
     },
     {
