@@ -1,0 +1,147 @@
+{
+  "baseCommit": "b70610bc84793df693045b245afe86f61247a048",
+  "createdAt": "2026-11-20T01:43:43.666418+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "nacional-san-pedro",
+      "name": "Radio Nacional San Pedro",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T01:43:42.709926+00:00"
+      },
+      "consecutiveFailures": 6,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-cfa",
+      "name": "CFA",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-20T01:43:42.709926+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 10
+    },
+    {
+      "action": "availability",
+      "id": "dsd-lacosta",
+      "name": "La Costa",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-20T01:43:42.709926+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 9
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1069",
+      "name": "Pilar Pilar",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-20T01:43:42.709926+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 13
+    },
+    {
+      "action": "availability",
+      "id": "dsd-pueblo",
+      "name": "Pueblo",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-20T01:43:42.709926+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 8
+    },
+    {
+      "action": "availability",
+      "id": "dsd-portaldelchaco",
+      "name": "Portal del Chaco",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T01:43:42.709926+00:00"
+      },
+      "consecutiveFailures": 6,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-4dmasnoticias",
+      "name": "4Dmás Noticias",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T01:43:42.709926+00:00"
+      },
+      "consecutiveFailures": 6,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-centro",
+      "name": "Centro",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T01:43:42.709926+00:00"
+      },
+      "consecutiveFailures": 5,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1059",
+      "name": "Nacional San Pedro",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T01:43:42.709926+00:00"
+      },
+      "consecutiveFailures": 6,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-ycuamandyyu",
+      "name": "Ycuamandyyú",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T01:43:42.709926+00:00"
+      },
+      "consecutiveFailures": 7,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1200",
+      "name": "Libre",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T01:43:42.709926+00:00"
+      },
+      "consecutiveFailures": 5,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-mdq",
+      "name": "MDQ",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T01:43:42.709926+00:00"
+      },
+      "consecutiveFailures": 6,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}

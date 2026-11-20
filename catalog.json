@@ -180,8 +180,9 @@
       "source": "https://mediosdelestado.gov.py/radios/",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-19T12:44:41.084035+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T01:43:42.709926+00:00"
       }
     },
     {
@@ -895,9 +896,8 @@
       "source": "https://www.desdeparaguay.com/cfa",
       "verifiedAt": "2026-10-07",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-17T23:46:00.681797+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-20T01:43:42.709926+00:00"
       }
     },
     {
@@ -1974,9 +1974,8 @@
       "source": "https://www.desdeparaguay.com/lacosta",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-10-30T04:03:22.177837+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-20T01:43:42.709926+00:00"
       }
     },
     {
@@ -2594,9 +2593,8 @@
       "source": "https://www.desdeparaguay.com/1069",
       "verifiedAt": "2026-11-19",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-19T17:42:30.771419+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-20T01:43:42.709926+00:00"
       }
     },
     {
@@ -2840,9 +2838,8 @@
       "source": "https://www.desdeparaguay.com/pueblo",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-17T23:46:00.681797+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-20T01:43:42.709926+00:00"
       }
     },
     {
@@ -3400,8 +3397,9 @@
       "source": "https://www.desdeparaguay.com/portaldelchaco",
       "verifiedAt": "2026-11-19",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-19T08:17:47.319004+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T01:43:42.709926+00:00"
       }
     },
     {
@@ -3435,8 +3433,9 @@
       "source": "https://www.desdeparaguay.com/4dmasnoticias",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-19T17:42:30.771419+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T01:43:42.709926+00:00"
       }
     },
     {
@@ -3470,8 +3469,9 @@
       "source": "https://www.desdeparaguay.com/centro",
       "verifiedAt": "2026-11-18",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-19T12:44:41.084035+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T01:43:42.709926+00:00"
       }
     },
     {
@@ -3505,8 +3505,9 @@
       ],
       "verifiedAt": "2026-11-18",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-19T12:44:41.084035+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T01:43:42.709926+00:00"
       }
     },
     {
@@ -3592,8 +3593,9 @@
       ],
       "verifiedAt": "2026-11-18",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-19T18:42:04.040173+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T01:43:42.709926+00:00"
       }
     },
     {
@@ -3620,8 +3622,9 @@
       ],
       "verifiedAt": "2026-10-30",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-19T08:48:18.960787+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T01:43:42.709926+00:00"
       }
     },
     {
@@ -3655,8 +3658,9 @@
       ],
       "verifiedAt": "2026-11-08",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-19T13:14:09.900627+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T01:43:42.709926+00:00"
       }
     },
     {
