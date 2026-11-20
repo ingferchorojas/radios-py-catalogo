@@ -1734,8 +1734,9 @@
       "source": "https://www.desdeparaguay.com/caraguatay",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-19T11:16:33.515083+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T04:46:10.311096+00:00"
       }
     },
     {
@@ -2633,8 +2634,9 @@
       "source": "https://www.desdeparaguay.com/piribebuy",
       "verifiedAt": "2026-11-06",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-19T10:17:03.527911+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-20T04:46:10.311096+00:00"
       }
     },
     {
