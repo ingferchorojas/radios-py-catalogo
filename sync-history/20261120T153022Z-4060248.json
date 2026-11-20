@@ -1,0 +1,25 @@
+{
+  "baseCommit": "e99b86184f6a360c587499ceb6fe9076e94982e1",
+  "createdAt": "2026-11-20T15:42:00.748401+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-concierto",
+      "name": "Concierto",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/concierto",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movconcierto/movconcierto.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/concierto"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-20",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    }
+  ]
+}
