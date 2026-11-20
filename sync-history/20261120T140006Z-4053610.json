@@ -1,0 +1,36 @@
+{
+  "baseCommit": "0e4c16e5fabe9cc7e0dcee23c98ecba1226adee3",
+  "createdAt": "2026-11-20T14:12:13.341101+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-concierto",
+      "name": "Concierto",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/concierto",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movconcierto/movconcierto.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/concierto"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-20",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "popular",
+      "name": "Radio Popular",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-20T14:12:12.501789+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
