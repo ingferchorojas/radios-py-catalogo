@@ -1,0 +1,18 @@
+{
+  "baseCommit": "f8c366d95cfbc7ef1a41f38959fcc02f7041474c",
+  "createdAt": "2026-11-20T18:12:10.068601+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-itapora",
+      "name": "Ita Pora",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-20T18:12:09.099509+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
