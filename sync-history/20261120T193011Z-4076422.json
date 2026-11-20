@@ -1,0 +1,18 @@
+{
+  "baseCommit": "fc43b1462e595ba0b4ee1fdd9f656f7a72001129",
+  "createdAt": "2026-11-20T19:41:58.267011+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-multiradio",
+      "name": "Multi",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-20T19:41:57.209178+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
