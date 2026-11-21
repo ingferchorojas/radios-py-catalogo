@@ -1,0 +1,36 @@
+{
+  "baseCommit": "8b232f3eaf6b6e7b11871f1ba03a8a09f157ebad",
+  "createdAt": "2026-11-21T13:15:12.044993+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-saltosdelguaira",
+      "name": "Multi",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/saltosdelguaira",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movsaltosdelguaira/movsaltosdelguaira.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/saltosdelguaira"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-21",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-saltosdelguaira",
+      "name": "Multi",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-21T13:15:11.104157+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}

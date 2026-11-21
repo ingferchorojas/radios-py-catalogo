@@ -2692,23 +2692,22 @@
           "url": "https://www.desdeparaguay.com/saltosdelguaira",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movsaltosdelguaira/movsaltosdelguaira.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movsaltosdelguaira/movsaltosdelguaira.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/saltosdelguaira"
         },
         {
           "url": "https://www.desdeparaguay.com/saltosdelguaira",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movsaltosdelguaira/movsaltosdelguaira.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movsaltosdelguaira/movsaltosdelguaira.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/saltosdelguaira"
         }
       ],
       "source": "https://www.desdeparaguay.com/saltosdelguaira",
-      "verifiedAt": "2026-11-02",
+      "verifiedAt": "2026-11-21",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-20T23:44:54.802560+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-21T13:15:11.104157+00:00"
       }
     },
     {
