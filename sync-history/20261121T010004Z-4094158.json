@@ -1,0 +1,19 @@
+{
+  "baseCommit": "e8c839fac19603489e95cfa8c74709a7c3e6a273",
+  "createdAt": "2026-11-21T01:15:19.578154+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-centenario",
+      "name": "Centenario",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-21T01:15:18.696886+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
