@@ -2847,8 +2847,9 @@
       "source": "https://www.desdeparaguay.com/pueblo",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-21T20:13:59.235935+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-21T22:14:14.307510+00:00"
       }
     },
     {
