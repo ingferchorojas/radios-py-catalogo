@@ -2037,14 +2037,14 @@
           "url": "https://www.desdeparaguay.com/kaaguazu",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/kaaguazu"
         },
         {
           "url": "https://www.desdeparaguay.com/kaaguazu",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/kaaguazu"
         }
       ],
@@ -2254,8 +2254,9 @@
       "source": "https://www.desdeparaguay.com/curuguaty",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-10-30T11:44:46.932474+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-21T01:47:14.678814+00:00"
       }
     },
     {
@@ -2798,14 +2799,14 @@
           "url": "https://www.desdeparaguay.com/unasur",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movunasur/movunasur.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movunasur/movunasur.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/unasur"
         },
         {
           "url": "https://www.desdeparaguay.com/unasur",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movunasur/movunasur.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movunasur/movunasur.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/unasur"
         }
       ],

@@ -1,0 +1,55 @@
+{
+  "baseCommit": "5497fa0341fbf468b3d7033b7524fb05868f55b7",
+  "createdAt": "2026-11-21T01:47:15.617377+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-kaaguazu",
+      "name": "Kaaguazú",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/kaaguazu",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/kaaguazu"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-20",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-unasur",
+      "name": "Unasur",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/unasur",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movunasur/movunasur.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/unasur"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-20",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-curuguaty",
+      "name": "Curuguaty",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-21T01:47:14.678814+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
