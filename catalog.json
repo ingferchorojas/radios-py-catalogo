@@ -2254,9 +2254,8 @@
       "source": "https://www.desdeparaguay.com/curuguaty",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-21T01:47:14.678814+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-21T13:43:58.976563+00:00"
       }
     },
     {
@@ -3218,19 +3217,19 @@
           "url": "https://www.desdeparaguay.com/elangel",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movelangel/movelangel.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movelangel/movelangel.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/elangel"
         },
         {
           "url": "https://www.desdeparaguay.com/elangel",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movelangel/movelangel.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movelangel/movelangel.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/elangel"
         }
       ],
       "source": "https://www.desdeparaguay.com/elangel",
-      "verifiedAt": "2026-11-07",
+      "verifiedAt": "2026-11-21",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-04T16:44:19.642462+00:00"
