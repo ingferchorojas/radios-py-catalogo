@@ -1,0 +1,19 @@
+{
+  "baseCommit": "0022d1a10d0d863d9f59c7253a91b53dedd77e50",
+  "createdAt": "2026-11-21T00:15:07.595446+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-portaldelchaco",
+      "name": "Portal del Chaco",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-21T00:15:06.757540+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
