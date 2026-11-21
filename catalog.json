@@ -762,8 +762,9 @@
       "source": "https://www.desdeparaguay.com/aranduka",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-21T20:13:59.235935+00:00"
       }
     },
     {
@@ -1945,9 +1946,8 @@
       "source": "https://www.desdeparaguay.com/concepcion",
       "verifiedAt": "2026-11-19",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-21T02:47:26.588671+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-21T20:13:59.235935+00:00"
       }
     },
     {
@@ -2254,8 +2254,9 @@
       "source": "https://www.desdeparaguay.com/curuguaty",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-21T13:43:58.976563+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-21T20:13:59.235935+00:00"
       }
     },
     {
@@ -2705,8 +2706,9 @@
       "source": "https://www.desdeparaguay.com/saltosdelguaira",
       "verifiedAt": "2026-11-21",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-21T13:15:11.104157+00:00"
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-11-21T20:13:59.235935+00:00"
       }
     },
     {
@@ -2845,9 +2847,8 @@
       "source": "https://www.desdeparaguay.com/pueblo",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-20T03:45:51.423952+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-21T20:13:59.235935+00:00"
       }
     },
     {
@@ -2951,9 +2952,8 @@
       "source": "https://www.desdeparaguay.com/itapora",
       "verifiedAt": "2026-11-18",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-21T03:48:55.098325+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-21T20:13:59.235935+00:00"
       }
     },
     {
@@ -3336,9 +3336,8 @@
       "source": "https://www.desdeparaguay.com/1420",
       "verifiedAt": "2026-11-09",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-21T02:47:26.588671+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-21T20:13:59.235935+00:00"
       }
     },
     {
@@ -3479,8 +3478,9 @@
       "source": "https://www.desdeparaguay.com/centro",
       "verifiedAt": "2026-11-21",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-21T07:48:35.502989+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-21T20:13:59.235935+00:00"
       }
     },
     {

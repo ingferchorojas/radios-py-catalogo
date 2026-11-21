@@ -1,0 +1,99 @@
+{
+  "baseCommit": "5823bc27cca31043ecf7432d40ee5f9ea2b373bf",
+  "createdAt": "2026-11-21T20:14:00.176981+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-aranduka",
+      "name": "Aranduka",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-21T20:13:59.235935+00:00"
+      },
+      "consecutiveFailures": 13,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-concepcion",
+      "name": "Concepción",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-21T20:13:59.235935+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 13
+    },
+    {
+      "action": "availability",
+      "id": "dsd-curuguaty",
+      "name": "Curuguaty",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-21T20:13:59.235935+00:00"
+      },
+      "consecutiveFailures": 11,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-saltosdelguaira",
+      "name": "Multi",
+      "availability": {
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-11-21T20:13:59.235935+00:00"
+      },
+      "consecutiveFailures": 7,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-pueblo",
+      "name": "Pueblo",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-21T20:13:59.235935+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 8
+    },
+    {
+      "action": "availability",
+      "id": "dsd-itapora",
+      "name": "Ita Pora",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-21T20:13:59.235935+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 8
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1420",
+      "name": "Guyrá Campana",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-21T20:13:59.235935+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 13
+    },
+    {
+      "action": "availability",
+      "id": "dsd-centro",
+      "name": "Centro",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-21T20:13:59.235935+00:00"
+      },
+      "consecutiveFailures": 7,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
