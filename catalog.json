@@ -1947,8 +1947,9 @@
       "source": "https://www.desdeparaguay.com/concepcion",
       "verifiedAt": "2026-11-19",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-19T14:13:16.750758+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-21T02:47:26.588671+00:00"
       }
     },
     {
@@ -3269,8 +3270,9 @@
       "source": "https://www.desdeparaguay.com/lareddelsol",
       "verifiedAt": "2026-11-06",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-19T12:44:41.084035+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-21T02:47:26.588671+00:00"
       }
     },
     {
@@ -3339,8 +3341,9 @@
       "source": "https://www.desdeparaguay.com/1420",
       "verifiedAt": "2026-11-09",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-20T09:42:15.832355+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-21T02:47:26.588671+00:00"
       }
     },
     {
