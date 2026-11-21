@@ -1,0 +1,150 @@
+{
+  "baseCommit": "aac9a41791701b6bb3aa28e65fdec74de2d7c2b2",
+  "createdAt": "2026-11-21T12:44:56.421500+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "nacional-fm",
+      "name": "Radio Nacional del Paraguay FM",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-21T12:44:55.439889+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 3
+    },
+    {
+      "action": "availability",
+      "id": "nacional-san-pedro",
+      "name": "Radio Nacional San Pedro",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-21T12:44:55.439889+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 5
+    },
+    {
+      "action": "availability",
+      "id": "dsd-serrania",
+      "name": "Serranía",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-21T12:44:55.439889+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 4
+    },
+    {
+      "action": "availability",
+      "id": "dsd-centenario",
+      "name": "Centenario",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-21T12:44:55.439889+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 7
+    },
+    {
+      "action": "availability",
+      "id": "dsd-caraguatay",
+      "name": "Caraguatay",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-21T12:44:55.439889+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 10
+    },
+    {
+      "action": "availability",
+      "id": "dsd-660",
+      "name": "Regional",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-21T12:44:55.439889+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 7
+    },
+    {
+      "action": "availability",
+      "id": "dsd-agr",
+      "name": "AGR",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-21T12:44:55.439889+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 5
+    },
+    {
+      "action": "availability",
+      "id": "dsd-piribebuy",
+      "name": "Piribebuy",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-21T12:44:55.439889+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 10
+    },
+    {
+      "action": "availability",
+      "id": "dsd-lareddelsol",
+      "name": "La Red del Sol",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-21T12:44:55.439889+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-700",
+      "name": "Carlos A. López",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-21T12:44:55.439889+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 9
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1059",
+      "name": "Nacional San Pedro",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-21T12:44:55.439889+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 5
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1200",
+      "name": "Libre",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-21T12:44:55.439889+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 8
+    },
+    {
+      "action": "availability",
+      "id": "dsd-mdq",
+      "name": "MDQ",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-21T12:44:55.439889+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 9
+    }
+  ]
+}
