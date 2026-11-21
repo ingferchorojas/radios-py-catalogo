@@ -1775,8 +1775,9 @@
       "source": "https://www.desdeparaguay.com/altopy",
       "verifiedAt": "2026-11-20",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-20T08:13:44.652949+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-21T02:17:44.837011+00:00"
       }
     },
     {
@@ -2037,14 +2038,14 @@
           "url": "https://www.desdeparaguay.com/kaaguazu",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/kaaguazu"
         },
         {
           "url": "https://www.desdeparaguay.com/kaaguazu",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/kaaguazu"
         }
       ],
@@ -3373,8 +3374,9 @@
       "source": "https://www.desdeparaguay.com/700",
       "verifiedAt": "2026-11-20",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-20T07:45:07.474813+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-21T02:17:44.837011+00:00"
       }
     },
     {

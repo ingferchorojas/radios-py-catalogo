@@ -1,0 +1,49 @@
+{
+  "baseCommit": "d8ab889adc18774e99c83f18b1181e21b3df5d07",
+  "createdAt": "2026-11-21T02:17:45.713306+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-kaaguazu",
+      "name": "Kaaguazú",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/kaaguazu",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/kaaguazu"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-20",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-altopy",
+      "name": "Alto Paraguay",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-21T02:17:44.837011+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-700",
+      "name": "Carlos A. López",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-21T02:17:44.837011+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
