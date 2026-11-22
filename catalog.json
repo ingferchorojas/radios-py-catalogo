@@ -1739,8 +1739,9 @@
       "source": "https://www.desdeparaguay.com/caraguatay",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-21T12:44:55.439889+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-22T03:15:06.339146+00:00"
       }
     },
     {

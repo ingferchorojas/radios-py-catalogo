@@ -1,0 +1,19 @@
+{
+  "baseCommit": "6683c28ef73992c12982be36bac8ea138e2f8915",
+  "createdAt": "2026-11-22T03:15:07.288965+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-caraguatay",
+      "name": "Caraguatay",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-22T03:15:06.339146+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
