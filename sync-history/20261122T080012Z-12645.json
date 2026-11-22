@@ -1,0 +1,18 @@
+{
+  "baseCommit": "6e201a68b59f9245d8554ba9139ec90d8f4e1795",
+  "createdAt": "2026-11-22T08:15:22.695283+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-piribebuy",
+      "name": "Piribebuy",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-22T08:15:21.729821+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
