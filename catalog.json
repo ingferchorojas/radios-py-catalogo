@@ -2362,8 +2362,9 @@
       "source": "https://www.desdeparaguay.com/evolucion",
       "verifiedAt": "2026-11-07",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-21T07:18:55.650185+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-22T07:45:31.006121+00:00"
       }
     },
     {
@@ -3375,9 +3376,8 @@
       "source": "https://www.desdeparaguay.com/700",
       "verifiedAt": "2026-11-20",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-22T02:14:58.005576+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-22T07:45:31.006121+00:00"
       }
     },
     {
