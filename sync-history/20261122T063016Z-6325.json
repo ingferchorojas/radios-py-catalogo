@@ -1,0 +1,19 @@
+{
+  "baseCommit": "cb6eab57493fe22e319fc7c858dda53587b30e9e",
+  "createdAt": "2026-11-22T06:46:06.884892+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-serrania",
+      "name": "Serranía",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-22T06:46:05.997273+00:00"
+      },
+      "consecutiveFailures": 7,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
