@@ -1,0 +1,40 @@
+{
+  "baseCommit": "e89118b35db94278b7e75b7e9e0bad4b00caf047",
+  "createdAt": "2026-11-23T13:12:27.793349+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "montecarlo",
+      "name": "Radio Montecarlo",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-23T13:12:26.844829+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "corazon",
+      "name": "Radio Corazón",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-23T13:12:26.844829+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-itapora",
+      "name": "Ita Pora",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-23T13:12:26.844829+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
