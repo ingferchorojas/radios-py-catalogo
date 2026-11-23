@@ -1,0 +1,141 @@
+{
+  "baseCommit": "d3713666278e9ca228c1ce8127ccb85b3839de1c",
+  "createdAt": "2026-11-23T01:46:19.514050+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-radiodisney",
+      "name": "Disney",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/radiodisney",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/transradiodisney/transradiodisney/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/radiodisney"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-22",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "radio-encarnacion",
+      "name": "Radio Encarnación",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-23T01:46:18.639823+00:00"
+      },
+      "consecutiveFailures": 15,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-atyra",
+      "name": "Atyra",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-23T01:46:18.639823+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 24
+    },
+    {
+      "action": "availability",
+      "id": "dsd-serrania",
+      "name": "Serranía",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-23T01:46:18.639823+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 10
+    },
+    {
+      "action": "availability",
+      "id": "dsd-caraguatay",
+      "name": "Caraguatay",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-23T01:46:18.639823+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 32
+    },
+    {
+      "action": "availability",
+      "id": "dsd-altopy",
+      "name": "Alto Paraguay",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-23T01:46:18.639823+00:00"
+      },
+      "consecutiveFailures": 14,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-agr",
+      "name": "AGR",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-23T01:46:18.639823+00:00"
+      },
+      "consecutiveFailures": 34,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-curuguaty",
+      "name": "Curuguaty",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-23T01:46:18.639823+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 3
+    },
+    {
+      "action": "availability",
+      "id": "dsd-saltosdelguaira",
+      "name": "Multi",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-23T01:46:18.639823+00:00"
+      },
+      "consecutiveFailures": 31,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-itapora",
+      "name": "Ita Pora",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-23T01:46:18.639823+00:00"
+      },
+      "consecutiveFailures": 12,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1420",
+      "name": "Guyrá Campana",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-23T01:46:18.639823+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
