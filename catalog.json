@@ -2241,19 +2241,19 @@
           "url": "https://www.desdeparaguay.com/curuguaty",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movcuruguaty/movcuruguaty.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movcuruguaty/movcuruguaty.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/curuguaty"
         },
         {
           "url": "https://www.desdeparaguay.com/curuguaty",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movcuruguaty/movcuruguaty.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movcuruguaty/movcuruguaty.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/curuguaty"
         }
       ],
       "source": "https://www.desdeparaguay.com/curuguaty",
-      "verifiedAt": "2026-11-05",
+      "verifiedAt": "2026-11-23",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-23T01:46:18.639823+00:00"

@@ -1,0 +1,25 @@
+{
+  "baseCommit": "274a7f649227fb64f0b8299a3429cb1bcad8d4a8",
+  "createdAt": "2026-11-23T15:43:52.284546+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-curuguaty",
+      "name": "Curuguaty",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/curuguaty",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movcuruguaty/movcuruguaty.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/curuguaty"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-23",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    }
+  ]
+}
