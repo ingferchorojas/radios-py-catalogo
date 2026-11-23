@@ -3587,14 +3587,14 @@
           "url": "https://www.desdeparaguay.com/ycuamandyyu",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movycuamandyyu/movycuamandyyu.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movycuamandyyu/movycuamandyyu.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/ycuamandyyu"
         },
         {
           "url": "https://www.desdeparaguay.com/ycuamandyyu",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movycuamandyyu/movycuamandyyu.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movycuamandyyu/movycuamandyyu.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/ycuamandyyu"
         }
       ],
