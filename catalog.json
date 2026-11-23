@@ -1673,8 +1673,9 @@
       "source": "https://www.desdeparaguay.com/serrania",
       "verifiedAt": "2026-11-19",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-23T01:46:18.639823+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-23T04:46:35.581084+00:00"
       }
     },
     {
@@ -1743,8 +1744,9 @@
       "source": "https://www.desdeparaguay.com/caraguatay",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-23T01:46:18.639823+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-23T04:46:35.581084+00:00"
       }
     },
     {
