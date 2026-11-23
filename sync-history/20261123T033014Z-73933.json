@@ -1,0 +1,48 @@
+{
+  "baseCommit": "4f86bc65baf1e14185bc60cfadab3b2d0113e1d5",
+  "createdAt": "2026-11-23T03:47:37.551718+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-aquidaban",
+      "name": "Aquidabán",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/aquidaban",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movaquidaban/movaquidaban.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/aquidaban"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-23",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-aquidaban",
+      "name": "Aquidabán",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-23T03:47:36.599762+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-capital",
+      "name": "Capital",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-23T03:47:36.599762+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}

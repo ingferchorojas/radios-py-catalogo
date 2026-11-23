@@ -1902,23 +1902,22 @@
           "url": "https://www.desdeparaguay.com/aquidaban",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movaquidaban/movaquidaban.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movaquidaban/movaquidaban.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/aquidaban"
         },
         {
           "url": "https://www.desdeparaguay.com/aquidaban",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movaquidaban/movaquidaban.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movaquidaban/movaquidaban.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/aquidaban"
         }
       ],
       "source": "https://www.desdeparaguay.com/aquidaban",
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-23",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-21T03:18:07.859677+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-23T03:47:36.599762+00:00"
       }
     },
     {
@@ -2092,8 +2091,9 @@
       "source": "https://www.desdeparaguay.com/capital",
       "verifiedAt": "2026-11-18",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-20T07:16:04.437026+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-23T03:47:36.599762+00:00"
       }
     },
     {
