@@ -1,0 +1,36 @@
+{
+  "baseCommit": "8596f32395d5e96d8ab42983a69d4793e45e25fe",
+  "createdAt": "2026-11-23T15:16:05.370242+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-itapora",
+      "name": "Ita Pora",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/itapora",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movitapora/movitapora.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/itapora"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-23",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-medano",
+      "name": "Medano",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-23T15:16:04.528702+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
