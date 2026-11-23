@@ -1,0 +1,237 @@
+{
+  "baseCommit": "e83fc23d137433c3eca5b74cc0362d49680af6cf",
+  "createdAt": "2026-11-23T09:43:58.942919+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-universocde",
+      "name": "Universo",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/universocde",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/transuniverso/transuniverso/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/universocde"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-23",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-agr",
+      "name": "AGR",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/agr",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movagr/movagr.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/agr"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-23",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-saltosdelguaira",
+      "name": "Multi",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/saltosdelguaira",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movsaltosdelguaira/movsaltosdelguaira.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/saltosdelguaira"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-23",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "nacional-san-pedro",
+      "name": "Radio Nacional San Pedro",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-23T09:43:58.054253+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 3
+    },
+    {
+      "action": "availability",
+      "id": "dsd-serrania",
+      "name": "Serranía",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-23T09:43:58.054253+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 4
+    },
+    {
+      "action": "availability",
+      "id": "dsd-caraguatay",
+      "name": "Caraguatay",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-23T09:43:58.054253+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 4
+    },
+    {
+      "action": "availability",
+      "id": "dsd-660",
+      "name": "Regional",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-23T09:43:58.054253+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 6
+    },
+    {
+      "action": "availability",
+      "id": "dsd-kaaguazu",
+      "name": "Kaaguazú",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-23T09:43:58.054253+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 4
+    },
+    {
+      "action": "availability",
+      "id": "dsd-capital",
+      "name": "Capital",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-23T09:43:58.054253+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 6
+    },
+    {
+      "action": "availability",
+      "id": "dsd-agr",
+      "name": "AGR",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-23T09:43:58.054253+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-evolucion",
+      "name": "Evolución",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-23T09:43:58.054253+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 7
+    },
+    {
+      "action": "availability",
+      "id": "dsd-piribebuy",
+      "name": "Piribebuy",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-23T09:43:58.054253+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 4
+    },
+    {
+      "action": "availability",
+      "id": "dsd-saltosdelguaira",
+      "name": "Multi",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-23T09:43:58.054253+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-itapora",
+      "name": "Ita Pora",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-23T09:43:58.054253+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 4
+    },
+    {
+      "action": "availability",
+      "id": "dsd-700",
+      "name": "Carlos A. López",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-23T09:43:58.054253+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 4
+    },
+    {
+      "action": "availability",
+      "id": "dsd-centro",
+      "name": "Centro",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-23T09:43:58.054253+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 6
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1059",
+      "name": "Nacional San Pedro",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-23T09:43:58.054253+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 3
+    },
+    {
+      "action": "availability",
+      "id": "dsd-ycuamandyyu",
+      "name": "Ycuamandyyú",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-23T09:43:58.054253+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 2
+    },
+    {
+      "action": "availability",
+      "id": "dsd-mdq",
+      "name": "MDQ",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-23T09:43:58.054253+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 3
+    }
+  ]
+}
