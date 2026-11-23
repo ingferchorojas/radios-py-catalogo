@@ -206,8 +206,9 @@
       "source": "https://www.lanacion.com.py/medios/",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-20T14:41:26.856692+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-23T12:43:04.370593+00:00"
       }
     },
     {
@@ -259,8 +260,9 @@
       "source": "https://www.lanacion.com.py/medios/",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-20T13:42:12.550934+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-23T12:43:04.370593+00:00"
       }
     },
     {
@@ -767,9 +769,8 @@
       "source": "https://www.desdeparaguay.com/aranduka",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-21T20:13:59.235935+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-23T12:43:04.370593+00:00"
       }
     },
     {
@@ -2708,9 +2709,8 @@
       "source": "https://www.desdeparaguay.com/saltosdelguaira",
       "verifiedAt": "2026-11-23",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-23T12:13:20.514850+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-23T12:43:04.370593+00:00"
       }
     },
     {
@@ -2955,8 +2955,9 @@
       "source": "https://www.desdeparaguay.com/itapora",
       "verifiedAt": "2026-11-18",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-23T09:43:58.054253+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-23T12:43:04.370593+00:00"
       }
     },
     {
