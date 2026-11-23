@@ -2290,8 +2290,9 @@
       "source": "https://www.desdeparaguay.com/parana",
       "verifiedAt": "2026-11-09",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-20T12:42:17.896421+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-23T21:42:04.601222+00:00"
       }
     },
     {
@@ -2846,9 +2847,8 @@
       "source": "https://www.desdeparaguay.com/pueblo",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-21T22:14:14.307510+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-23T21:42:04.601222+00:00"
       }
     },
     {
@@ -3477,8 +3477,9 @@
       "source": "https://www.desdeparaguay.com/centro",
       "verifiedAt": "2026-11-21",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-23T09:43:58.054253+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-23T21:42:04.601222+00:00"
       }
     },
     {

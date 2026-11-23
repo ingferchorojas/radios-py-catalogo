@@ -1,0 +1,42 @@
+{
+  "baseCommit": "dc4694e9efd6c4226c1e976223772a9fb7b631e8",
+  "createdAt": "2026-11-23T21:42:05.551466+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-parana",
+      "name": "Paraná",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-23T21:42:04.601222+00:00"
+      },
+      "consecutiveFailures": 4,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-pueblo",
+      "name": "Pueblo",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-23T21:42:04.601222+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 4
+    },
+    {
+      "action": "availability",
+      "id": "dsd-centro",
+      "name": "Centro",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-23T21:42:04.601222+00:00"
+      },
+      "consecutiveFailures": 10,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
