@@ -3588,18 +3588,18 @@
           "url": "https://www.desdeparaguay.com/ycuamandyyu",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movycuamandyyu/movycuamandyyu.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movycuamandyyu/movycuamandyyu.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/ycuamandyyu"
         },
         {
           "url": "https://www.desdeparaguay.com/ycuamandyyu",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movycuamandyyu/movycuamandyyu.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movycuamandyyu/movycuamandyyu.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/ycuamandyyu"
         }
       ],
-      "verifiedAt": "2026-11-18",
+      "verifiedAt": "2026-11-23",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-23T09:43:58.054253+00:00"
