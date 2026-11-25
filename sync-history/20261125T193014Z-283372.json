@@ -1,0 +1,129 @@
+{
+  "baseCommit": "da4844312a1eb6384ee56077c105149480506877",
+  "createdAt": "2026-11-25T19:42:01.294181+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-1020",
+      "name": "Ñanduti",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-25T19:42:00.430168+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 19
+    },
+    {
+      "action": "availability",
+      "id": "dsd-mix",
+      "name": "Mix",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-25T19:42:00.430168+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 5
+    },
+    {
+      "action": "availability",
+      "id": "dsd-rockandpop",
+      "name": "Rock & Pop",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-25T19:42:00.430168+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 19
+    },
+    {
+      "action": "availability",
+      "id": "dsd-aquidaban",
+      "name": "Aquidabán",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-25T19:42:00.430168+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 7
+    },
+    {
+      "action": "availability",
+      "id": "dsd-saltosdelguaira",
+      "name": "Multi",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-25T19:42:00.430168+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 12
+    },
+    {
+      "action": "availability",
+      "id": "dsd-ciudad",
+      "name": "Ciudad",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-25T19:42:00.430168+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 19
+    },
+    {
+      "action": "availability",
+      "id": "dsd-tapiracuai",
+      "name": "Tapiracuai",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-25T19:42:00.430168+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 11
+    },
+    {
+      "action": "availability",
+      "id": "dsd-itapora",
+      "name": "Ita Pora",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-25T19:42:00.430168+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 18
+    },
+    {
+      "action": "availability",
+      "id": "dsd-portaldelchaco",
+      "name": "Portal del Chaco",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-25T19:42:00.430168+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 17
+    },
+    {
+      "action": "availability",
+      "id": "dsd-4dmasnoticias",
+      "name": "4Dmás Noticias",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-25T19:42:00.430168+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 5
+    },
+    {
+      "action": "availability",
+      "id": "dsd-centro",
+      "name": "Centro",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-25T19:42:00.430168+00:00"
+      },
+      "consecutiveFailures": 12,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}

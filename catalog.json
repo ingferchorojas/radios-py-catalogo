@@ -662,9 +662,8 @@
       "source": "https://www.desdeparaguay.com/1020",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-25T19:42:00.430168+00:00"
       }
     },
     {
@@ -1316,9 +1315,8 @@
       "source": "https://www.desdeparaguay.com/mix",
       "verifiedAt": "2026-11-02",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-17T23:46:00.681797+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-25T19:42:00.430168+00:00"
       }
     },
     {
@@ -1422,9 +1420,8 @@
       "source": "https://www.desdeparaguay.com/rockandpop",
       "verifiedAt": "2026-10-29",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-25T19:42:00.430168+00:00"
       }
     },
     {
@@ -1915,9 +1912,8 @@
       "source": "https://www.desdeparaguay.com/aquidaban",
       "verifiedAt": "2026-11-23",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-25T19:42:00.430168+00:00"
       }
     },
     {
@@ -2709,9 +2705,8 @@
       "source": "https://www.desdeparaguay.com/saltosdelguaira",
       "verifiedAt": "2026-11-23",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-25T19:42:00.430168+00:00"
       }
     },
     {
@@ -2745,9 +2740,8 @@
       "source": "https://www.desdeparaguay.com/ciudad",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-24T16:45:00.065290+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-25T19:42:00.430168+00:00"
       }
     },
     {
@@ -2781,9 +2775,8 @@
       "source": "https://www.desdeparaguay.com/tapiracuai",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-25T19:42:00.430168+00:00"
       }
     },
     {
@@ -2958,9 +2951,8 @@
       "source": "https://www.desdeparaguay.com/itapora",
       "verifiedAt": "2026-11-23",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-25T19:42:00.430168+00:00"
       }
     },
     {
@@ -3413,9 +3405,8 @@
       "source": "https://www.desdeparaguay.com/portaldelchaco",
       "verifiedAt": "2026-11-19",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-25T19:42:00.430168+00:00"
       }
     },
     {
@@ -3449,9 +3440,8 @@
       "source": "https://www.desdeparaguay.com/4dmasnoticias",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-25T19:42:00.430168+00:00"
       }
     },
     {
@@ -3485,8 +3475,9 @@
       "source": "https://www.desdeparaguay.com/centro",
       "verifiedAt": "2026-11-21",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-25T19:42:00.430168+00:00"
       }
     },
     {
