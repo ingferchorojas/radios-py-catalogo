@@ -1,0 +1,40 @@
+{
+  "baseCommit": "4ee5cd795f4935542441bf4f9fadb24729efc815",
+  "createdAt": "2026-11-25T10:14:47.252106+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-aranduka",
+      "name": "Aranduka",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-25T10:14:46.378142+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-concepcion",
+      "name": "Concepción",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-25T10:14:46.378142+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-agr",
+      "name": "AGR",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-25T10:14:46.378142+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}

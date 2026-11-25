@@ -768,9 +768,8 @@
       "source": "https://www.desdeparaguay.com/aranduka",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-25T10:14:46.378142+00:00"
       }
     },
     {
@@ -1952,9 +1951,8 @@
       "source": "https://www.desdeparaguay.com/concepcion",
       "verifiedAt": "2026-11-19",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-25T10:14:46.378142+00:00"
       }
     },
     {
@@ -2225,9 +2223,8 @@
       "source": "https://www.desdeparaguay.com/agr",
       "verifiedAt": "2026-11-23",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-25T10:14:46.378142+00:00"
       }
     },
     {
