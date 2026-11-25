@@ -1,0 +1,250 @@
+{
+  "baseCommit": "41e49202f505a8566fca16149f4859c3046bc160",
+  "createdAt": "2026-11-25T09:45:20.580655+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "nacional-san-pedro",
+      "name": "Radio Nacional San Pedro",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1020",
+      "name": "Ñanduti",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+      },
+      "consecutiveFailures": 18,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-aranduka",
+      "name": "Aranduka",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+      },
+      "consecutiveFailures": 36,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-exclusiva",
+      "name": "Exclusiva",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 4
+    },
+    {
+      "action": "availability",
+      "id": "dsd-rockandpop",
+      "name": "Rock & Pop",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+      },
+      "consecutiveFailures": 18,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-aquidaban",
+      "name": "Aquidabán",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+      },
+      "consecutiveFailures": 21,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-concepcion",
+      "name": "Concepción",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+      },
+      "consecutiveFailures": 26,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-agr",
+      "name": "AGR",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+      },
+      "consecutiveFailures": 30,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-arapy",
+      "name": "Arapy",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 30
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1069",
+      "name": "Pilar Pilar",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 31
+    },
+    {
+      "action": "availability",
+      "id": "dsd-piribebuy",
+      "name": "Piribebuy",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 4
+    },
+    {
+      "action": "availability",
+      "id": "dsd-saltosdelguaira",
+      "name": "Multi",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+      },
+      "consecutiveFailures": 34,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-tapiracuai",
+      "name": "Tapiracuai",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+      },
+      "consecutiveFailures": 32,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-unasur",
+      "name": "Unasur",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 30
+    },
+    {
+      "action": "availability",
+      "id": "dsd-itapora",
+      "name": "Ita Pora",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+      },
+      "consecutiveFailures": 22,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-700",
+      "name": "Carlos A. López",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 3
+    },
+    {
+      "action": "availability",
+      "id": "dsd-portaldelchaco",
+      "name": "Portal del Chaco",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+      },
+      "consecutiveFailures": 22,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-4dmasnoticias",
+      "name": "4Dmás Noticias",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+      },
+      "consecutiveFailures": 31,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-centro",
+      "name": "Centro",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 2
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1059",
+      "name": "Nacional San Pedro",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-ycuamandyyu",
+      "name": "Ycuamandyyú",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-25T09:45:19.619588+00:00"
+      },
+      "consecutiveFailures": 31,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
