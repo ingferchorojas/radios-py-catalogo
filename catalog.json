@@ -3405,8 +3405,9 @@
       "source": "https://www.desdeparaguay.com/portaldelchaco",
       "verifiedAt": "2026-11-19",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-25T19:42:00.430168+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-25T21:42:54.809872+00:00"
       }
     },
     {
