@@ -1,0 +1,152 @@
+{
+  "baseCommit": "dfdae4747d08a2ef3cf070ce32da99b5e54d7768",
+  "createdAt": "2026-11-26T20:41:28.662375+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "nacional-fm",
+      "name": "Radio Nacional del Paraguay FM",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-26T20:41:27.684938+00:00"
+      },
+      "consecutiveFailures": 12,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-serrania",
+      "name": "Serranía",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-26T20:41:27.684938+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 6
+    },
+    {
+      "action": "availability",
+      "id": "dsd-caraguatay",
+      "name": "Caraguatay",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-26T20:41:27.684938+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 26
+    },
+    {
+      "action": "availability",
+      "id": "dsd-piribebuy",
+      "name": "Piribebuy",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-26T20:41:27.684938+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 26
+    },
+    {
+      "action": "availability",
+      "id": "dsd-pueblo",
+      "name": "Pueblo",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-26T20:41:27.684938+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 21
+    },
+    {
+      "action": "availability",
+      "id": "dsd-itapora",
+      "name": "Ita Pora",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-26T20:41:27.684938+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 24
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1420",
+      "name": "Guyrá Campana",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-26T20:41:27.684938+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 24
+    },
+    {
+      "action": "availability",
+      "id": "dsd-700",
+      "name": "Carlos A. López",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-26T20:41:27.684938+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 26
+    },
+    {
+      "action": "availability",
+      "id": "dsd-portaldelchaco",
+      "name": "Portal del Chaco",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-26T20:41:27.684938+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 3
+    },
+    {
+      "action": "availability",
+      "id": "dsd-4dmasnoticias",
+      "name": "4Dmás Noticias",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-26T20:41:27.684938+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 4
+    },
+    {
+      "action": "availability",
+      "id": "dsd-centro",
+      "name": "Centro",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-26T20:41:27.684938+00:00"
+      },
+      "consecutiveFailures": 9,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1200",
+      "name": "Libre",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-26T20:41:27.684938+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 20
+    },
+    {
+      "action": "availability",
+      "id": "dsd-mdq",
+      "name": "MDQ",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-26T20:41:27.684938+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 25
+    }
+  ]
+}
