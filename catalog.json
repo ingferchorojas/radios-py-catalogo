@@ -3484,9 +3484,8 @@
       "source": "https://www.desdeparaguay.com/centro",
       "verifiedAt": "2026-11-21",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-25T19:42:00.430168+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-26T07:44:49.474940+00:00"
       }
     },
     {
