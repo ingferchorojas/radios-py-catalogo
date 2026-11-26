@@ -1,0 +1,18 @@
+{
+  "baseCommit": "2693562ee3c01ef4991d662708e022ae0ed2ef2a",
+  "createdAt": "2026-11-26T21:41:17.375020+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-altopy",
+      "name": "Alto Paraguay",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-26T21:41:16.429670+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
