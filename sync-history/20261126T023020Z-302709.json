@@ -1,0 +1,91 @@
+{
+  "baseCommit": "e99c1acb5e1305e961e7bc3d448ff714e95692b3",
+  "createdAt": "2026-11-26T02:45:06.633715+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "nacional-san-pedro",
+      "name": "Radio Nacional San Pedro",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-26T02:45:05.700245+00:00"
+      },
+      "consecutiveFailures": 8,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-itapora",
+      "name": "Ita Pora",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-26T02:45:05.700245+00:00"
+      },
+      "consecutiveFailures": 7,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1420",
+      "name": "Guyrá Campana",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-26T02:45:05.700245+00:00"
+      },
+      "consecutiveFailures": 5,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-700",
+      "name": "Carlos A. López",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-26T02:45:05.700245+00:00"
+      },
+      "consecutiveFailures": 4,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-4dmasnoticias",
+      "name": "4Dmás Noticias",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-26T02:45:05.700245+00:00"
+      },
+      "consecutiveFailures": 8,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1059",
+      "name": "Nacional San Pedro",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-26T02:45:05.700245+00:00"
+      },
+      "consecutiveFailures": 8,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1200",
+      "name": "Libre",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-26T02:45:05.700245+00:00"
+      },
+      "consecutiveFailures": 8,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
