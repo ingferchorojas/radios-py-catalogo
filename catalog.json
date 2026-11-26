@@ -1880,9 +1880,8 @@
       "source": "https://www.desdeparaguay.com/660",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "silence",
-        "checkedAt": "2026-11-26T03:15:32.688664+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-26T07:15:05.703590+00:00"
       }
     },
     {
@@ -2091,9 +2090,8 @@
       "source": "https://www.desdeparaguay.com/capital",
       "verifiedAt": "2026-11-18",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-26T03:45:35.616286+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-26T07:15:05.703590+00:00"
       }
     },
     {
