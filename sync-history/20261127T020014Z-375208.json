@@ -1,0 +1,55 @@
+{
+  "baseCommit": "1de1b6620f3b04070ad304ee3c3936a2b23ecea1",
+  "createdAt": "2026-11-27T02:14:40.976005+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-arandu",
+      "name": "Arandú",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/arandu",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://zn1radios.desdeparaguay.net/movarandu/movarandu.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/arandu"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-26",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-ciudad",
+      "name": "Ciudad",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/ciudad",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movciudad/movciudad.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/ciudad"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-26",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-700",
+      "name": "Carlos A. López",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-27T02:14:40.132835+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}

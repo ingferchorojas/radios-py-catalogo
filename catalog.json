@@ -2657,19 +2657,19 @@
           "url": "https://www.desdeparaguay.com/arandu",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movarandu/movarandu.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movarandu/movarandu.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/arandu"
         },
         {
           "url": "https://www.desdeparaguay.com/arandu",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movarandu/movarandu.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movarandu/movarandu.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/arandu"
         }
       ],
       "source": "https://www.desdeparaguay.com/arandu",
-      "verifiedAt": "2026-11-06",
+      "verifiedAt": "2026-11-26",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-20T08:42:49.862704+00:00"
@@ -2728,19 +2728,19 @@
           "url": "https://www.desdeparaguay.com/ciudad",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movciudad/movciudad.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movciudad/movciudad.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/ciudad"
         },
         {
           "url": "https://www.desdeparaguay.com/ciudad",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movciudad/movciudad.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movciudad/movciudad.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/ciudad"
         }
       ],
       "source": "https://www.desdeparaguay.com/ciudad",
-      "verifiedAt": "2026-11-05",
+      "verifiedAt": "2026-11-26",
       "availability": {
         "status": "available",
         "checkedAt": "2026-11-25T19:42:00.430168+00:00"
@@ -3373,8 +3373,9 @@
       "source": "https://www.desdeparaguay.com/700",
       "verifiedAt": "2026-11-20",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-26T20:41:27.684938+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-27T02:14:40.132835+00:00"
       }
     },
     {
