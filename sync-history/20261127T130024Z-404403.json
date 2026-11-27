@@ -1,0 +1,102 @@
+{
+  "baseCommit": "52c627746c33deab2059353d5870eb028514aee3",
+  "createdAt": "2026-11-27T13:13:52.172373+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-conquistador",
+      "name": "Conquistador",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/conquistador",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/transcamara/transcamara/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/conquistador"
+      },
+      "action": "add_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-27",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "nacional-fm",
+      "name": "Radio Nacional del Paraguay FM",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-27T13:13:51.207170+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 5
+    },
+    {
+      "action": "availability",
+      "id": "dsd-serrania",
+      "name": "Serranía",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-27T13:13:51.207170+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 11
+    },
+    {
+      "action": "availability",
+      "id": "dsd-660",
+      "name": "Regional",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-27T13:13:51.207170+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 13
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1420",
+      "name": "Guyrá Campana",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-27T13:13:51.207170+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 9
+    },
+    {
+      "action": "availability",
+      "id": "dsd-700",
+      "name": "Carlos A. López",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-27T13:13:51.207170+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 11
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1200",
+      "name": "Libre",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-27T13:13:51.207170+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 10
+    },
+    {
+      "action": "availability",
+      "id": "dsd-mdq",
+      "name": "MDQ",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-27T13:13:51.207170+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 10
+    }
+  ]
+}
