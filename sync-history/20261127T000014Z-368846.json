@@ -1,0 +1,85 @@
+{
+  "baseCommit": "26ec6f9c6c9ecd0ce44225ac88c470b30b81ada4",
+  "createdAt": "2026-11-27T00:13:36.217082+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-caraguatay",
+      "name": "Caraguatay",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/caraguatay",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movcaraguatay/movcaraguatay.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/caraguatay"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-26",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-abc",
+      "name": "ABC",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/abc",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/trans730/trans730cde/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/abc"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-26",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "id": "dsd-660",
+      "name": "Regional",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/660",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/mov660/mov660.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/660"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-26",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "action": "availability",
+      "id": "dsd-portaldelchaco",
+      "name": "Portal del Chaco",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-27T00:13:35.354212+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-mdq",
+      "name": "MDQ",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-27T00:13:35.354212+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
