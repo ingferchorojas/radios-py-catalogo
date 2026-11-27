@@ -1,0 +1,64 @@
+{
+  "baseCommit": "ba20f97f288078442cbb245d01bf0575136c77ec",
+  "createdAt": "2026-11-27T22:16:35.906025+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-delsol",
+      "name": "Del Sol",
+      "availability": {
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-11-27T22:16:34.955717+00:00"
+      },
+      "consecutiveFailures": 7,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-itapora",
+      "name": "Ita Pora",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-27T22:16:34.955717+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-portaldelchaco",
+      "name": "Portal del Chaco",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-27T22:16:34.955717+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-4dmasnoticias",
+      "name": "4Dmás Noticias",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-27T22:16:34.955717+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 2
+    },
+    {
+      "action": "availability",
+      "id": "dsd-centro",
+      "name": "Centro",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-27T22:16:34.955717+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 17
+    }
+  ]
+}
