@@ -2706,8 +2706,9 @@
       "source": "https://www.desdeparaguay.com/saltosdelguaira",
       "verifiedAt": "2026-11-23",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-25T19:42:00.430168+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-27T01:43:36.486941+00:00"
       }
     },
     {
@@ -2846,8 +2847,9 @@
       "source": "https://www.desdeparaguay.com/pueblo",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-26T20:41:27.684938+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-27T01:43:36.486941+00:00"
       }
     },
     {
@@ -3335,8 +3337,9 @@
       "source": "https://www.desdeparaguay.com/1420",
       "verifiedAt": "2026-11-09",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-26T20:41:27.684938+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-27T01:43:36.486941+00:00"
       }
     },
     {
