@@ -1,0 +1,64 @@
+{
+  "baseCommit": "613abd9378efbcafd1c7d69a56386b457ea9c6c3",
+  "createdAt": "2026-11-28T10:12:28.543962+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "nacional-san-pedro",
+      "name": "Radio Nacional San Pedro",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-28T10:12:27.660991+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1300",
+      "name": "Fe y Alegría",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-28T10:12:27.660991+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-883",
+      "name": "Ñemby",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-28T10:12:27.660991+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-capital",
+      "name": "Capital",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-28T10:12:27.660991+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-1059",
+      "name": "Nacional San Pedro",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-28T10:12:27.660991+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}

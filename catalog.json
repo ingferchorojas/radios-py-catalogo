@@ -180,9 +180,8 @@
       "source": "https://mediosdelestado.gov.py/radios/",
       "verifiedAt": "2026-10-27",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-26T02:45:05.700245+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-28T10:12:27.660991+00:00"
       }
     },
     {
@@ -488,8 +487,9 @@
       "source": "https://www.desdeparaguay.com/1300",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-10-30T09:16:11.189568+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-28T10:12:27.660991+00:00"
       }
     },
     {
@@ -1393,8 +1393,9 @@
       "source": "https://www.desdeparaguay.com/883",
       "verifiedAt": "2026-11-01",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-06T17:15:17.829670+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-28T10:12:27.660991+00:00"
       }
     },
     {
@@ -2094,9 +2095,8 @@
       "source": "https://www.desdeparaguay.com/capital",
       "verifiedAt": "2026-11-18",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-28T03:46:04.928156+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-28T10:12:27.660991+00:00"
       }
     },
     {
@@ -3522,9 +3522,8 @@
       ],
       "verifiedAt": "2026-11-18",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-26T02:45:05.700245+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-28T10:12:27.660991+00:00"
       }
     },
     {
