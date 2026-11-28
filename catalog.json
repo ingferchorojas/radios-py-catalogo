@@ -2060,8 +2060,9 @@
       "source": "https://www.desdeparaguay.com/kaaguazu",
       "verifiedAt": "2026-11-26",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-23T09:43:58.054253+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-28T00:51:10.310984+00:00"
       }
     },
     {
