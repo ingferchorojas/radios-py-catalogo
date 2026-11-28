@@ -2784,9 +2784,8 @@
       "source": "https://www.desdeparaguay.com/tapiracuai",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-28T09:13:34.308718+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-28T10:42:03.123036+00:00"
       }
     },
     {
@@ -2855,9 +2854,8 @@
       "source": "https://www.desdeparaguay.com/pueblo",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-27T01:43:36.486941+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-28T10:42:03.123036+00:00"
       }
     },
     {

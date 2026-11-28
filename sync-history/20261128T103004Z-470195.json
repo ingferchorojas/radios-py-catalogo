@@ -1,0 +1,29 @@
+{
+  "baseCommit": "990c6bc0269f78bd01ec65bb40be49d848fbea0f",
+  "createdAt": "2026-11-28T10:42:04.059716+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-tapiracuai",
+      "name": "Tapiracuai",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-28T10:42:03.123036+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-pueblo",
+      "name": "Pueblo",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-28T10:42:03.123036+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
