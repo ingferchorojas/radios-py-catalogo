@@ -1,0 +1,29 @@
+{
+  "baseCommit": "5a1b758bccc05bdc6e3ff3ebe893152baf1eafef",
+  "createdAt": "2026-11-28T12:42:06.798994+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-883",
+      "name": "Ñemby",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-28T12:42:05.856027+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    },
+    {
+      "action": "availability",
+      "id": "dsd-concierto",
+      "name": "Concierto",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-28T12:42:05.856027+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
