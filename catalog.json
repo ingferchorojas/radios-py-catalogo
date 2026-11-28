@@ -1887,9 +1887,8 @@
       "source": "https://www.desdeparaguay.com/660",
       "verifiedAt": "2026-11-26",
       "availability": {
-        "status": "unavailable",
-        "reason": "silence",
-        "checkedAt": "2026-11-28T03:46:04.928156+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-28T07:15:05.415352+00:00"
       }
     },
     {
@@ -2049,14 +2048,14 @@
           "url": "https://www.desdeparaguay.com/kaaguazu",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/kaaguazu"
         },
         {
           "url": "https://www.desdeparaguay.com/kaaguazu",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/kaaguazu"
         }
       ],
@@ -3479,23 +3478,22 @@
           "url": "https://www.desdeparaguay.com/centro",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://zn1radios.desdeparaguay.net/movcentro/movcentro.stream/playlist.m3u8",
+          "endpoint": "https://rds3.desdeparaguay.net/movcentro/movcentro.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/centro"
         },
         {
           "url": "https://www.desdeparaguay.com/centro",
           "format": "hls",
           "resolver": "desdeparaguay",
-          "endpoint": "https://rds3.desdeparaguay.net/movcentro/movcentro.stream/playlist.m3u8",
+          "endpoint": "https://zn1radios.desdeparaguay.net/movcentro/movcentro.stream/playlist.m3u8",
           "source": "https://www.desdeparaguay.com/centro"
         }
       ],
       "source": "https://www.desdeparaguay.com/centro",
-      "verifiedAt": "2026-11-21",
+      "verifiedAt": "2026-11-28",
       "availability": {
-        "status": "unavailable",
-        "reason": "connection",
-        "checkedAt": "2026-11-27T23:50:49.711891+00:00"
+        "status": "available",
+        "checkedAt": "2026-11-28T07:15:05.415352+00:00"
       }
     },
     {
