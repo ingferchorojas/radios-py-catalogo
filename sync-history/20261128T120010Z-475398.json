@@ -1,0 +1,19 @@
+{
+  "baseCommit": "0a1194ce566e3270c668e9ecf1f20231518a0abe",
+  "createdAt": "2026-11-28T12:12:20.844660+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-ciudad",
+      "name": "Ciudad",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-28T12:12:19.872859+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    }
+  ]
+}
