@@ -2506,8 +2506,9 @@
       "source": "https://www.desdeparaguay.com/multiradio",
       "verifiedAt": "2026-11-05",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-20T19:41:57.209178+00:00"
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-28T13:42:23.917346+00:00"
       }
     },
     {
@@ -3607,8 +3608,9 @@
       ],
       "verifiedAt": "2026-11-28",
       "availability": {
-        "status": "available",
-        "checkedAt": "2026-11-28T06:15:59.592904+00:00"
+        "status": "unavailable",
+        "reason": "silence",
+        "checkedAt": "2026-11-28T13:42:23.917346+00:00"
       }
     },
     {
