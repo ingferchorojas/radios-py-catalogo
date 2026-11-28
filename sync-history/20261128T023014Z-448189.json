@@ -1,0 +1,25 @@
+{
+  "baseCommit": "df83946429a735eeff2230de8ba997d7fbfde700",
+  "createdAt": "2026-11-28T02:45:39.330842+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "id": "dsd-kaaguazu",
+      "name": "Kaaguazú",
+      "stream": {
+        "url": "https://www.desdeparaguay.com/kaaguazu",
+        "format": "hls",
+        "resolver": "desdeparaguay",
+        "endpoint": "https://rds3.desdeparaguay.net/movkaaguazu/movkaaguazu.stream/playlist.m3u8",
+        "source": "https://www.desdeparaguay.com/kaaguazu"
+      },
+      "action": "promote_stream",
+      "position": "prepend",
+      "verifiedAt": "2026-11-27",
+      "confirmations": [
+        8.0,
+        8.0
+      ]
+    }
+  ]
+}
