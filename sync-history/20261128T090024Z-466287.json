@@ -1,0 +1,30 @@
+{
+  "baseCommit": "ca7e05ce8e8e7f41b9377ed82cea22e2c6f02ecd",
+  "createdAt": "2026-11-28T09:13:35.193578+00:00",
+  "method": "Source-published links, two fresh-page audio confirmations; previous stations and streams retained",
+  "changes": [
+    {
+      "action": "availability",
+      "id": "dsd-tapiracuai",
+      "name": "Tapiracuai",
+      "availability": {
+        "status": "unavailable",
+        "reason": "connection",
+        "checkedAt": "2026-11-28T09:13:34.308718+00:00"
+      },
+      "consecutiveFailures": 3,
+      "consecutiveSuccesses": 0
+    },
+    {
+      "action": "availability",
+      "id": "dsd-itapora",
+      "name": "Ita Pora",
+      "availability": {
+        "status": "available",
+        "checkedAt": "2026-11-28T09:13:34.308718+00:00"
+      },
+      "consecutiveFailures": 0,
+      "consecutiveSuccesses": 1
+    }
+  ]
+}
